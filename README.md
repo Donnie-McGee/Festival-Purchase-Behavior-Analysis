@@ -8,7 +8,7 @@ This project explores the purchasing behavior of attendees at a 3-day music fest
 
 To analyze how the type of ticket purchased (e.g., General, VIP, Full Pass) reflects differences in attendee profiles, payment preferences, attendance patterns, and overall satisfaction. The aim is to provide actionable insights to event organizers and marketing teams.
 
-## Key Business Questions
+### Key Business Questions
 
 - What are the most popular ticket types?
 - How do ticket preferences vary by age, gender, and musical taste?
