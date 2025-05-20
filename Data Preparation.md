@@ -12,3 +12,4 @@ Prior to preparation, I dived in the dataset to get familiar with it using Panda
 Once studied this first approach, I proceed to inspect, clean and optimise the columns _'gender'_, _'was_present'_ and _'recommended_to_friend'_:
 
 ### _Column 'gender'_:
+
