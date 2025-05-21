@@ -23,4 +23,4 @@ To clean _"gender"_ these steps were taken:
   4.- Change the column's type to category: Doing so, I'm saving resources and time during the analysis, since this practice will encode the values ("Male" as 1, "Female" as 2, "Other" as 3, for example) preparing the dataset for later. 
   5.- Overwrite dataset: Otherwise, the changes would only occur during the Python script is running. The data base must be updated.
 
-asdf
+
