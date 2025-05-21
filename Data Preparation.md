@@ -18,4 +18,4 @@ Since the dataset counts 140 null values for _"gender"_ (this represent less tha
 To clean _"gender"_ these steps were taken:
 
   1.- Normalize the distribution: Doing so, I have a proper understanding of each value's the percentage. This will help me later to randomly distribute the null values among the 3 possibilities we have for _"gender"_
- 	2.- 
+ 	2.- sdfghjk
