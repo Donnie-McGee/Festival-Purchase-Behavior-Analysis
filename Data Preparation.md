@@ -16,5 +16,6 @@ Once studied this first approach, I proceed to inspect, clean and optimise the c
 Since the dataset counts 140 null values for _"gender"_ (this represent less than a 1%), I decided to proportionally assign them to "Male", "Female" and "Other" (all 3 non-null values found during the survey).
 
 To clean _"gender"_ these steps were taken:
-a
-    1.- Normalize the distribution: Doing so, I have a proper understanding of each value's the percentage. This will help me later to randomly distribute the null values among the 3 possibilities we have for _"gender"_
+
+  1.- Normalize the distribution: Doing so, I have a proper understanding of each value's the percentage. This will help me later to randomly distribute the null values among the 3 possibilities we have for _"gender"_
+ 	2.- 
