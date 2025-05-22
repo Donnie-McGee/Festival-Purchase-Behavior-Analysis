@@ -17,9 +17,9 @@ Since the dataset counts 140 null values for _"gender"_ (this represent less tha
 
 To clean _"gender"_ these steps were taken:
 
-  1.- Normalize the distribution: Doing so, I have a proper understanding of each value's the percentage. This will help me later to randomly distribute the null values among the 3 possibilities we have for _"gender"_.
- 	2.- Locate the null values in the dataset.
-  3.- Replace them: In this step I'll change each null-value to one of the possible values following the proportion calculated in Step 1 and the locations from Step 2. This will provide consistency in the metrics.
+1.- Normalize the distribution: Doing so, I have a proper understanding of each value's the percentage. This will help me later to randomly distribute the null values among the 3 possibilities we have for _"gender"_.
+2.- Locate the null values in the dataset.
+3.- Replace them: In this step I'll change each null-value to one of the possible values following the proportion calculated in Step 1 and the locations from Step 2. This will provide consistency in the metrics.
   4.- Change the column's type to category: Doing so, I'm saving resources and time during the analysis, since this practice will encode the values ("Male" as 1, "Female" as 2, "Other" as 3, for example) preparing the dataset for later. 
   5.- Overwrite dataset: Otherwise, the changes would only occur during the Python script is running. The data base must be updated.
 
