@@ -3,36 +3,31 @@ import numpy as np
 
 df = pd.read_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\festival_dataset_dirty_from_uploaded_v2.csv")
 
-
 # This part of the code provides an overview of the dataset, spaced, so each function is easier to read.
 
 print(df.shape)
-print("\n\n")
+print("\n")
 print(df.head())
-print("\n\n")
+print("\n")
 print(df.info())
-print("\n\n")
+print("\n")
 print(df.describe())
-print("\n\n")
+print("\n")
 print(df.isnull().sum())
-print("\n\n")
+print("\n")
 print(df.duplicated().sum())
-print("\n\n")
+print("\n")
 print(df.nunique())
-print("\n\n")
+print("\n")
 print(df.columns)
-print("\n\n")
+print("\n")
 
-
+# --- Gender column ---
+# Null values management
 
 # Count the number of unique values in each column
 # Used to understand the dataset better
-print("Gender:")
 print(df['gender'].value_counts(dropna=False))
-
-
-# --- Null management ---
-# This part of the code is used to manage null values in the dataset.
 
 # gender_dist will store the normalized distribution
 gender_dist = df["gender"].value_counts(normalize=True)
@@ -52,20 +47,22 @@ df.loc[mask, "gender"] = np.random.choice(
 )
 
 # Check if there are any null values left in the dataset
-print("Gender:")
 print(df['gender'].value_counts(dropna=False))
-
-# Overwrite the original dataset with the new one
-# This will ensure that the original dataset is updated with the new values
-# Index=False will ensure that the index is not written to the file
-# This is important because the index is not needed in the final dataset
-df.to_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\festival_dataset_dirty_from_uploaded_v2.csv", index=False)
 
 # Changes the data type to category, which is more efficient for categorical data
 df["gender"] = df["gender"].astype("category")
 print(df["gender"].dtype)
 
+# Overwrite the original dataset with the new values
+# Index=False will ensure that the index is not written to the file
+# This is important because the index is not needed in the final dataset
+df.to_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\festival_dataset_dirty_from_uploaded_v2.csv", index=False)
+
+
+
+# --- Ticket Type column ---
 # Same steps to clean "ticket_type" column as we followed for "gender" column
+# Visualization of counts of each ticket type has been dropped for a more readable code
 print(df["ticket_type"].value_counts(dropna=False))
 
 type_dist = df["ticket_type"].value_counts(normalize=True)
