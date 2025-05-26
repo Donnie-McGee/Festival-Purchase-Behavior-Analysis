@@ -46,3 +46,15 @@ Had a typo easy to clean: _"nO" -> "No"_
 ### _Clean columns_:
 
 All other columns are clean: they contain no null values, no typos and all the values they have are logical and consistent.
+
+### Data Type convertion:
+
+Once the cleaning process is finished, I've converted the columns to specific type:
+
+1. Category: All the string values will be assigned this type ("ticket_id", "origin_city"...)
+2. Int: Integers ("age", "ticket_price", "satisfaction_score"...) 
+3. Float: Decimal numbers ("food_expense", "drink_expense", "merch_expense")
+4. Bool: Those that contain dicotomical values ("was_present", "recommend_to_friend")
+5. Datetime: All values related to time ("purchase_date", "attendance_date")
+
+This ensures each column will be processed according to the information it contains.
