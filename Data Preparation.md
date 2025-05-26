@@ -27,4 +27,22 @@ To clean _"gender"_ these steps were taken:
 
 This column follows the same pattern as _"gender"_: 140 null values and 3 possible values with similar probabilities, so the steps taken will be the same.
 
+### _Column "was_present"_:
 
+Had a typo easy to clean: _"Yess" -> "Yes"_
+
+### _Column "payment_method"_:
+
+Had a typo easy to clean: _"cash " -> "Cash"_
+
+### _Column "favourite_genre"_:
+
+Had a typo easy to clean: _"hiphop" -> "Hip-Hop"_
+
+### _Column "recommend_to_friend"_:
+
+Had a typo easy to clean: _"nO" -> "No"_
+
+### _Clean columns_:
+
+All other columns are clean: they contain no null values, no typos and all the values they have are logical and consistent.
