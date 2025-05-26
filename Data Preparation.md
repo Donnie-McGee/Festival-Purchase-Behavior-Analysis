@@ -47,7 +47,7 @@ Had a typo easy to clean: _"nO" -> "No"_
 
 All other columns are clean: they contain no null values, no typos and all the values they have are logical and consistent.
 
-### Data Type convertion:
+## Data Type convertion:
 
 Once the cleaning process is finished, I've converted the columns to specific type:
 
