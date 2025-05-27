@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\festival_dataset_dirty_from_uploaded_v2.csv")
+df = pd.read_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\festival_dataset_dirty.csv")
 
 # This part of the code provides an overview of the dataset, spaced, so each function is easier to read.
 
@@ -126,10 +126,11 @@ df['purchase_date'] = pd.to_datetime(df['purchase_date'])
 df['attendance_date'] = pd.to_datetime(df['attendance_date'])
 
 # Conversión de hora
-df['entry_time'] = pd.to_datetime(df['entry_time'], format='%H:%M').dt.time
+df['entry_time'] = pd.to_datetime(df['entry_time'], format='%H:%M:%S').dt.time
 
-# Overwrite the original dataset with the new values
-# Index=False will ensure that the index is not written to the file
-# This is important because the index is not needed in the final dataset
-df.to_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\festival_dataset_dirty_from_uploaded_v2.csv", index=False)
+# # Overwrite the original dataset with the new values
+# # Index=False will ensure that the index is not written to the file
+# # This is important because the index is not needed in the final dataset
+# df.to_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\festival_dataset_clean.csv", index=False)
 
+print(df.dtypes)
