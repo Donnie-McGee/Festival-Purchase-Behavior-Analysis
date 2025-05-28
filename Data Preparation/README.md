@@ -55,9 +55,6 @@ The following columns contained small, easily correctable errors:
 
 As part of the data cleaning process, I removed leading and trailing spaces from all values across the dataset. Additionally, I replaced occurrences of multiple consecutive spaces with a single space to ensure consistency.
 
-E.g.
-- "3     Days" → "3 Days"
-
 ### Verifying Clean Columns
 
 All remaining columns have been reviewed and are clean. They contain:
