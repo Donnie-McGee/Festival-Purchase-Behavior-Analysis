@@ -98,10 +98,22 @@ for col in df.columns:
       # It will replace multiple spaces with a single space
         df[col] = df[col].str.replace(r'\s+', ' ', regex=True)
 
+# Mapping values to boolean
+# The clean dataset didn't have False values, so I mapped them
 df["recommend_to_friend"] = df["recommend_to_friend"].map({
     "Yes": True,
     "No": False
 })
+
+# Drop unnecessary columns
+df = df.drop(["ticket_id",
+         "attendee_id",
+         "entry_time", 
+         "purchase_date", 
+         "was_present", 
+         "transport_used",
+         "top_artist_seen", 
+         "origin_city"], axis=1)
 
 # Type conversion
 # With it, we ensure that the data types are appropriate for analysis and optimize memory usage
@@ -132,3 +144,5 @@ df['attendance_date'] = pd.to_datetime(df['attendance_date'])
 df.to_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\Datasets\festival_dataset_clean.csv", index=False)
 
 print(df.dtypes)
+
+df.describe(include='all')
