@@ -33,7 +33,6 @@ The distribution in this column is less balanced than in *"gender"*, but the sam
 
 The following columns contained small, easily correctable errors:
 
-- *"was_present"*: "Yess" → "Yes"
 - *"payment_method"*: "cash " → "Cash"
 - *"favourite_genre"*: "hiphop" → "Hip-Hop"
 - *"favourite_genre"*: "Regueton" → "Reggaeton"

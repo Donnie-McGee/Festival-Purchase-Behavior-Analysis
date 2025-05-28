@@ -86,6 +86,10 @@ df["payment_method"] = df["payment_method"].replace({"cash ": "Cash"})
 df["favourite_genre"] = df["favourite_genre"].replace("hiphop", "Hip-Hop")
 df["recommend_to_friend"] = df["recommend_to_friend"].replace({"nO": "No"})
 
+print(df.dtypes)
+
+print(df["recommend_to_friend"].value_counts(dropna=False))
+
 # Strips leading and trailing whitespace from all string columns
 for col in df.columns:
     if df[col].dtype == 'object':
@@ -93,6 +97,11 @@ for col in df.columns:
         df[col] = df[col].str.strip()
       # It will replace multiple spaces with a single space
         df[col] = df[col].str.replace(r'\s+', ' ', regex=True)
+
+df["recommend_to_friend"] = df["recommend_to_friend"].map({
+    "Yes": True,
+    "No": False
+})
 
 # Type conversion
 # With it, we ensure that the data types are appropriate for analysis and optimize memory usage
@@ -118,8 +127,10 @@ df = df.astype({
     'satisfaction_score': 'int',
     'security_rating': 'int',
     'cleanliness_rating': 'int',
-    'recommend_to_friend': 'bool'
+    'recommend_to_friend': 'bool',
 })
+
+
 
 # Conversión de fechas
 df['purchase_date'] = pd.to_datetime(df['purchase_date'])
@@ -131,6 +142,6 @@ df['entry_time'] = pd.to_datetime(df['entry_time'], format='%H:%M:%S').dt.time
 # # Overwrite the original dataset with the new values
 # # Index=False will ensure that the index is not written to the file
 # # This is important because the index is not needed in the final dataset
-# df.to_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\festival_dataset_clean.csv", index=False)
+df.to_csv(r"C:\Users\PC\Desktop\Estudio\Analisis de Datos\Proyectos\Festival Purchase Behavior Analysis\Datasets\festival_dataset_clean.csv", index=False)
 
 print(df.dtypes)
