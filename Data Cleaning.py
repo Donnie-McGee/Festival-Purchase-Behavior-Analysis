@@ -106,15 +106,10 @@ df["recommend_to_friend"] = df["recommend_to_friend"].map({
 # Type conversion
 # With it, we ensure that the data types are appropriate for analysis and optimize memory usage
 df = df.astype({
-    'ticket_id': 'category',
     'ticket_type': 'category',
     'ticket_price': 'int',
-    'was_present': 'bool',
-    'attendee_id': 'category',
     'age': 'int',
     'gender': 'category',
-    'origin_city': 'category',
-    'transport_used': 'category',
     'group_size': 'int',
     'food_expense': 'float',
     'drink_expense': 'float',
@@ -122,22 +117,14 @@ df = df.astype({
     'payment_method': 'category',
     'favourite_genre': 'category',
     'stages_visited': 'int',
-    'top_artist_seen': 'category',
-    'hours_spent': 'float',
     'satisfaction_score': 'int',
     'security_rating': 'int',
     'cleanliness_rating': 'int',
-    'recommend_to_friend': 'bool',
+    'recommend_to_friend': 'bool'
 })
 
-
-
-# Conversión de fechas
-df['purchase_date'] = pd.to_datetime(df['purchase_date'])
+# Date conversion
 df['attendance_date'] = pd.to_datetime(df['attendance_date'])
-
-# Conversión de hora
-df['entry_time'] = pd.to_datetime(df['entry_time'], format='%H:%M:%S').dt.time
 
 # # Overwrite the original dataset with the new values
 # # Index=False will ensure that the index is not written to the file
