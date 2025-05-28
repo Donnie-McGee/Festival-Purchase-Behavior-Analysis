@@ -11,6 +11,19 @@ Prior to preparation, I dived into the dataset to get familiar with it using Pan
 
 After this initial exploration, I proceeded to handle the null values.
 
+## Dropping Unnecessary Columns
+
+To streamline the dataset and optimize processing time, I removed several columns that are not relevant to the analysis. This helps reduce noise and improve overall clarity. The dropped columns are:
+
+- *"attendee_id"*
+- *"entry_time"*
+- *"origin_city"*
+- *"purchase_date"*
+- *"ticket_id"*
+- *"top_artist_seen*
+- *"transport_used"*
+- *"was_present"*
+
 ## Null values management:
 
 ### Column *"gender"*: 
@@ -25,7 +38,7 @@ To clean *"gender"* these steps were taken:
 4. Change the column's type to category: This saves resources and time during analysis, as it encodes the values (e.g., *"Male"* as 1, *"Female"* as 2, *"Other"* as 3), preparing the dataset for later steps.
 5. Overwrite dataset: Otherwise, the changes would only occur during the Python script's execution. The dataset must be updated.
 
-### Column *"ticket_type"*: 
+### Column *"ticket_type"*:
 
 The distribution in this column is less balanced than in *"gender"*, but the same procedure was applied, since the number of null values represents only about 2% of the sample.
 
@@ -38,9 +51,20 @@ The following columns contained small, easily correctable errors:
 - *"favourite_genre"*: "Regueton" → "Reggaeton"
 - *"recommend_to_friend"*: "nO" → "No"
 
-### Clean columns:
+### Trimming Extra Spaces
 
-All other columns are clean: they contain no null values, no typos and all the values they have are logical and consistent.
+As part of the data cleaning process, I removed leading and trailing spaces from all values across the dataset. Additionally, I replaced occurrences of multiple consecutive spaces with a single space to ensure consistency.
+
+E.g.
+- "3     Days" → "3 Days"
+
+### Verifying Clean Columns
+
+All remaining columns have been reviewed and are clean. They contain:
+
+- No null values
+- No typos
+- Logical and consistent data throughout
 
 ## Data Type Conversion:
 
