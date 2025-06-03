@@ -8,6 +8,7 @@ Prior to preparation, I dived into the dataset to get familiar with it using Pan
 - Columns *"payment_method"*, *"favourite_genre"* and *"recommend_to_friend"* contain typos, which requires an in-depth inspection.
 - Despite null values, some columns seem to be 100% structurally clean, like *"ticket_type"*, *"ticket_price"* and *"attendance_date"*. Still, they have to be checked out.
 - *"attendee_id"* and *"ticket_id"* have fewer unique values than rows in the dataset, which could indicate duplicates or shared IDs across records. This requires closer examination.
+- Unconsistent *"ticket_price"* across the data base.
 
 After this initial exploration, I proceeded to handle the null values.
 
@@ -42,6 +43,21 @@ To clean *"gender"* these steps were taken:
 
 The distribution in this column is less balanced than in *"gender"*, but the same procedure was applied, since the number of null values represents only about 2% of the sample.
 
+## Making *"ticket_price"* consistent
+
+In the original dataset there are only three distinct prices (80, 150, and 350), but they’ve been assigned inconsistently. For example, some entries labeled as “VIP” have a price of 80, and some “1-Day” tickets show a price of 350.
+
+To fix this, we apply a fixed mapping so that each ticket type always corresponds to the same price:
+
+- **1-Day** → 80  
+- **3-Day** → 210  
+- **VIP**   → 350  
+
+This ensures that, regardless of how they appeared in the raw data, all “1-Day” tickets become 80, all “3-Day” tickets become 210, and all “VIP” tickets become 350.
+
+
+## Typos and spaces
+
 ### Columns with minor typos
 
 The following columns contained small, easily correctable errors:
@@ -55,7 +71,7 @@ The following columns contained small, easily correctable errors:
 
 As part of the data cleaning process, I removed leading and trailing spaces from all values across the dataset. Additionally, I replaced occurrences of multiple consecutive spaces with a single space to ensure consistency.
 
-### Verifying Clean Columns
+## Verifying Clean Columns
 
 All remaining columns have been reviewed and are clean. They contain:
 
