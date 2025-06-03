@@ -8,5 +8,8 @@ In order to simulate realistic behavior and enrich the analysis, I introduced co
 
 This way, the depths of the insights will be richer and will also make the project more enjoyable and meaningful to work with.
 
-## satisfaction_score
+## Column *"satisfaction_score"*
 
+Originally, the unique values in *"satisfaction_score"* were limited to [5, 6, 7, 9], which doesn’t reflect the range of real attendee experiences. In reality, ratings tend to vary more widely (from 1 to 10) depending on each person’s expectations, mood, and outcomes during the festival. 
+
+To make the project follow a more realistic distribution, I designed a custom probability model and used it to randomly assign values across the dataset.
