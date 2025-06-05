@@ -28,7 +28,7 @@ To better simulate this variability, I created custom probability distributions 
 
 In reality, people tend to pay with cash or card more often than with the festival app; larger groups are more frequent than individuals; most attendees visit more than two stages. To reflect this natural imbalance, I manually adjusted the distributions of *"payment_method"*, *"group_size"*, and *"stages_visited"*.
 
-#### Column *"age"*
+### Column *"age"*
 
 I applied a random normal distribution to this field, as it best simulates a realistic age spread.. I thought this would be the best fit for the column to behave realisticly. I clipped the values to ensure a minimum of 18 and a maximum of 59, meaning any outliers below or above those limits were automatically set to the nearest boundary.
 
