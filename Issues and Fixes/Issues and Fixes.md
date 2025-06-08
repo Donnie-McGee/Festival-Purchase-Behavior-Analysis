@@ -1,6 +1,6 @@
 # Issues and Fixes
 
-Here I will share the major obstacles, inconvenients, razoning, progresses and fixes I faced while developing my first data analysis project. Some points have been organically explained in a different section (links to those sections will be provided, in order to avoid repetition across sections), while some deserve their space here, since they needed a deeper thought and coding process.
+Here I will share the major obstacles, inconvenients, razoning, progresses and fixes I faced while developing my first data analysis project. Some points have been organically explained in a different section (links will be provided, in order to avoid repetition across sections), while some deserve their space here, since they needed a deeper thought and coding process.
 
 ## Shapening my data base
 
