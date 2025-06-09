@@ -2,7 +2,7 @@
 
 ## Why?
 
-The dataset used in this project was generated with the help of AI. Although this provides structure and consistency, it also means the data lacks the chaotic imperfections and variability that real-world datasets often have. This can be seen in the [Data Survey section](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/develop/1.-%20Data%20Preparation/Data_base_Cleaning.ipynb).
+The dataset used in this project was generated with the help of AI. Although this provides structure and consistency, it also means the data lacks the chaotic imperfections and variability that real-world datasets often have. This can be seen in the [Data Survey section](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/1.-%20Data%20Survey/Data%20Survey.ipynb).
 
 In order to simulate realistic behavior and enrich the analysis, I introduced controlled modifications to some key columns. These changes were designed to make the data more dynamic to what one would expect in a real festival.
 
