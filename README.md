@@ -10,11 +10,11 @@ To analyze how the type of ticket purchased (e.g., General, VIP, Full Pass) refl
 
 ### Key Business Questions
 
-- What are the most popular ticket types?
 - How do ticket preferences vary by age, gender, and musical taste?
 - Are certain ticket types associated with specific payment methods?
-- Do people who attend multiple days tend to choose a particular ticket?
-- Is there a link between ticket type and satisfaction or likelihood to recommend the festival?
+- Does group size influence the total spending during the festival?
+- Does the type of ticket influence the likelihood to recommend the festival?
+- Is there a correlation between overall experience ratings and the likelihood to recommend the festival?
 
 ## Tools Used
 
