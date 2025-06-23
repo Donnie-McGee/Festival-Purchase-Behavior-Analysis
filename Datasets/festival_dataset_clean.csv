@@ -1,7 +1,7 @@
 ticket_id,ticket_type,attendance_date,age,gender,group_size,food_expense,drink_expense,merch_expense,payment_method,favourite_genre,satisfaction_score,security_rating,cleanliness_rating,recommend_to_friend
 TCK102187,3-day Pass,2025-05-02,18,Female,5,15.38,50.74,78.35,Cash,Pop,8,10,6,True
 TCK105186,3-day Pass,2025-05-03,28,Male,3,27.45,57.04,48.7,Card,Pop,9,8,9,True
-TCK107469,1-day Pass,2025-05-03,20,Female,4,12.38,45.05,56.57,Card,Rock,4,10,8,True
+TCK107469,3-day Pass,2025-05-03,20,Female,4,12.38,45.05,56.57,Card,Rock,4,10,8,True
 TCK102961,3-day Pass,2025-05-01,18,Female,3,47.83,53.21,10.78,Cash,Hip-Hop,5,8,2,False
 TCK107515,3-day Pass,2025-05-01,28,Male,1,37.65,18.95,11.05,Festival App,Hip-Hop,1,7,3,True
 TCK100898,3-day Pass,2025-05-03,25,Male,3,44.24,37.72,50.84,Card,Rock,8,8,7,True
@@ -50,13 +50,13 @@ TCK108986,1-day Pass,2025-05-02,20,Other,4,20.16,50.51,21.8,Card,Pop,8,2,5,True
 TCK106205,3-day Pass,2025-05-03,25,Male,3,24.7,12.29,75.64,Card,Pop,3,9,9,True
 TCK102003,1-day Pass,2025-05-03,31,Male,3,36.43,39.62,55.32,Card,Hip-Hop,2,8,7,True
 TCK103499,3-day Pass,2025-05-01,27,Male,1,31.66,29.14,91.11,Card,Rock,8,7,3,False
-TCK109136,1-day Pass,2025-05-01,26,Male,2,20.98,9.08,38.31,Card,Hip-Hop,7,9,6,False
+TCK109136,3-day Pass,2025-05-01,26,Male,2,20.98,9.08,38.31,Card,Hip-Hop,7,9,6,False
 TCK104019,VIP,2025-05-03,23,Male,2,26.33,23.98,24.38,Card,Hip-Hop,6,7,3,True
 TCK101464,3-day Pass,2025-05-01,23,Male,5,17.69,33.3,11.93,Card,Electronic,9,8,10,True
 TCK109234,3-day Pass,2025-05-01,27,Female,5,22.48,41.08,38.64,Cash,Pop,2,9,7,True
 TCK102701,VIP,2025-05-02,18,Female,2,17.01,2.72,89.26,Card,Hip-Hop,3,6,3,True
 TCK105975,3-day Pass,2025-05-03,20,Male,4,10.86,8.83,80.5,Cash,Hip-Hop,8,6,1,True
-TCK108511,1-day Pass,2025-05-02,31,Other,2,23.6,18.99,56.63,Cash,Rock,8,9,2,True
+TCK108511,3-day Pass,2025-05-02,31,Other,2,23.6,18.99,56.63,Cash,Rock,8,9,2,True
 TCK107872,3-day Pass,2025-05-02,23,Female,4,38.62,11.79,29.03,Card,Rock,1,7,2,True
 TCK100403,3-day Pass,2025-05-01,24,Female,2,28.3,56.06,87.44,Card,Hip-Hop,8,10,7,True
 TCK101056,1-day Pass,2025-05-01,27,Male,2,9.32,20.25,45.21,Card,Rock,8,5,2,False
@@ -114,7 +114,7 @@ TCK104138,3-day Pass,2025-05-02,30,Female,3,37.28,20.65,35.88,Card,Pop,4,9,6,Tru
 TCK100415,VIP,2025-05-01,19,Male,4,25.91,19.56,84.43,Cash,Rock,1,4,8,True
 TCK107730,3-day Pass,2025-05-01,29,Female,5,13.45,41.94,78.7,Card,Rock,6,10,3,True
 TCK107080,VIP,2025-05-01,18,Female,3,5.33,44.93,62.53,Cash,Hip-Hop,5,7,5,False
-TCK102601,3-day Pass,2025-05-03,25,Male,3,43.29,26.53,98.17,Card,Hip-Hop,8,10,9,False
+TCK102601,1-day Pass,2025-05-03,25,Male,3,43.29,26.53,98.17,Card,Hip-Hop,8,10,9,False
 TCK102880,VIP,2025-05-02,31,Male,3,34.79,3.63,8.1,Card,Rock,8,7,6,False
 TCK100114,3-day Pass,2025-05-03,27,Female,5,18.92,3.04,27.4,Card,Hip-Hop,8,9,2,True
 TCK108368,3-day Pass,2025-05-03,27,Female,3,44.1,14.06,43.75,Card,Hip-Hop,1,7,10,True
@@ -193,7 +193,7 @@ TCK109093,3-day Pass,2025-05-01,26,Female,4,39.9,38.38,81.22,Cash,Reggaeton,5,9,
 TCK106053,3-day Pass,2025-05-01,23,Female,5,20.41,55.88,53.03,Cash,Hip-Hop,1,9,5,False
 TCK104578,3-day Pass,2025-05-03,23,Female,2,6.45,21.14,23.3,Card,Reggaeton,9,8,8,True
 TCK106563,1-day Pass,2025-05-01,18,Female,4,36.81,40.78,7.12,Card,Rock,8,7,3,True
-TCK107952,3-day Pass,2025-05-02,18,Female,2,6.89,6.52,73.09,Cash,Rock,7,8,2,False
+TCK107952,3-day Pass,2025-05-02,18,Male,2,6.89,6.52,73.09,Cash,Rock,7,8,2,False
 TCK109274,3-day Pass,2025-05-01,19,Female,3,7.03,12.73,20.98,Card,Pop,9,10,1,True
 TCK105358,3-day Pass,2025-05-02,32,Female,5,20.49,18.94,80.77,Card,Pop,3,7,1,False
 TCK101006,3-day Pass,2025-05-03,21,Male,3,41.45,44.18,86.46,Card,Pop,1,9,4,True
@@ -245,7 +245,7 @@ TCK106537,1-day Pass,2025-05-03,19,Female,4,31.85,53.22,7.64,Card,Reggaeton,2,7,
 TCK103471,3-day Pass,2025-05-01,18,Male,2,40.35,17.0,67.6,Card,Hip-Hop,4,10,9,False
 TCK109282,3-day Pass,2025-05-02,32,Male,5,19.92,12.1,13.38,Cash,Pop,3,7,4,True
 TCK101984,3-day Pass,2025-05-03,27,Female,4,1.84,57.23,51.61,Card,Pop,5,7,9,True
-TCK101747,3-day Pass,2025-05-02,27,Male,1,8.47,1.04,56.55,Card,Pop,8,8,10,False
+TCK101747,3-day Pass,2025-05-02,27,Female,1,8.47,1.04,56.55,Card,Pop,8,8,10,False
 TCK109065,3-day Pass,2025-05-02,27,Male,2,2.83,21.93,23.32,Card,Pop,7,8,2,True
 TCK105309,1-day Pass,2025-05-01,18,Female,3,19.66,15.34,74.73,Card,Electronic,4,9,2,True
 TCK103863,3-day Pass,2025-05-02,20,Male,4,47.63,22.42,77.76,Cash,Electronic,6,6,3,True
@@ -301,7 +301,7 @@ TCK107447,VIP,2025-05-03,26,Male,2,25.94,49.61,29.39,Cash,Rock,8,8,2,False
 TCK108274,VIP,2025-05-01,28,Male,2,32.14,26.44,41.8,Card,Electronic,5,9,6,True
 TCK107371,1-day Pass,2025-05-03,23,Female,5,43.52,27.06,16.29,Cash,Pop,9,9,3,True
 TCK100668,VIP,2025-05-01,19,Female,3,27.23,15.22,83.02,Card,Rock,8,9,6,True
-TCK105236,3-day Pass,2025-05-03,25,Male,4,20.54,13.46,63.98,Cash,Rock,8,8,3,True
+TCK105236,1-day Pass,2025-05-03,25,Male,4,20.54,13.46,63.98,Cash,Rock,8,8,3,True
 TCK106690,1-day Pass,2025-05-03,32,Female,3,29.51,3.5,79.8,Card,Reggaeton,5,8,4,True
 TCK105897,3-day Pass,2025-05-01,22,Male,2,2.26,40.06,42.49,Cash,Pop,9,10,6,False
 TCK102058,1-day Pass,2025-05-03,29,Female,1,17.2,28.89,52.48,Cash,Pop,8,10,1,True
@@ -329,7 +329,7 @@ TCK104547,3-day Pass,2025-05-03,25,Female,2,1.19,24.16,40.19,Card,Reggaeton,8,6,
 TCK105470,VIP,2025-05-02,28,Male,5,36.95,0.73,33.74,Cash,Electronic,8,10,2,True
 TCK103160,1-day Pass,2025-05-02,18,Male,3,36.37,14.84,88.55,Cash,Rock,7,8,7,True
 TCK105047,VIP,2025-05-03,23,Female,3,21.32,33.57,96.85,Cash,Reggaeton,5,8,4,True
-TCK101343,3-day Pass,2025-05-03,29,Other,4,10.64,28.8,54.4,Cash,Rock,1,8,5,False
+TCK101343,3-day Pass,2025-05-03,29,Male,4,10.64,28.8,54.4,Cash,Rock,1,8,5,False
 TCK107841,3-day Pass,2025-05-02,21,Female,4,26.67,59.88,55.06,Card,Hip-Hop,4,7,6,False
 TCK108330,1-day Pass,2025-05-02,23,Female,4,9.34,39.5,0.81,Cash,Hip-Hop,6,7,7,True
 TCK105794,3-day Pass,2025-05-02,20,Female,5,8.78,17.06,71.39,Cash,Rock,8,7,3,True
@@ -421,7 +421,7 @@ TCK105594,3-day Pass,2025-05-02,25,Male,3,2.92,23.71,85.3,Card,Pop,1,9,6,True
 TCK105520,3-day Pass,2025-05-02,30,Female,1,44.46,50.05,12.1,Cash,Reggaeton,8,8,3,False
 TCK106835,3-day Pass,2025-05-01,28,Female,3,1.43,28.9,36.14,Card,Pop,6,7,4,False
 TCK102740,3-day Pass,2025-05-01,24,Other,4,14.46,46.37,75.73,Cash,Rock,8,6,6,True
-TCK105371,1-day Pass,2025-05-01,25,Female,4,41.82,8.59,84.34,Card,Electronic,7,8,3,False
+TCK105371,VIP,2025-05-01,25,Female,4,41.82,8.59,84.34,Card,Electronic,7,8,3,False
 TCK103773,1-day Pass,2025-05-02,31,Female,1,42.9,18.64,7.51,Card,Hip-Hop,9,10,9,True
 TCK105882,3-day Pass,2025-05-02,31,Male,4,40.42,8.81,63.81,Card,Hip-Hop,4,7,9,False
 TCK107393,1-day Pass,2025-05-02,26,Female,5,35.05,26.98,25.61,Cash,Pop,6,8,5,True
@@ -430,7 +430,7 @@ TCK102790,VIP,2025-05-03,28,Female,4,48.64,48.06,42.71,Festival App,Hip-Hop,7,1,
 TCK107708,1-day Pass,2025-05-03,29,Female,2,37.29,48.09,6.26,Cash,Pop,9,7,7,False
 TCK101386,3-day Pass,2025-05-01,22,Male,5,28.37,40.07,17.14,Cash,Pop,9,4,2,True
 TCK102562,1-day Pass,2025-05-02,21,Male,2,28.18,23.39,71.85,Card,Electronic,6,7,4,True
-TCK106571,3-day Pass,2025-05-03,18,Male,1,25.82,55.07,61.71,Cash,Pop,5,1,6,True
+TCK106571,1-day Pass,2025-05-03,18,Male,1,25.82,55.07,61.71,Cash,Pop,5,1,6,True
 TCK108984,1-day Pass,2025-05-02,24,Male,4,31.49,52.54,32.02,Card,Pop,8,9,5,True
 TCK105553,3-day Pass,2025-05-01,20,Female,2,6.96,6.75,71.52,Cash,Rock,1,7,6,False
 TCK106633,3-day Pass,2025-05-03,26,Female,1,18.49,34.87,77.2,Card,Reggaeton,8,7,9,True
@@ -466,7 +466,7 @@ TCK102334,3-day Pass,2025-05-01,31,Male,1,8.94,40.72,2.5,Card,Hip-Hop,1,6,3,True
 TCK100190,3-day Pass,2025-05-03,22,Female,3,18.59,10.56,33.37,Card,Rock,8,8,9,True
 TCK104821,3-day Pass,2025-05-01,18,Female,2,37.35,15.22,73.76,Card,Pop,1,10,2,False
 TCK104943,3-day Pass,2025-05-03,28,Male,3,13.93,43.63,32.91,Festival App,Hip-Hop,1,9,3,False
-TCK104065,3-day Pass,2025-05-03,29,Male,4,38.96,29.73,11.04,Card,Hip-Hop,8,8,5,True
+TCK104065,3-day Pass,2025-05-03,29,Female,4,38.96,29.73,11.04,Card,Hip-Hop,8,8,5,True
 TCK101717,VIP,2025-05-01,28,Male,5,17.77,26.57,50.2,Card,Reggaeton,1,8,7,True
 TCK106294,3-day Pass,2025-05-01,33,Male,5,6.96,14.52,80.99,Cash,Rock,8,7,3,True
 TCK106380,3-day Pass,2025-05-03,22,Male,1,49.62,48.33,35.05,Card,Reggaeton,4,2,4,True
@@ -485,7 +485,7 @@ TCK105734,3-day Pass,2025-05-02,18,Other,4,36.89,26.82,37.45,Card,Reggaeton,4,9,
 TCK106822,3-day Pass,2025-05-01,28,Male,5,36.64,11.01,41.39,Card,Hip-Hop,6,9,6,True
 TCK106615,3-day Pass,2025-05-03,25,Female,4,8.84,24.26,40.96,Cash,Hip-Hop,1,7,2,False
 TCK109200,3-day Pass,2025-05-03,18,Female,2,30.83,16.08,49.01,Card,Hip-Hop,8,2,6,True
-TCK102353,3-day Pass,2025-05-01,18,Male,3,35.08,36.44,70.82,Festival App,Rock,1,10,3,True
+TCK102353,3-day Pass,2025-05-01,18,Female,3,35.08,36.44,70.82,Festival App,Rock,1,10,3,True
 TCK108717,1-day Pass,2025-05-03,20,Female,4,18.84,11.56,15.45,Card,Rock,8,6,2,False
 TCK107914,1-day Pass,2025-05-02,18,Male,4,32.42,44.01,68.0,Cash,Hip-Hop,9,9,3,True
 TCK106403,1-day Pass,2025-05-01,23,Male,1,1.83,42.12,54.51,Card,Pop,1,8,2,False
@@ -497,12 +497,12 @@ TCK105670,1-day Pass,2025-05-02,18,Female,3,12.09,19.96,65.85,Cash,Pop,5,6,10,Tr
 TCK101174,3-day Pass,2025-05-02,26,Male,2,16.88,53.26,82.55,Card,Rock,4,9,2,True
 TCK102209,VIP,2025-05-02,30,Female,3,25.43,19.66,84.4,Card,Pop,4,8,3,True
 TCK103277,VIP,2025-05-02,29,Male,2,12.74,33.16,45.86,Cash,Electronic,8,8,3,True
-TCK101571,3-day Pass,2025-05-03,27,Female,4,7.5,2.64,30.9,Cash,Reggaeton,2,10,2,False
+TCK101571,VIP,2025-05-03,27,Female,4,7.5,2.64,30.9,Cash,Reggaeton,2,10,2,False
 TCK107093,VIP,2025-05-02,18,Female,1,48.63,30.06,88.83,Card,Reggaeton,8,6,9,True
 TCK105738,3-day Pass,2025-05-01,30,Other,1,33.77,58.98,7.56,Card,Pop,8,8,4,True
 TCK105624,3-day Pass,2025-05-02,25,Male,3,23.01,3.8,18.68,Card,Electronic,9,8,2,True
 TCK107011,3-day Pass,2025-05-03,30,Female,2,32.83,42.58,69.83,Cash,Pop,8,8,6,False
-TCK106031,3-day Pass,2025-05-03,23,Female,1,21.77,54.66,88.58,Cash,Rock,5,9,8,True
+TCK106031,1-day Pass,2025-05-03,23,Female,1,21.77,54.66,88.58,Cash,Rock,5,9,8,True
 TCK107417,VIP,2025-05-02,21,Male,5,21.55,55.36,2.57,Card,Electronic,9,7,6,True
 TCK103487,3-day Pass,2025-05-02,29,Female,1,2.97,9.94,3.28,Festival App,Rock,7,10,2,True
 TCK109168,3-day Pass,2025-05-02,18,Female,5,28.56,38.73,1.65,Card,Rock,6,10,2,False
@@ -568,7 +568,7 @@ TCK100896,3-day Pass,2025-05-03,28,Female,4,44.81,56.74,25.12,Card,Reggaeton,6,8
 TCK105811,1-day Pass,2025-05-01,29,Female,3,9.08,9.86,59.37,Card,Pop,7,6,7,True
 TCK102134,3-day Pass,2025-05-02,28,Female,5,47.82,26.5,67.36,Cash,Pop,5,6,6,True
 TCK104602,VIP,2025-05-01,18,Female,3,48.64,8.47,81.87,Card,Hip-Hop,7,10,3,False
-TCK109004,VIP,2025-05-03,31,Female,3,27.87,41.36,69.61,Card,Rock,2,9,5,True
+TCK109004,VIP,2025-05-03,31,Male,3,27.87,41.36,69.61,Card,Rock,2,9,5,True
 TCK105065,3-day Pass,2025-05-03,28,Female,2,14.89,14.4,67.56,Card,Pop,6,7,6,False
 TCK107090,3-day Pass,2025-05-03,24,Male,1,23.07,56.82,80.96,Card,Hip-Hop,10,7,2,False
 TCK107010,3-day Pass,2025-05-03,20,Female,3,2.49,59.17,56.11,Card,Rock,4,6,7,False
@@ -636,7 +636,7 @@ TCK102229,3-day Pass,2025-05-02,18,Male,2,4.87,57.18,85.22,Card,Pop,7,10,7,False
 TCK103082,1-day Pass,2025-05-01,20,Male,5,31.32,59.71,38.06,Cash,Electronic,4,6,7,True
 TCK101143,1-day Pass,2025-05-03,18,Male,3,38.33,43.96,20.42,Card,Pop,5,6,3,False
 TCK108583,3-day Pass,2025-05-02,21,Female,3,20.17,24.33,72.25,Card,Rock,5,7,5,True
-TCK105725,1-day Pass,2025-05-02,25,Female,3,47.45,13.06,46.08,Card,Rock,6,5,3,True
+TCK105725,3-day Pass,2025-05-02,25,Female,3,47.45,13.06,46.08,Card,Rock,6,5,3,True
 TCK102206,3-day Pass,2025-05-02,22,Male,4,24.31,57.78,59.92,Cash,Rock,6,8,7,False
 TCK101441,VIP,2025-05-03,24,Male,3,46.44,38.36,51.37,Card,Rock,4,8,2,True
 TCK107944,1-day Pass,2025-05-02,30,Female,3,3.5,50.55,11.73,Card,Pop,6,10,5,True
@@ -758,7 +758,7 @@ TCK100263,3-day Pass,2025-05-02,18,Female,5,14.79,26.34,19.11,Cash,Rock,8,10,6,T
 TCK107225,VIP,2025-05-01,21,Male,5,23.58,8.52,19.99,Card,Reggaeton,10,9,6,False
 TCK104409,VIP,2025-05-03,24,Male,3,24.59,45.08,71.5,Cash,Pop,10,6,2,True
 TCK107185,3-day Pass,2025-05-01,19,Female,1,38.53,59.86,14.49,Card,Rock,8,7,8,True
-TCK101061,3-day Pass,2025-05-01,19,Female,4,22.98,30.94,13.15,Card,Hip-Hop,4,2,5,False
+TCK101061,1-day Pass,2025-05-01,19,Female,4,22.98,30.94,13.15,Card,Hip-Hop,4,2,5,False
 TCK104642,1-day Pass,2025-05-01,24,Male,4,5.71,1.5,31.27,Cash,Rock,1,6,3,True
 TCK100836,1-day Pass,2025-05-01,23,Male,5,21.74,28.05,90.42,Festival App,Rock,2,6,1,True
 TCK106169,3-day Pass,2025-05-02,29,Male,4,28.18,57.42,82.21,Card,Rock,2,6,6,False
@@ -787,7 +787,7 @@ TCK105900,3-day Pass,2025-05-02,28,Female,5,34.62,30.13,76.89,Card,Electronic,10
 TCK103996,3-day Pass,2025-05-03,18,Male,4,18.89,17.28,45.55,Festival App,Reggaeton,7,7,4,True
 TCK105114,VIP,2025-05-02,18,Female,2,46.0,1.82,90.52,Card,Reggaeton,7,8,2,True
 TCK105224,VIP,2025-05-03,18,Male,4,12.28,22.7,9.23,Card,Rock,8,9,3,True
-TCK105067,VIP,2025-05-02,31,Female,1,43.09,7.6,29.35,Card,Rock,1,7,4,True
+TCK105067,3-day Pass,2025-05-02,31,Female,1,43.09,7.6,29.35,Card,Rock,1,7,4,True
 TCK108744,3-day Pass,2025-05-01,22,Female,4,26.51,7.86,12.93,Card,Electronic,8,9,3,False
 TCK107302,3-day Pass,2025-05-02,28,Female,3,0.19,11.02,5.65,Card,Hip-Hop,7,10,4,True
 TCK106391,VIP,2025-05-03,28,Male,2,39.88,8.79,25.96,Card,Pop,8,8,3,True
@@ -818,7 +818,7 @@ TCK102326,3-day Pass,2025-05-01,22,Female,4,27.74,53.71,91.85,Card,Rock,6,7,2,Tr
 TCK105307,3-day Pass,2025-05-03,27,Female,5,8.0,30.31,14.41,Cash,Pop,1,9,9,True
 TCK101049,VIP,2025-05-02,20,Female,4,30.9,26.55,49.21,Card,Electronic,5,9,6,False
 TCK102090,1-day Pass,2025-05-02,26,Female,4,22.43,10.74,96.57,Card,Reggaeton,6,6,7,False
-TCK100762,1-day Pass,2025-05-02,29,Female,1,7.69,4.2,26.25,Card,Rock,9,2,4,True
+TCK100762,1-day Pass,2025-05-02,29,Other,1,7.69,4.2,26.25,Card,Rock,9,2,4,True
 TCK107117,VIP,2025-05-03,25,Female,2,28.06,10.86,31.8,Card,Rock,8,7,6,True
 TCK106614,3-day Pass,2025-05-01,28,Female,5,8.39,35.55,49.02,Card,Reggaeton,8,7,6,True
 TCK107659,3-day Pass,2025-05-03,23,Male,3,7.99,43.98,26.9,Cash,Rock,4,8,3,True
@@ -928,7 +928,7 @@ TCK103880,VIP,2025-05-02,23,Male,4,24.74,49.53,82.84,Cash,Hip-Hop,3,8,7,False
 TCK100570,3-day Pass,2025-05-03,29,Other,1,35.55,28.32,95.98,Card,Reggaeton,8,9,6,True
 TCK103635,3-day Pass,2025-05-03,32,Male,2,16.48,7.34,14.9,Cash,Rock,8,7,5,False
 TCK108103,3-day Pass,2025-05-01,18,Male,5,19.52,41.34,54.09,Card,Hip-Hop,4,7,6,False
-TCK107682,3-day Pass,2025-05-01,23,Male,1,33.75,1.63,19.69,Card,Pop,8,10,7,False
+TCK107682,3-day Pass,2025-05-01,23,Female,1,33.75,1.63,19.69,Card,Pop,8,10,7,False
 TCK102196,VIP,2025-05-02,22,Male,4,17.63,42.25,25.96,Card,Hip-Hop,1,5,2,True
 TCK105860,3-day Pass,2025-05-02,19,Other,4,36.85,30.88,95.26,Cash,Electronic,8,10,3,True
 TCK103468,3-day Pass,2025-05-02,24,Male,3,0.05,19.98,12.8,Card,Pop,6,8,3,True
@@ -1195,7 +1195,7 @@ TCK102061,3-day Pass,2025-05-01,23,Male,4,3.2,58.85,26.96,Card,Pop,5,9,10,False
 TCK104072,1-day Pass,2025-05-02,26,Female,1,9.73,38.32,69.67,Card,Hip-Hop,4,9,8,True
 TCK103783,1-day Pass,2025-05-01,29,Female,3,44.55,8.81,13.57,Card,Rock,8,7,9,True
 TCK105164,3-day Pass,2025-05-02,29,Male,3,14.6,11.09,14.62,Cash,Hip-Hop,8,5,6,True
-TCK105468,3-day Pass,2025-05-01,28,Female,1,46.71,42.36,87.06,Card,Reggaeton,1,7,9,True
+TCK105468,VIP,2025-05-01,28,Female,1,46.71,42.36,87.06,Card,Reggaeton,1,7,9,True
 TCK103386,3-day Pass,2025-05-01,25,Female,2,16.23,31.17,18.97,Card,Rock,7,1,2,True
 TCK108366,3-day Pass,2025-05-01,27,Female,4,31.28,29.08,83.04,Cash,Rock,1,10,3,True
 TCK103289,3-day Pass,2025-05-01,26,Other,2,28.2,55.8,2.75,Card,Rock,8,7,4,True
@@ -1320,7 +1320,7 @@ TCK103961,1-day Pass,2025-05-03,24,Female,3,8.03,41.52,25.52,Cash,Electronic,8,9
 TCK103878,1-day Pass,2025-05-02,18,Male,1,7.37,27.39,52.13,Festival App,Rock,8,10,7,True
 TCK107445,3-day Pass,2025-05-03,21,Male,3,36.75,31.63,92.64,Cash,Pop,9,5,4,False
 TCK109219,VIP,2025-05-03,26,Female,3,35.07,28.27,57.25,Cash,Rock,5,9,4,True
-TCK104113,3-day Pass,2025-05-01,18,Female,1,7.5,45.72,62.33,Cash,Hip-Hop,10,9,3,True
+TCK104113,1-day Pass,2025-05-01,18,Female,1,7.5,45.72,62.33,Cash,Hip-Hop,10,9,3,True
 TCK105349,VIP,2025-05-01,30,Female,3,38.13,32.85,65.34,Festival App,Rock,1,8,2,True
 TCK104051,3-day Pass,2025-05-02,31,Female,2,44.33,35.11,15.01,Card,Hip-Hop,6,6,3,True
 TCK102055,3-day Pass,2025-05-02,30,Male,5,29.55,33.74,96.75,Card,Electronic,4,8,6,True
@@ -1360,14 +1360,14 @@ TCK101162,1-day Pass,2025-05-03,21,Male,4,39.91,6.27,98.52,Cash,Reggaeton,8,9,3,
 TCK101913,3-day Pass,2025-05-01,28,Male,3,47.96,35.77,5.69,Cash,Pop,2,6,5,False
 TCK101930,1-day Pass,2025-05-03,18,Male,3,11.82,38.66,50.52,Cash,Pop,8,8,2,True
 TCK103205,1-day Pass,2025-05-01,27,Other,5,16.11,37.72,95.31,Cash,Reggaeton,6,8,7,True
-TCK103764,3-day Pass,2025-05-03,26,Female,3,8.51,1.23,50.63,Card,Hip-Hop,2,7,2,True
+TCK103764,VIP,2025-05-03,26,Female,3,8.51,1.23,50.63,Card,Hip-Hop,2,7,2,True
 TCK104352,3-day Pass,2025-05-01,18,Female,4,4.62,18.36,57.83,Card,Pop,8,9,8,True
 TCK102727,3-day Pass,2025-05-03,27,Male,3,15.49,44.9,42.57,Card,Pop,9,9,3,True
 TCK104441,VIP,2025-05-01,29,Male,3,40.6,11.28,77.01,Card,Pop,8,9,7,False
 TCK101120,VIP,2025-05-01,33,Female,4,1.63,50.85,2.87,Cash,Rock,1,10,4,True
 TCK101572,1-day Pass,2025-05-01,20,Female,2,18.99,33.86,43.86,Card,Rock,4,7,4,True
 TCK102983,3-day Pass,2025-05-03,25,Female,2,2.32,46.05,64.87,Card,Reggaeton,2,7,3,False
-TCK105332,3-day Pass,2025-05-01,28,Other,4,30.23,32.27,52.18,Cash,Rock,8,10,6,True
+TCK105332,1-day Pass,2025-05-01,28,Other,4,30.23,32.27,52.18,Cash,Rock,8,10,6,True
 TCK100022,1-day Pass,2025-05-02,26,Male,1,31.61,3.72,52.27,Card,Rock,8,8,6,True
 TCK100913,3-day Pass,2025-05-03,30,Female,3,9.93,39.89,20.42,Card,Reggaeton,6,6,5,True
 TCK103717,3-day Pass,2025-05-03,18,Male,2,49.87,15.35,32.33,Card,Rock,5,10,3,False
@@ -1380,7 +1380,7 @@ TCK103867,3-day Pass,2025-05-03,24,Male,3,45.81,8.56,16.49,Card,Rock,1,8,9,True
 TCK103844,1-day Pass,2025-05-01,18,Female,3,28.0,46.02,22.47,Cash,Rock,6,9,8,False
 TCK100615,3-day Pass,2025-05-01,18,Male,1,41.88,33.03,27.78,Card,Rock,6,10,2,True
 TCK105533,1-day Pass,2025-05-01,19,Male,1,7.47,55.18,87.67,Card,Hip-Hop,6,9,2,False
-TCK107536,3-day Pass,2025-05-03,26,Female,1,46.91,47.34,15.88,Cash,Hip-Hop,4,6,8,False
+TCK107536,1-day Pass,2025-05-03,26,Female,1,46.91,47.34,15.88,Cash,Hip-Hop,4,6,8,False
 TCK100602,3-day Pass,2025-05-02,25,Female,4,22.93,37.99,33.67,Card,Pop,8,8,5,False
 TCK105157,VIP,2025-05-03,29,Female,4,26.98,59.34,80.5,Card,Rock,1,7,10,False
 TCK104334,3-day Pass,2025-05-03,18,Female,4,20.68,55.61,26.4,Cash,Rock,1,6,3,True
@@ -1433,7 +1433,7 @@ TCK108333,1-day Pass,2025-05-01,27,Female,3,35.25,56.17,4.28,Card,Pop,6,8,2,True
 TCK106357,1-day Pass,2025-05-02,25,Male,3,24.36,47.15,95.42,Cash,Reggaeton,4,8,6,False
 TCK108479,1-day Pass,2025-05-02,18,Female,3,32.91,0.52,2.84,Cash,Reggaeton,5,10,5,True
 TCK108257,3-day Pass,2025-05-02,26,Other,5,22.33,19.44,78.43,Cash,Rock,8,10,7,False
-TCK106442,VIP,2025-05-02,33,Female,5,36.08,4.12,69.57,Card,Reggaeton,8,7,6,True
+TCK106442,3-day Pass,2025-05-02,33,Female,5,36.08,4.12,69.57,Card,Reggaeton,8,7,6,True
 TCK107346,3-day Pass,2025-05-02,18,Female,3,47.92,25.77,78.15,Card,Electronic,6,7,1,False
 TCK107358,3-day Pass,2025-05-03,23,Other,3,20.82,37.36,6.53,Card,Rock,4,8,7,False
 TCK100271,1-day Pass,2025-05-01,21,Female,4,27.51,12.61,98.41,Card,Pop,4,5,2,True
@@ -1466,7 +1466,7 @@ TCK100170,3-day Pass,2025-05-03,28,Female,4,18.27,13.85,15.09,Cash,Rock,2,7,6,Tr
 TCK100406,1-day Pass,2025-05-03,24,Female,3,28.3,16.85,44.78,Card,Electronic,5,10,10,True
 TCK101838,3-day Pass,2025-05-01,18,Female,4,45.49,37.91,16.75,Cash,Rock,7,2,8,True
 TCK102888,3-day Pass,2025-05-02,20,Male,4,48.65,32.09,1.02,Festival App,Hip-Hop,1,9,3,True
-TCK106215,VIP,2025-05-01,26,Other,3,48.2,25.75,40.42,Card,Pop,6,9,3,True
+TCK106215,3-day Pass,2025-05-01,26,Other,3,48.2,25.75,40.42,Card,Pop,6,9,3,True
 TCK104579,3-day Pass,2025-05-01,30,Female,2,22.39,10.25,98.25,Cash,Hip-Hop,6,9,6,False
 TCK104711,1-day Pass,2025-05-03,26,Female,1,34.84,39.65,58.26,Cash,Reggaeton,6,8,4,True
 TCK102474,3-day Pass,2025-05-02,21,Male,3,38.63,22.12,76.24,Card,Rock,5,7,5,True
@@ -1491,7 +1491,7 @@ TCK106468,3-day Pass,2025-05-03,23,Female,4,11.52,50.8,54.32,Card,Rock,8,7,5,Fal
 TCK107157,VIP,2025-05-03,23,Female,3,3.8,14.12,82.86,Card,Hip-Hop,5,7,7,True
 TCK106963,3-day Pass,2025-05-02,35,Other,1,10.01,55.8,35.06,Cash,Reggaeton,9,7,4,True
 TCK107327,VIP,2025-05-01,25,Male,4,39.24,45.23,27.59,Card,Rock,4,7,5,True
-TCK104577,VIP,2025-05-03,30,Male,4,25.79,53.73,63.85,Card,Hip-Hop,1,10,7,True
+TCK104577,3-day Pass,2025-05-03,30,Male,4,25.79,53.73,63.85,Card,Hip-Hop,1,10,7,True
 TCK103829,1-day Pass,2025-05-01,18,Male,5,39.63,45.79,43.88,Card,Rock,6,5,3,True
 TCK101015,3-day Pass,2025-05-03,33,Female,5,23.09,25.54,89.77,Card,Rock,8,10,9,True
 TCK101388,3-day Pass,2025-05-01,18,Female,3,42.43,57.91,81.26,Card,Hip-Hop,5,9,4,False
@@ -1530,7 +1530,7 @@ TCK101121,3-day Pass,2025-05-02,25,Female,4,12.95,36.25,78.94,Cash,Pop,7,8,3,Tru
 TCK100199,3-day Pass,2025-05-03,18,Male,2,8.55,12.53,57.89,Card,Rock,8,8,8,True
 TCK101590,3-day Pass,2025-05-02,30,Female,3,47.84,5.88,21.03,Card,Rock,8,5,9,True
 TCK102389,3-day Pass,2025-05-02,23,Male,2,21.68,26.06,43.04,Cash,Hip-Hop,1,10,10,True
-TCK102703,3-day Pass,2025-05-03,28,Male,5,43.56,54.34,76.63,Card,Reggaeton,7,5,7,False
+TCK102703,3-day Pass,2025-05-03,28,Female,5,43.56,54.34,76.63,Card,Reggaeton,7,5,7,False
 TCK105673,VIP,2025-05-01,27,Female,2,45.58,53.25,83.4,Card,Rock,1,10,3,False
 TCK103829,VIP,2025-05-02,27,Male,5,16.68,6.35,81.5,Card,Reggaeton,8,10,9,False
 TCK100426,3-day Pass,2025-05-01,28,Male,3,48.65,46.42,87.4,Card,Hip-Hop,8,8,2,False
@@ -1558,7 +1558,7 @@ TCK100073,3-day Pass,2025-05-02,19,Female,3,38.53,13.45,43.95,Cash,Rock,7,7,3,Fa
 TCK108928,1-day Pass,2025-05-01,30,Male,4,25.0,25.8,65.45,Card,Rock,8,7,1,False
 TCK100774,3-day Pass,2025-05-01,18,Male,3,28.96,16.94,51.36,Cash,Pop,6,10,7,True
 TCK103246,1-day Pass,2025-05-03,28,Male,5,21.59,18.59,8.22,Card,Reggaeton,2,9,6,True
-TCK104984,1-day Pass,2025-05-01,28,Female,4,49.13,29.72,43.6,Cash,Hip-Hop,8,8,4,True
+TCK104984,3-day Pass,2025-05-01,28,Female,4,49.13,29.72,43.6,Cash,Hip-Hop,8,8,4,True
 TCK100918,1-day Pass,2025-05-02,25,Female,2,37.51,14.21,19.57,Card,Hip-Hop,9,9,3,False
 TCK105139,3-day Pass,2025-05-01,18,Male,3,5.97,28.0,4.46,Card,Electronic,4,8,3,True
 TCK105616,3-day Pass,2025-05-02,21,Female,5,8.25,14.96,16.14,Card,Hip-Hop,2,9,4,True
@@ -1619,7 +1619,7 @@ TCK103346,1-day Pass,2025-05-02,22,Male,3,12.12,43.2,52.36,Card,Hip-Hop,1,7,9,Tr
 TCK103573,3-day Pass,2025-05-03,22,Female,5,8.91,31.16,84.28,Cash,Rock,4,8,6,False
 TCK103135,3-day Pass,2025-05-03,23,Female,5,16.37,30.58,3.14,Card,Rock,2,6,6,True
 TCK103917,3-day Pass,2025-05-03,28,Male,3,31.33,6.51,70.74,Card,Pop,8,10,4,True
-TCK106771,VIP,2025-05-03,26,Female,2,36.81,21.94,89.81,Cash,Pop,10,10,8,True
+TCK106771,1-day Pass,2025-05-03,26,Female,2,36.81,21.94,89.81,Cash,Pop,10,10,8,True
 TCK106211,1-day Pass,2025-05-01,28,Female,5,36.27,33.55,50.15,Card,Pop,5,8,5,True
 TCK101562,3-day Pass,2025-05-02,18,Male,2,26.48,10.98,38.48,Card,Hip-Hop,5,10,5,True
 TCK106006,3-day Pass,2025-05-03,25,Male,5,21.94,59.76,64.24,Card,Hip-Hop,8,9,6,False
@@ -1638,7 +1638,7 @@ TCK103869,1-day Pass,2025-05-03,21,Male,3,2.32,15.95,52.11,Card,Reggaeton,5,7,2,
 TCK108142,VIP,2025-05-03,27,Female,3,16.44,9.25,62.1,Card,Hip-Hop,7,5,3,False
 TCK103158,3-day Pass,2025-05-01,25,Female,3,22.53,33.18,42.85,Cash,Electronic,7,9,5,False
 TCK100494,3-day Pass,2025-05-03,25,Female,3,12.62,52.08,73.83,Card,Pop,4,8,3,False
-TCK103801,3-day Pass,2025-05-02,28,Male,3,29.96,39.78,9.1,Card,Rock,2,8,3,False
+TCK103801,VIP,2025-05-02,28,Male,3,29.96,39.78,9.1,Card,Rock,2,8,3,False
 TCK107733,3-day Pass,2025-05-02,23,Male,4,15.77,1.93,2.08,Card,Rock,8,9,4,True
 TCK100619,3-day Pass,2025-05-02,27,Female,5,47.04,57.34,38.07,Card,Reggaeton,4,10,3,True
 TCK100764,3-day Pass,2025-05-01,23,Female,3,5.52,55.71,73.22,Card,Hip-Hop,7,8,5,True
@@ -1713,7 +1713,7 @@ TCK105563,1-day Pass,2025-05-01,18,Female,5,37.06,14.66,5.73,Cash,Pop,4,8,3,True
 TCK101337,3-day Pass,2025-05-01,18,Other,4,17.18,17.83,90.87,Cash,Hip-Hop,6,7,7,False
 TCK105746,3-day Pass,2025-05-01,18,Female,3,17.36,58.75,82.35,Cash,Rock,1,5,2,False
 TCK100789,3-day Pass,2025-05-02,29,Female,2,12.52,27.62,98.58,Cash,Rock,4,9,2,False
-TCK104330,3-day Pass,2025-05-03,26,Female,2,18.72,49.95,46.82,Card,Rock,6,9,3,True
+TCK104330,3-day Pass,2025-05-03,26,Other,2,18.72,49.95,46.82,Card,Rock,6,9,3,True
 TCK101486,1-day Pass,2025-05-03,19,Female,3,6.79,53.92,74.01,Cash,Pop,4,9,2,False
 TCK103427,VIP,2025-05-01,23,Female,3,9.1,21.06,74.71,Card,Electronic,1,8,7,True
 TCK108275,3-day Pass,2025-05-02,18,Male,2,23.31,57.19,74.98,Card,Hip-Hop,4,6,3,True
@@ -1869,7 +1869,7 @@ TCK105005,1-day Pass,2025-05-03,23,Male,3,8.62,31.46,94.15,Cash,Pop,5,8,6,True
 TCK104556,3-day Pass,2025-05-03,18,Female,3,7.04,24.11,33.06,Card,Hip-Hop,9,10,7,True
 TCK102412,3-day Pass,2025-05-01,18,Female,5,6.14,55.05,62.78,Card,Pop,3,8,6,True
 TCK100626,3-day Pass,2025-05-02,22,Female,4,41.83,36.21,8.14,Card,Rock,6,8,6,True
-TCK101654,3-day Pass,2025-05-03,24,Male,2,3.68,18.49,64.31,Card,Hip-Hop,1,7,3,False
+TCK101654,1-day Pass,2025-05-03,24,Male,2,3.68,18.49,64.31,Card,Hip-Hop,1,7,3,False
 TCK103026,1-day Pass,2025-05-02,27,Male,1,49.68,41.62,15.03,Festival App,Electronic,9,10,5,True
 TCK101027,3-day Pass,2025-05-01,27,Other,2,26.14,9.5,65.39,Cash,Rock,6,6,8,True
 TCK100457,1-day Pass,2025-05-01,18,Male,5,8.96,3.93,62.51,Card,Pop,8,10,9,True
@@ -1913,7 +1913,7 @@ TCK108288,3-day Pass,2025-05-01,18,Female,4,9.65,55.03,10.79,Card,Pop,3,7,1,True
 TCK105089,3-day Pass,2025-05-02,24,Female,2,49.79,51.39,7.03,Cash,Reggaeton,4,8,9,True
 TCK108501,VIP,2025-05-03,28,Male,3,23.77,24.45,11.19,Card,Hip-Hop,4,8,6,False
 TCK100826,1-day Pass,2025-05-01,18,Male,4,16.8,54.9,81.64,Card,Electronic,5,6,7,True
-TCK108904,3-day Pass,2025-05-02,30,Male,4,1.21,37.41,57.77,Card,Pop,8,9,5,True
+TCK108904,VIP,2025-05-02,30,Male,4,1.21,37.41,57.77,Card,Pop,8,9,5,True
 TCK103677,3-day Pass,2025-05-03,18,Female,2,33.71,7.52,2.81,Cash,Rock,8,7,6,True
 TCK100071,1-day Pass,2025-05-03,22,Male,3,30.36,40.85,23.14,Cash,Pop,5,10,3,True
 TCK105806,3-day Pass,2025-05-02,21,Female,3,3.9,22.43,55.62,Cash,Pop,9,8,8,True
@@ -1928,7 +1928,7 @@ TCK100649,3-day Pass,2025-05-02,25,Female,5,46.1,43.34,82.21,Card,Hip-Hop,8,7,6,
 TCK102739,3-day Pass,2025-05-03,25,Female,4,5.45,53.79,12.99,Cash,Hip-Hop,8,10,7,False
 TCK103120,3-day Pass,2025-05-02,26,Female,3,46.47,22.52,51.38,Cash,Rock,7,7,4,True
 TCK104109,3-day Pass,2025-05-01,25,Male,3,13.61,43.45,62.8,Cash,Electronic,6,9,3,False
-TCK108833,1-day Pass,2025-05-03,25,Female,2,13.16,15.11,49.92,Card,Pop,8,8,9,False
+TCK108833,3-day Pass,2025-05-03,25,Female,2,13.16,15.11,49.92,Card,Pop,8,8,9,False
 TCK102495,1-day Pass,2025-05-02,30,Female,1,26.49,52.04,8.09,Card,Electronic,8,8,7,False
 TCK100990,3-day Pass,2025-05-02,20,Female,4,36.87,2.3,37.12,Card,Pop,6,8,3,True
 TCK108956,3-day Pass,2025-05-03,24,Female,3,10.63,31.09,13.37,Card,Hip-Hop,6,9,4,False
@@ -1965,18 +1965,18 @@ TCK102853,VIP,2025-05-02,24,Male,5,11.01,14.56,58.97,Card,Rock,6,9,5,True
 TCK101001,3-day Pass,2025-05-03,28,Male,5,21.56,42.28,35.96,Card,Pop,7,9,7,True
 TCK102556,3-day Pass,2025-05-01,25,Female,5,10.44,25.83,54.52,Card,Hip-Hop,7,7,3,False
 TCK107371,VIP,2025-05-01,22,Female,5,48.89,7.76,38.02,Card,Hip-Hop,8,1,3,True
-TCK106147,3-day Pass,2025-05-03,18,Male,3,14.04,22.12,76.99,Cash,Pop,8,9,6,True
+TCK106147,1-day Pass,2025-05-03,18,Male,3,14.04,22.12,76.99,Cash,Pop,8,9,6,True
 TCK105801,3-day Pass,2025-05-02,29,Female,3,35.39,29.88,5.55,Card,Rock,1,8,9,True
 TCK108230,1-day Pass,2025-05-02,27,Female,4,6.08,50.28,2.17,Card,Rock,5,8,5,True
 TCK106644,3-day Pass,2025-05-02,28,Male,5,1.93,49.12,31.49,Cash,Hip-Hop,1,10,2,True
-TCK102522,1-day Pass,2025-05-01,30,Female,5,9.67,59.7,38.56,Card,Hip-Hop,4,9,8,True
+TCK102522,1-day Pass,2025-05-01,30,Other,5,9.67,59.7,38.56,Card,Hip-Hop,4,9,8,True
 TCK105548,VIP,2025-05-02,23,Male,1,49.39,38.11,82.48,Festival App,Rock,4,6,8,True
 TCK103995,3-day Pass,2025-05-03,18,Male,3,9.58,19.77,76.16,Cash,Rock,8,7,3,True
 TCK101067,3-day Pass,2025-05-03,31,Female,4,13.52,36.9,60.83,Card,Rock,8,8,3,True
 TCK100220,VIP,2025-05-02,24,Other,4,35.14,31.44,20.31,Card,Pop,8,7,3,True
 TCK107080,3-day Pass,2025-05-03,27,Female,1,24.2,23.78,36.94,Card,Rock,8,8,2,False
 TCK101435,3-day Pass,2025-05-03,18,Female,3,0.67,31.95,67.13,Card,Hip-Hop,4,7,3,True
-TCK108488,VIP,2025-05-01,28,Female,3,5.85,8.37,74.47,Card,Pop,8,5,10,True
+TCK108488,3-day Pass,2025-05-01,28,Female,3,5.85,8.37,74.47,Card,Pop,8,5,10,True
 TCK103017,3-day Pass,2025-05-03,27,Female,1,43.59,12.38,93.33,Card,Reggaeton,5,8,7,True
 TCK104190,3-day Pass,2025-05-03,24,Male,1,42.53,46.58,81.14,Festival App,Pop,2,8,4,True
 TCK103717,1-day Pass,2025-05-02,28,Other,3,15.7,21.01,60.61,Card,Pop,4,8,3,True
@@ -2013,7 +2013,7 @@ TCK103286,VIP,2025-05-02,26,Female,5,2.72,56.39,42.19,Card,Pop,5,8,5,True
 TCK108295,1-day Pass,2025-05-03,21,Male,4,16.45,34.31,40.06,Cash,Rock,9,6,7,True
 TCK104245,VIP,2025-05-01,26,Male,4,31.85,53.69,57.0,Card,Pop,8,9,4,False
 TCK106878,3-day Pass,2025-05-03,30,Female,4,31.3,6.65,31.23,Cash,Reggaeton,8,8,5,True
-TCK101567,1-day Pass,2025-05-03,25,Male,3,4.02,29.04,56.95,Card,Rock,3,6,6,True
+TCK101567,3-day Pass,2025-05-03,25,Male,3,4.02,29.04,56.95,Card,Rock,3,6,6,True
 TCK107100,3-day Pass,2025-05-03,29,Female,4,14.98,45.35,20.88,Card,Rock,4,10,3,True
 TCK106556,1-day Pass,2025-05-03,27,Male,1,5.8,39.37,87.19,Card,Rock,7,8,3,False
 TCK102044,3-day Pass,2025-05-01,26,Male,3,39.34,15.43,8.19,Card,Rock,9,10,9,False
@@ -2069,7 +2069,7 @@ TCK103781,1-day Pass,2025-05-02,22,Female,4,32.04,12.95,98.28,Card,Pop,8,7,3,Tru
 TCK104079,VIP,2025-05-03,33,Female,3,24.34,0.42,50.48,Cash,Rock,10,1,10,False
 TCK100313,VIP,2025-05-03,22,Other,1,1.55,48.2,98.8,Cash,Rock,1,7,5,True
 TCK104440,VIP,2025-05-03,27,Other,5,12.91,19.39,88.73,Cash,Rock,8,7,9,True
-TCK102478,3-day Pass,2025-05-01,20,Female,3,7.35,19.67,87.58,Cash,Rock,5,5,5,False
+TCK102478,1-day Pass,2025-05-01,20,Female,3,7.35,19.67,87.58,Cash,Rock,5,5,5,False
 TCK105635,3-day Pass,2025-05-01,28,Male,2,49.96,44.59,62.66,Cash,Rock,2,7,6,True
 TCK103684,1-day Pass,2025-05-02,26,Other,3,38.97,28.94,18.16,Card,Rock,4,2,4,False
 TCK105824,3-day Pass,2025-05-03,18,Male,3,11.82,55.5,74.86,Card,Electronic,4,7,2,True
@@ -2141,10 +2141,10 @@ TCK104594,1-day Pass,2025-05-02,22,Female,1,49.26,26.72,72.73,Card,Hip-Hop,2,8,8
 TCK104484,1-day Pass,2025-05-02,20,Male,1,34.17,4.37,79.26,Cash,Hip-Hop,6,6,5,False
 TCK103006,3-day Pass,2025-05-02,18,Female,3,5.7,17.28,82.75,Card,Reggaeton,5,8,2,False
 TCK101292,3-day Pass,2025-05-02,29,Male,4,32.16,10.61,49.59,Cash,Hip-Hop,8,8,6,False
-TCK103971,VIP,2025-05-02,24,Female,5,21.01,54.22,30.41,Festival App,Rock,2,8,3,True
+TCK103971,3-day Pass,2025-05-02,24,Female,5,21.01,54.22,30.41,Festival App,Rock,2,8,3,True
 TCK103696,VIP,2025-05-02,24,Female,4,17.65,31.13,95.36,Card,Electronic,8,8,2,True
 TCK106771,VIP,2025-05-02,30,Female,5,15.05,29.97,64.42,Cash,Electronic,1,10,3,True
-TCK100897,1-day Pass,2025-05-01,22,Male,2,7.94,1.64,40.1,Cash,Hip-Hop,5,7,5,True
+TCK100897,1-day Pass,2025-05-01,22,Female,2,7.94,1.64,40.1,Cash,Hip-Hop,5,7,5,True
 TCK101548,3-day Pass,2025-05-01,21,Female,4,44.66,18.1,16.32,Card,Rock,6,10,5,False
 TCK104686,1-day Pass,2025-05-01,18,Female,3,9.61,5.78,6.13,Card,Rock,8,10,2,True
 TCK105650,1-day Pass,2025-05-01,30,Female,1,28.68,20.64,8.73,Card,Rock,5,9,2,False
@@ -2162,7 +2162,7 @@ TCK106176,VIP,2025-05-02,24,Male,4,46.42,54.72,88.1,Card,Hip-Hop,7,10,1,True
 TCK103987,3-day Pass,2025-05-03,22,Male,4,40.12,21.96,32.01,Card,Rock,8,9,2,False
 TCK108557,3-day Pass,2025-05-03,23,Female,3,8.57,19.08,11.4,Card,Electronic,4,7,2,True
 TCK105325,3-day Pass,2025-05-02,24,Male,1,28.55,49.37,14.49,Card,Pop,1,9,6,False
-TCK108543,3-day Pass,2025-05-02,29,Male,4,26.25,14.91,52.23,Card,Hip-Hop,1,9,3,False
+TCK108543,VIP,2025-05-02,29,Male,4,26.25,14.91,52.23,Card,Hip-Hop,1,9,3,False
 TCK108246,1-day Pass,2025-05-01,27,Female,2,12.81,43.1,11.47,Cash,Rock,2,9,4,False
 TCK105576,3-day Pass,2025-05-01,28,Other,2,26.77,33.64,86.54,Card,Hip-Hop,1,7,2,True
 TCK104249,VIP,2025-05-03,21,Male,2,8.45,8.49,14.59,Card,Pop,4,8,6,False
@@ -2201,7 +2201,7 @@ TCK107633,3-day Pass,2025-05-03,29,Female,3,27.64,54.65,96.27,Cash,Pop,1,8,8,Fal
 TCK109210,3-day Pass,2025-05-01,19,Male,5,37.5,18.87,6.1,Card,Reggaeton,5,8,4,True
 TCK104009,3-day Pass,2025-05-03,26,Female,2,24.64,34.49,12.1,Card,Rock,3,5,8,False
 TCK108261,VIP,2025-05-01,18,Female,4,30.43,42.98,19.08,Card,Pop,8,8,2,False
-TCK108348,VIP,2025-05-03,18,Female,1,10.16,5.62,45.6,Card,Pop,5,10,4,False
+TCK108348,3-day Pass,2025-05-03,18,Female,1,10.16,5.62,45.6,Card,Pop,5,10,4,False
 TCK101611,3-day Pass,2025-05-01,22,Female,5,17.85,37.89,94.51,Card,Electronic,8,9,6,False
 TCK109009,VIP,2025-05-02,24,Male,4,45.68,38.77,44.18,Cash,Electronic,6,6,8,True
 TCK102119,3-day Pass,2025-05-01,26,Male,3,29.75,34.91,22.06,Card,Pop,7,7,6,False
@@ -2239,7 +2239,7 @@ TCK107350,3-day Pass,2025-05-03,18,Female,4,12.27,31.81,54.04,Card,Reggaeton,7,9
 TCK108352,VIP,2025-05-02,29,Male,5,45.36,27.49,24.28,Card,Electronic,7,9,6,True
 TCK101510,3-day Pass,2025-05-03,25,Male,4,23.97,20.12,69.83,Card,Rock,4,6,3,True
 TCK108205,VIP,2025-05-02,33,Male,3,44.94,48.67,28.24,Cash,Hip-Hop,9,8,2,False
-TCK105612,1-day Pass,2025-05-01,24,Male,3,27.22,17.68,52.73,Card,Rock,9,8,6,True
+TCK105612,3-day Pass,2025-05-01,24,Male,3,27.22,17.68,52.73,Card,Rock,9,8,6,True
 TCK102878,1-day Pass,2025-05-02,27,Other,4,15.63,25.33,88.1,Card,Pop,9,8,1,False
 TCK104084,3-day Pass,2025-05-02,28,Female,3,7.62,17.05,5.67,Card,Reggaeton,8,9,6,True
 TCK104374,3-day Pass,2025-05-02,24,Male,2,6.9,37.0,1.49,Festival App,Reggaeton,1,10,6,True
@@ -2354,7 +2354,7 @@ TCK101095,3-day Pass,2025-05-03,26,Male,3,18.67,40.49,35.7,Cash,Rock,5,6,9,True
 TCK104247,1-day Pass,2025-05-01,21,Female,5,8.07,27.16,35.65,Cash,Electronic,9,9,5,True
 TCK104727,3-day Pass,2025-05-01,18,Male,3,18.88,44.17,69.5,Card,Hip-Hop,5,10,3,False
 TCK100075,3-day Pass,2025-05-03,22,Female,3,19.64,20.66,63.2,Card,Rock,10,8,3,False
-TCK100250,1-day Pass,2025-05-03,26,Male,3,11.89,35.04,25.66,Card,Rock,3,8,2,True
+TCK100250,1-day Pass,2025-05-03,26,Female,3,11.89,35.04,25.66,Card,Rock,3,8,2,True
 TCK107275,3-day Pass,2025-05-01,25,Female,3,39.08,13.08,90.34,Card,Reggaeton,1,10,2,False
 TCK105182,VIP,2025-05-03,18,Male,5,29.86,2.11,77.32,Card,Pop,1,6,6,True
 TCK108933,VIP,2025-05-02,25,Female,5,6.01,37.78,34.35,Card,Reggaeton,8,1,9,False
@@ -2378,7 +2378,7 @@ TCK107800,1-day Pass,2025-05-01,23,Female,5,39.13,17.64,6.94,Cash,Rock,3,8,2,Tru
 TCK100027,3-day Pass,2025-05-02,28,Female,4,39.7,31.02,41.55,Cash,Pop,7,5,2,True
 TCK101259,1-day Pass,2025-05-01,30,Male,3,14.67,16.2,45.14,Card,Rock,1,8,6,True
 TCK101602,3-day Pass,2025-05-03,26,Male,2,39.04,55.63,77.74,Cash,Rock,8,8,3,True
-TCK107613,VIP,2025-05-02,19,Female,5,16.64,26.32,34.9,Card,Hip-Hop,1,5,6,True
+TCK107613,3-day Pass,2025-05-02,19,Female,5,16.64,26.32,34.9,Card,Hip-Hop,1,5,6,True
 TCK106140,3-day Pass,2025-05-03,27,Female,2,31.2,8.64,48.54,Card,Pop,6,7,6,True
 TCK102716,VIP,2025-05-03,20,Female,2,16.62,12.82,2.83,Cash,Rock,8,9,2,True
 TCK104839,3-day Pass,2025-05-01,22,Female,4,12.4,54.53,34.04,Festival App,Hip-Hop,8,8,3,True
@@ -2435,7 +2435,7 @@ TCK106931,3-day Pass,2025-05-01,22,Male,3,31.75,48.65,5.64,Cash,Pop,5,9,6,True
 TCK107722,3-day Pass,2025-05-03,22,Male,5,2.09,6.54,26.18,Card,Hip-Hop,5,10,3,False
 TCK109088,VIP,2025-05-03,20,Female,3,42.0,48.31,11.23,Card,Pop,8,8,8,False
 TCK103873,3-day Pass,2025-05-02,23,Male,5,6.03,18.95,94.87,Card,Rock,3,10,6,False
-TCK103506,VIP,2025-05-03,27,Female,5,13.34,8.1,90.9,Cash,Electronic,5,4,7,True
+TCK103506,3-day Pass,2025-05-03,27,Female,5,13.34,8.1,90.9,Cash,Electronic,5,4,7,True
 TCK106141,1-day Pass,2025-05-01,29,Female,2,17.42,17.74,0.97,Cash,Pop,2,5,6,True
 TCK107421,3-day Pass,2025-05-03,25,Female,3,14.23,1.17,28.76,Cash,Rock,1,9,4,True
 TCK105071,3-day Pass,2025-05-01,26,Male,5,13.03,34.55,74.31,Card,Reggaeton,8,8,7,False
@@ -2520,7 +2520,7 @@ TCK103982,VIP,2025-05-03,28,Male,3,6.11,17.39,82.64,Card,Reggaeton,6,8,5,False
 TCK103118,3-day Pass,2025-05-01,28,Male,4,41.38,32.07,42.28,Cash,Electronic,8,7,10,True
 TCK100911,3-day Pass,2025-05-01,18,Other,3,11.96,27.98,71.98,Card,Hip-Hop,8,8,6,True
 TCK100491,3-day Pass,2025-05-03,29,Male,2,28.11,22.6,67.9,Card,Pop,8,9,7,True
-TCK101986,VIP,2025-05-02,21,Female,4,16.54,3.6,73.78,Card,Electronic,4,8,3,True
+TCK101986,3-day Pass,2025-05-02,21,Female,4,16.54,3.6,73.78,Card,Electronic,4,8,3,True
 TCK106747,3-day Pass,2025-05-02,18,Female,3,44.05,39.14,13.28,Card,Electronic,7,8,2,True
 TCK100795,3-day Pass,2025-05-02,24,Male,1,2.82,38.56,98.37,Cash,Hip-Hop,7,9,4,True
 TCK108357,3-day Pass,2025-05-01,18,Male,4,36.75,14.7,61.35,Card,Electronic,5,10,4,True
@@ -2613,7 +2613,7 @@ TCK109320,VIP,2025-05-02,27,Female,4,37.34,36.88,64.41,Cash,Pop,7,9,3,True
 TCK100066,3-day Pass,2025-05-01,24,Male,5,41.36,2.97,60.13,Card,Electronic,8,8,2,True
 TCK105064,1-day Pass,2025-05-03,26,Male,3,0.2,17.04,19.47,Card,Rock,7,7,6,True
 TCK104664,3-day Pass,2025-05-01,24,Male,5,12.19,4.83,95.52,Card,Rock,7,9,8,False
-TCK102021,1-day Pass,2025-05-03,25,Female,3,5.1,28.69,30.75,Cash,Reggaeton,8,8,6,True
+TCK102021,VIP,2025-05-03,25,Female,3,5.1,28.69,30.75,Cash,Reggaeton,8,8,6,True
 TCK106827,3-day Pass,2025-05-01,28,Female,4,24.82,27.13,51.95,Card,Electronic,9,10,3,True
 TCK104107,3-day Pass,2025-05-02,27,Female,4,24.24,24.96,66.6,Card,Hip-Hop,5,7,2,False
 TCK108325,1-day Pass,2025-05-02,28,Male,3,24.38,56.95,61.56,Card,Reggaeton,4,8,2,True
@@ -2621,7 +2621,7 @@ TCK108865,3-day Pass,2025-05-01,18,Male,4,16.46,9.3,20.64,Card,Hip-Hop,7,8,3,Tru
 TCK101802,1-day Pass,2025-05-01,26,Female,3,0.61,41.93,64.0,Card,Rock,9,5,4,True
 TCK104389,1-day Pass,2025-05-03,25,Female,5,21.28,58.77,23.93,Festival App,Rock,8,10,6,True
 TCK108835,3-day Pass,2025-05-01,21,Female,4,44.24,43.0,1.58,Card,Rock,5,7,2,True
-TCK107498,1-day Pass,2025-05-03,25,Male,1,41.84,23.45,1.24,Card,Pop,6,8,7,True
+TCK107498,3-day Pass,2025-05-03,25,Male,1,41.84,23.45,1.24,Card,Pop,6,8,7,True
 TCK103512,3-day Pass,2025-05-01,27,Male,3,38.59,26.06,64.28,Card,Reggaeton,4,8,6,True
 TCK103874,3-day Pass,2025-05-01,21,Male,5,31.53,54.53,29.34,Cash,Reggaeton,2,9,3,True
 TCK108007,3-day Pass,2025-05-01,18,Female,3,4.15,34.37,35.15,Cash,Pop,5,6,5,True
@@ -2738,11 +2738,11 @@ TCK106340,3-day Pass,2025-05-02,25,Male,3,8.0,14.34,66.98,Cash,Pop,1,8,6,False
 TCK100042,1-day Pass,2025-05-01,30,Male,3,22.27,34.98,63.1,Cash,Hip-Hop,2,8,3,True
 TCK102271,3-day Pass,2025-05-01,26,Female,3,48.43,20.62,68.07,Card,Rock,5,7,2,False
 TCK107364,3-day Pass,2025-05-01,27,Female,2,25.79,23.12,28.57,Card,Hip-Hop,2,10,3,True
-TCK103029,1-day Pass,2025-05-01,30,Male,3,27.61,3.7,28.53,Cash,Rock,8,9,2,False
+TCK103029,VIP,2025-05-01,30,Male,3,27.61,3.7,28.53,Cash,Rock,8,9,2,False
 TCK106632,3-day Pass,2025-05-01,25,Female,2,2.52,54.46,22.95,Cash,Reggaeton,2,7,10,True
 TCK108565,3-day Pass,2025-05-01,22,Male,4,44.72,56.99,28.76,Cash,Electronic,5,10,2,True
 TCK107389,3-day Pass,2025-05-03,27,Male,3,35.07,4.52,43.97,Card,Rock,9,8,6,False
-TCK107708,3-day Pass,2025-05-02,26,Male,2,3.21,10.66,21.35,Card,Hip-Hop,4,10,2,False
+TCK107708,1-day Pass,2025-05-02,26,Male,2,3.21,10.66,21.35,Card,Hip-Hop,4,10,2,False
 TCK102380,3-day Pass,2025-05-02,21,Female,5,47.68,16.05,60.69,Card,Rock,9,7,9,True
 TCK104305,3-day Pass,2025-05-02,18,Male,4,15.22,52.54,65.57,Card,Rock,7,9,4,False
 TCK109255,1-day Pass,2025-05-02,28,Male,5,27.87,5.13,58.55,Festival App,Hip-Hop,9,8,1,True
@@ -2772,7 +2772,7 @@ TCK104962,VIP,2025-05-01,24,Other,3,31.52,25.93,50.12,Card,Rock,8,9,5,False
 TCK106270,VIP,2025-05-03,20,Male,5,12.11,45.65,27.57,Cash,Pop,3,7,6,True
 TCK107863,3-day Pass,2025-05-02,27,Male,1,25.82,48.38,40.18,Card,Hip-Hop,8,9,6,False
 TCK108404,1-day Pass,2025-05-02,30,Female,5,48.15,35.12,36.42,Card,Pop,8,8,7,True
-TCK104506,3-day Pass,2025-05-03,26,Male,2,9.0,9.18,94.58,Cash,Rock,2,8,6,False
+TCK104506,3-day Pass,2025-05-03,26,Female,2,9.0,9.18,94.58,Cash,Rock,2,8,6,False
 TCK102459,VIP,2025-05-01,29,Male,1,49.12,57.13,63.26,Card,Electronic,6,5,4,True
 TCK100090,3-day Pass,2025-05-01,18,Female,3,32.41,42.35,1.33,Card,Rock,8,7,3,False
 TCK105752,3-day Pass,2025-05-01,31,Female,2,14.1,27.41,48.68,Card,Pop,9,4,1,True
@@ -2792,14 +2792,14 @@ TCK106522,VIP,2025-05-03,18,Female,5,35.21,24.53,25.03,Card,Hip-Hop,8,8,6,True
 TCK100847,3-day Pass,2025-05-01,27,Male,3,11.97,8.18,44.52,Cash,Rock,8,6,2,False
 TCK102330,VIP,2025-05-03,30,Male,4,24.36,4.4,59.22,Festival App,Pop,4,7,6,False
 TCK102294,3-day Pass,2025-05-03,23,Male,3,16.23,43.94,22.18,Festival App,Rock,8,9,3,True
-TCK105814,VIP,2025-05-01,29,Male,5,31.3,51.27,14.37,Cash,Hip-Hop,8,7,4,True
+TCK105814,VIP,2025-05-01,29,Female,5,31.3,51.27,14.37,Cash,Hip-Hop,8,7,4,True
 TCK106106,3-day Pass,2025-05-01,18,Female,1,21.74,20.32,91.14,Card,Hip-Hop,5,6,3,True
 TCK101263,3-day Pass,2025-05-03,31,Female,3,47.26,18.59,38.33,Card,Electronic,9,8,5,True
 TCK108363,3-day Pass,2025-05-02,21,Female,4,6.21,27.39,39.34,Cash,Rock,3,7,2,True
 TCK108896,VIP,2025-05-03,26,Male,3,20.05,39.11,40.89,Card,Rock,6,10,4,True
 TCK105013,3-day Pass,2025-05-01,27,Female,3,24.62,28.69,0.58,Card,Reggaeton,4,8,3,True
 TCK103960,3-day Pass,2025-05-03,25,Male,3,11.36,31.89,95.32,Card,Hip-Hop,9,8,4,False
-TCK109158,3-day Pass,2025-05-01,28,Female,4,40.19,59.2,98.14,Festival App,Pop,4,8,8,True
+TCK109158,3-day Pass,2025-05-01,28,Other,4,40.19,59.2,98.14,Festival App,Pop,4,8,8,True
 TCK102132,3-day Pass,2025-05-02,26,Female,5,46.51,44.49,83.69,Card,Rock,8,9,8,True
 TCK102956,3-day Pass,2025-05-02,26,Female,5,22.92,2.69,1.58,Cash,Rock,6,10,6,True
 TCK104276,3-day Pass,2025-05-02,26,Female,4,12.49,0.81,62.4,Card,Rock,8,8,7,False
@@ -2885,7 +2885,7 @@ TCK107855,1-day Pass,2025-05-02,29,Female,2,20.83,34.32,64.24,Cash,Pop,6,10,8,Fa
 TCK101520,3-day Pass,2025-05-02,18,Male,2,31.98,25.03,92.69,Card,Pop,1,8,10,True
 TCK105388,VIP,2025-05-03,27,Female,1,45.67,15.81,22.11,Card,Pop,7,7,8,True
 TCK106990,3-day Pass,2025-05-03,21,Male,2,2.4,11.78,79.58,Cash,Reggaeton,7,6,4,False
-TCK100638,3-day Pass,2025-05-03,18,Male,3,29.39,52.6,89.62,Card,Pop,7,8,7,True
+TCK100638,1-day Pass,2025-05-03,18,Male,3,29.39,52.6,89.62,Card,Pop,7,8,7,True
 TCK107066,VIP,2025-05-02,27,Female,3,15.67,14.67,9.11,Card,Pop,8,9,7,True
 TCK105329,1-day Pass,2025-05-01,25,Male,5,32.83,58.49,18.87,Card,Pop,7,8,5,True
 TCK101495,3-day Pass,2025-05-03,20,Female,4,47.85,30.99,94.21,Card,Pop,10,9,6,True
@@ -3015,12 +3015,12 @@ TCK104001,1-day Pass,2025-05-03,18,Female,4,14.63,48.48,43.3,Cash,Pop,3,9,3,True
 TCK105554,3-day Pass,2025-05-03,26,Male,5,20.77,48.0,6.8,Cash,Pop,5,5,6,True
 TCK103497,VIP,2025-05-03,27,Male,3,33.73,26.6,77.64,Card,Rock,5,8,4,True
 TCK103570,3-day Pass,2025-05-01,33,Female,5,17.28,57.02,11.5,Card,Electronic,1,7,10,False
-TCK106866,3-day Pass,2025-05-03,25,Female,5,18.98,33.06,71.85,Festival App,Rock,6,10,1,False
+TCK106866,3-day Pass,2025-05-03,25,Male,5,18.98,33.06,71.85,Festival App,Rock,6,10,1,False
 TCK101542,VIP,2025-05-03,18,Female,2,3.06,47.72,42.68,Card,Hip-Hop,6,1,9,True
 TCK106488,1-day Pass,2025-05-01,23,Female,5,29.82,52.24,85.23,Card,Pop,8,10,6,True
 TCK103397,3-day Pass,2025-05-03,20,Female,4,3.9,59.64,81.64,Card,Reggaeton,7,8,6,True
 TCK105723,3-day Pass,2025-05-03,23,Male,5,19.93,2.5,44.78,Card,Electronic,9,6,5,True
-TCK103176,3-day Pass,2025-05-01,29,Female,3,45.62,29.62,87.71,Cash,Rock,8,8,4,True
+TCK103176,VIP,2025-05-01,29,Female,3,45.62,29.62,87.71,Cash,Rock,8,8,4,True
 TCK105521,3-day Pass,2025-05-02,27,Male,4,15.76,8.84,54.57,Card,Pop,3,7,2,True
 TCK102331,VIP,2025-05-01,23,Male,5,28.87,15.57,60.13,Cash,Electronic,5,8,4,False
 TCK103174,3-day Pass,2025-05-03,25,Female,5,36.05,58.06,21.71,Card,Hip-Hop,4,8,2,True
@@ -3132,7 +3132,7 @@ TCK102650,3-day Pass,2025-05-02,28,Female,1,15.17,25.57,37.5,Card,Rock,4,5,9,Tru
 TCK100530,VIP,2025-05-01,24,Female,3,29.95,40.82,62.3,Card,Pop,7,7,6,True
 TCK102280,VIP,2025-05-02,29,Male,2,29.86,28.71,20.62,Card,Pop,9,1,2,True
 TCK103871,VIP,2025-05-02,18,Male,5,42.42,44.38,26.49,Cash,Rock,7,8,6,False
-TCK102257,1-day Pass,2025-05-03,21,Female,3,22.19,32.32,58.41,Card,Hip-Hop,4,6,7,True
+TCK102257,3-day Pass,2025-05-03,21,Female,3,22.19,32.32,58.41,Card,Hip-Hop,4,6,7,True
 TCK108239,1-day Pass,2025-05-03,29,Female,5,7.29,26.78,58.95,Festival App,Rock,2,8,3,True
 TCK102882,3-day Pass,2025-05-02,18,Female,4,14.71,45.5,90.13,Cash,Electronic,3,9,8,True
 TCK109284,3-day Pass,2025-05-02,30,Other,2,12.8,29.53,65.82,Card,Hip-Hop,6,10,10,True
@@ -3166,7 +3166,7 @@ TCK106110,3-day Pass,2025-05-03,18,Female,2,32.6,56.18,87.76,Cash,Pop,2,6,4,True
 TCK104737,3-day Pass,2025-05-01,30,Female,5,7.12,22.11,42.07,Card,Pop,8,4,4,False
 TCK108635,VIP,2025-05-01,18,Male,2,39.23,15.92,78.32,Cash,Reggaeton,1,8,9,False
 TCK106414,3-day Pass,2025-05-01,32,Male,4,16.06,51.51,91.16,Card,Pop,9,9,2,True
-TCK103494,1-day Pass,2025-05-02,21,Male,4,0.08,53.26,39.19,Card,Pop,7,8,6,True
+TCK103494,3-day Pass,2025-05-02,21,Male,4,0.08,53.26,39.19,Card,Pop,7,8,6,True
 TCK105926,1-day Pass,2025-05-03,24,Female,4,32.62,44.6,82.66,Card,Pop,4,10,5,True
 TCK108645,1-day Pass,2025-05-02,18,Female,5,49.28,34.13,16.79,Card,Rock,8,10,6,True
 TCK100635,3-day Pass,2025-05-03,25,Female,4,33.58,29.68,60.6,Card,Hip-Hop,6,9,8,True
@@ -3242,7 +3242,7 @@ TCK109005,3-day Pass,2025-05-03,29,Female,2,30.75,54.71,55.0,Card,Rock,8,1,5,Tru
 TCK107157,3-day Pass,2025-05-01,18,Male,5,19.03,10.78,77.01,Cash,Rock,1,9,6,False
 TCK103457,1-day Pass,2025-05-01,20,Female,2,24.92,32.82,55.14,Card,Pop,8,6,4,True
 TCK104082,1-day Pass,2025-05-01,26,Male,3,24.98,58.29,35.89,Card,Hip-Hop,7,9,4,True
-TCK106874,1-day Pass,2025-05-01,29,Female,4,7.6,49.44,38.67,Card,Rock,8,9,7,False
+TCK106874,1-day Pass,2025-05-01,29,Male,4,7.6,49.44,38.67,Card,Rock,8,9,7,False
 TCK106868,3-day Pass,2025-05-02,25,Male,3,28.27,51.56,13.68,Card,Hip-Hop,3,6,4,False
 TCK107225,3-day Pass,2025-05-02,24,Male,1,13.37,22.32,49.81,Cash,Hip-Hop,6,10,6,True
 TCK102861,3-day Pass,2025-05-01,27,Female,4,3.03,16.95,63.83,Card,Rock,8,2,2,False
@@ -3278,7 +3278,7 @@ TCK105431,3-day Pass,2025-05-02,27,Male,4,32.89,44.22,33.25,Cash,Pop,7,8,5,True
 TCK104850,1-day Pass,2025-05-01,27,Male,4,19.25,21.3,70.4,Card,Pop,6,8,3,False
 TCK106996,1-day Pass,2025-05-02,29,Female,1,10.71,24.12,17.57,Card,Rock,6,6,2,True
 TCK102533,1-day Pass,2025-05-01,24,Other,5,24.04,9.21,81.25,Card,Pop,8,9,4,True
-TCK102796,VIP,2025-05-02,28,Male,4,27.34,45.59,94.51,Card,Pop,6,10,6,False
+TCK102796,1-day Pass,2025-05-02,28,Male,4,27.34,45.59,94.51,Card,Pop,6,10,6,False
 TCK101469,VIP,2025-05-02,29,Male,3,2.7,55.92,61.25,Cash,Pop,4,2,3,True
 TCK107560,3-day Pass,2025-05-03,33,Female,3,8.92,27.63,15.97,Card,Hip-Hop,8,10,2,False
 TCK100387,3-day Pass,2025-05-02,27,Male,5,6.62,50.3,64.81,Card,Hip-Hop,8,7,5,True
@@ -3290,7 +3290,7 @@ TCK102222,1-day Pass,2025-05-02,22,Female,3,1.53,12.1,24.23,Card,Rock,6,7,3,True
 TCK106877,3-day Pass,2025-05-02,22,Male,3,8.86,50.78,91.95,Card,Reggaeton,8,6,7,False
 TCK107477,3-day Pass,2025-05-02,21,Male,4,3.38,26.49,5.47,Cash,Rock,8,9,3,True
 TCK100282,3-day Pass,2025-05-03,18,Female,3,46.59,8.01,22.78,Card,Reggaeton,4,7,3,False
-TCK106763,3-day Pass,2025-05-01,25,Female,5,9.28,43.63,94.09,Cash,Rock,8,10,6,True
+TCK106763,VIP,2025-05-01,25,Female,5,9.28,43.63,94.09,Cash,Rock,8,10,6,True
 TCK104486,3-day Pass,2025-05-03,33,Female,4,14.94,43.34,55.91,Cash,Rock,8,9,6,True
 TCK104071,1-day Pass,2025-05-02,33,Female,2,4.04,25.03,35.59,Card,Reggaeton,8,9,3,True
 TCK103302,3-day Pass,2025-05-01,20,Female,4,20.2,9.22,69.89,Card,Reggaeton,6,8,7,True
@@ -3343,7 +3343,7 @@ TCK100216,3-day Pass,2025-05-01,22,Male,4,38.75,53.39,15.55,Card,Pop,8,9,7,False
 TCK108108,VIP,2025-05-03,28,Female,5,28.68,31.41,25.07,Festival App,Hip-Hop,9,10,6,True
 TCK100464,VIP,2025-05-03,27,Female,3,13.53,11.19,66.58,Card,Rock,4,8,3,False
 TCK103826,VIP,2025-05-01,30,Male,4,48.07,21.04,53.74,Festival App,Hip-Hop,6,6,3,True
-TCK107932,3-day Pass,2025-05-03,24,Female,1,31.7,29.0,39.79,Cash,Hip-Hop,9,9,2,True
+TCK107932,3-day Pass,2025-05-03,24,Male,1,31.7,29.0,39.79,Cash,Hip-Hop,9,9,2,True
 TCK107522,1-day Pass,2025-05-01,27,Male,3,30.2,6.48,41.39,Card,Reggaeton,8,9,4,True
 TCK109198,VIP,2025-05-03,18,Female,5,49.63,25.46,36.12,Card,Rock,4,9,3,False
 TCK107009,3-day Pass,2025-05-03,23,Male,3,10.54,57.51,70.91,Card,Hip-Hop,4,8,7,True
@@ -3380,7 +3380,7 @@ TCK105637,3-day Pass,2025-05-01,29,Female,3,20.16,45.67,70.62,Card,Rock,5,8,3,Fa
 TCK108121,3-day Pass,2025-05-01,26,Female,5,26.45,46.37,88.87,Cash,Pop,7,9,6,True
 TCK106600,3-day Pass,2025-05-03,27,Female,1,23.73,41.94,78.33,Card,Electronic,6,8,6,True
 TCK105434,3-day Pass,2025-05-01,18,Female,1,30.86,30.53,76.06,Card,Rock,6,10,8,False
-TCK108483,VIP,2025-05-02,22,Female,3,32.96,36.5,44.91,Card,Rock,4,5,2,False
+TCK108483,3-day Pass,2025-05-02,22,Female,3,32.96,36.5,44.91,Card,Rock,4,5,2,False
 TCK105365,3-day Pass,2025-05-03,24,Female,4,18.31,26.66,34.38,Card,Rock,6,8,7,False
 TCK109193,1-day Pass,2025-05-01,26,Male,5,24.15,56.66,21.98,Card,Rock,8,6,6,False
 TCK108511,3-day Pass,2025-05-03,24,Male,4,30.77,10.03,4.95,Card,Rock,7,8,6,True
@@ -3437,7 +3437,7 @@ TCK108198,3-day Pass,2025-05-01,18,Male,5,4.19,16.08,2.2,Card,Rock,6,9,7,False
 TCK102563,3-day Pass,2025-05-03,27,Male,3,48.0,59.95,75.84,Cash,Rock,3,2,5,False
 TCK103370,3-day Pass,2025-05-02,29,Female,2,6.26,35.6,16.87,Card,Pop,3,8,3,True
 TCK107935,3-day Pass,2025-05-01,24,Male,3,37.17,4.47,76.98,Cash,Pop,8,8,7,True
-TCK106357,VIP,2025-05-01,20,Female,3,29.73,49.36,65.32,Cash,Rock,8,8,9,True
+TCK106357,1-day Pass,2025-05-01,20,Female,3,29.73,49.36,65.32,Cash,Rock,8,8,9,True
 TCK103959,1-day Pass,2025-05-02,25,Female,1,40.97,23.04,21.41,Cash,Rock,9,6,6,True
 TCK104837,3-day Pass,2025-05-02,18,Female,4,45.52,23.22,85.16,Cash,Reggaeton,1,10,7,True
 TCK101695,3-day Pass,2025-05-02,25,Male,5,24.98,24.06,50.9,Card,Rock,7,9,5,False
@@ -3456,7 +3456,7 @@ TCK102008,3-day Pass,2025-05-02,18,Male,3,29.13,4.52,68.48,Card,Rock,8,8,6,False
 TCK106787,VIP,2025-05-01,26,Male,4,42.75,22.77,35.3,Card,Rock,7,6,3,False
 TCK100698,3-day Pass,2025-05-02,28,Female,2,0.27,3.28,90.86,Cash,Electronic,4,7,6,True
 TCK101591,VIP,2025-05-02,25,Male,4,49.94,31.88,28.72,Card,Rock,9,6,2,False
-TCK108756,3-day Pass,2025-05-01,29,Male,2,34.7,47.73,65.05,Card,Reggaeton,5,2,2,True
+TCK108756,VIP,2025-05-01,29,Male,2,34.7,47.73,65.05,Card,Reggaeton,5,2,2,True
 TCK107544,3-day Pass,2025-05-01,18,Female,3,37.05,35.11,94.82,Card,Pop,1,10,6,True
 TCK101061,1-day Pass,2025-05-02,24,Male,4,16.8,42.36,65.57,Card,Pop,7,7,9,True
 TCK101593,1-day Pass,2025-05-03,30,Male,4,36.36,3.5,44.33,Card,Electronic,1,10,3,False
@@ -3556,7 +3556,7 @@ TCK100933,3-day Pass,2025-05-02,23,Female,2,24.93,55.2,27.68,Card,Pop,8,9,6,Fals
 TCK104338,3-day Pass,2025-05-02,29,Female,3,33.73,57.13,14.77,Card,Rock,8,8,2,True
 TCK106859,1-day Pass,2025-05-02,22,Female,3,6.56,24.73,35.55,Cash,Rock,8,1,10,True
 TCK107039,3-day Pass,2025-05-03,18,Female,3,20.42,15.94,14.14,Cash,Pop,7,6,5,False
-TCK106331,3-day Pass,2025-05-01,24,Female,2,26.24,0.8,8.02,Card,Hip-Hop,4,8,5,True
+TCK106331,1-day Pass,2025-05-01,24,Female,2,26.24,0.8,8.02,Card,Hip-Hop,4,8,5,True
 TCK105169,VIP,2025-05-02,22,Female,2,31.98,16.51,57.38,Cash,Pop,8,1,4,False
 TCK107482,3-day Pass,2025-05-02,28,Female,3,14.35,31.51,5.89,Cash,Rock,4,8,2,True
 TCK105593,3-day Pass,2025-05-03,18,Female,4,40.18,35.13,54.38,Card,Pop,7,5,6,True
@@ -3601,7 +3601,7 @@ TCK107941,3-day Pass,2025-05-01,29,Male,3,40.44,49.79,47.03,Cash,Electronic,8,10
 TCK102808,3-day Pass,2025-05-02,28,Male,3,27.69,28.06,73.3,Card,Rock,1,8,4,True
 TCK108597,3-day Pass,2025-05-01,18,Female,5,10.56,12.37,17.44,Cash,Rock,8,9,3,True
 TCK107062,3-day Pass,2025-05-01,23,Male,3,49.84,21.14,16.64,Card,Rock,6,6,3,False
-TCK105165,VIP,2025-05-03,26,Female,2,32.58,45.31,88.58,Card,Rock,8,6,4,False
+TCK105165,1-day Pass,2025-05-03,26,Female,2,32.58,45.31,88.58,Card,Rock,8,6,4,False
 TCK100398,3-day Pass,2025-05-03,23,Other,2,29.5,46.62,33.34,Card,Rock,6,6,6,False
 TCK109327,3-day Pass,2025-05-02,28,Female,2,28.25,4.81,86.81,Cash,Pop,4,7,2,True
 TCK108960,3-day Pass,2025-05-01,29,Male,5,20.98,12.64,54.63,Cash,Pop,6,7,7,False
@@ -3623,7 +3623,7 @@ TCK108493,1-day Pass,2025-05-02,25,Female,3,5.04,6.91,59.32,Card,Reggaeton,1,8,2
 TCK108322,3-day Pass,2025-05-02,34,Male,1,33.08,53.01,42.91,Card,Reggaeton,4,8,4,True
 TCK100057,VIP,2025-05-02,21,Male,3,8.42,47.06,75.99,Cash,Rock,9,10,2,True
 TCK101127,VIP,2025-05-03,18,Female,1,29.7,34.87,88.7,Card,Pop,8,10,6,False
-TCK107323,1-day Pass,2025-05-02,18,Male,4,19.84,28.07,31.18,Card,Electronic,8,7,4,True
+TCK107323,3-day Pass,2025-05-02,18,Male,4,19.84,28.07,31.18,Card,Electronic,8,7,4,True
 TCK101579,1-day Pass,2025-05-02,29,Male,3,7.8,56.35,25.73,Festival App,Rock,9,6,1,True
 TCK108014,3-day Pass,2025-05-03,28,Female,3,15.86,57.9,75.79,Card,Rock,4,9,3,False
 TCK102463,1-day Pass,2025-05-01,20,Female,3,42.27,25.82,73.83,Card,Hip-Hop,6,10,5,True
@@ -3686,7 +3686,7 @@ TCK100754,1-day Pass,2025-05-01,20,Female,4,14.0,1.41,11.62,Cash,Electronic,4,8,
 TCK102518,VIP,2025-05-01,25,Male,5,16.91,30.23,42.23,Card,Pop,2,7,8,True
 TCK102592,3-day Pass,2025-05-01,23,Female,3,33.77,29.8,14.1,Card,Rock,8,8,2,True
 TCK108028,1-day Pass,2025-05-02,30,Male,3,12.39,8.12,39.73,Card,Hip-Hop,1,10,7,False
-TCK105502,3-day Pass,2025-05-02,25,Female,3,47.27,45.75,30.03,Card,Electronic,8,7,6,True
+TCK105502,VIP,2025-05-02,25,Female,3,47.27,45.75,30.03,Card,Electronic,8,7,6,True
 TCK108577,3-day Pass,2025-05-02,32,Female,3,37.45,35.5,59.38,Card,Rock,1,10,6,True
 TCK105053,3-day Pass,2025-05-03,22,Female,4,36.97,11.75,58.36,Card,Hip-Hop,4,7,6,True
 TCK107265,3-day Pass,2025-05-03,19,Female,5,40.91,45.0,85.62,Festival App,Rock,1,9,7,True
@@ -3773,7 +3773,7 @@ TCK108520,1-day Pass,2025-05-02,27,Female,4,48.31,53.26,48.77,Card,Rock,8,6,9,Fa
 TCK100505,3-day Pass,2025-05-02,25,Male,3,25.83,9.52,30.65,Card,Rock,7,10,7,False
 TCK102637,1-day Pass,2025-05-02,28,Female,4,38.13,25.73,60.48,Card,Pop,8,8,5,True
 TCK108310,VIP,2025-05-03,28,Male,2,4.77,53.08,13.74,Card,Electronic,5,8,3,True
-TCK104232,3-day Pass,2025-05-03,22,Male,4,6.8,32.23,38.26,Cash,Reggaeton,6,9,3,True
+TCK104232,VIP,2025-05-03,22,Male,4,6.8,32.23,38.26,Cash,Reggaeton,6,9,3,True
 TCK107792,1-day Pass,2025-05-03,30,Female,4,33.72,24.0,53.58,Cash,Reggaeton,8,9,10,True
 TCK101042,3-day Pass,2025-05-01,26,Other,3,7.86,47.98,94.37,Card,Pop,8,7,3,True
 TCK102176,3-day Pass,2025-05-01,24,Female,4,0.13,54.88,75.03,Card,Rock,5,8,4,True
@@ -3805,7 +3805,7 @@ TCK100963,3-day Pass,2025-05-01,30,Male,3,35.25,54.03,47.23,Card,Hip-Hop,7,9,6,T
 TCK105812,3-day Pass,2025-05-02,26,Female,1,32.63,36.07,10.7,Cash,Pop,4,8,9,False
 TCK106105,1-day Pass,2025-05-03,22,Male,3,20.05,49.09,89.28,Card,Rock,8,8,7,True
 TCK102466,VIP,2025-05-02,29,Male,4,9.81,18.76,21.63,Card,Hip-Hop,9,6,7,True
-TCK106158,1-day Pass,2025-05-03,28,Male,5,31.55,30.99,37.81,Card,Rock,4,8,6,False
+TCK106158,3-day Pass,2025-05-03,28,Male,5,31.55,30.99,37.81,Card,Rock,4,8,6,False
 TCK106598,VIP,2025-05-01,20,Male,2,35.03,28.96,70.79,Card,Hip-Hop,5,4,9,True
 TCK100605,3-day Pass,2025-05-03,25,Female,3,19.95,28.51,25.45,Card,Electronic,4,7,3,True
 TCK105152,1-day Pass,2025-05-02,27,Male,4,13.95,0.63,69.84,Card,Rock,8,8,8,False
@@ -3909,7 +3909,7 @@ TCK108210,VIP,2025-05-02,25,Male,2,36.95,24.4,72.56,Card,Rock,5,5,6,True
 TCK105098,VIP,2025-05-03,21,Female,5,17.86,54.65,18.03,Card,Electronic,8,8,6,False
 TCK106118,3-day Pass,2025-05-01,26,Female,4,34.0,32.05,19.03,Card,Hip-Hop,8,5,3,False
 TCK107995,3-day Pass,2025-05-02,31,Male,2,26.58,40.31,99.85,Festival App,Pop,6,9,4,False
-TCK105567,3-day Pass,2025-05-02,24,Male,5,18.4,36.57,82.02,Cash,Hip-Hop,4,9,4,True
+TCK105567,VIP,2025-05-02,24,Male,5,18.4,36.57,82.02,Cash,Hip-Hop,4,9,4,True
 TCK102139,VIP,2025-05-01,24,Female,3,7.73,22.8,58.73,Card,Rock,5,7,3,False
 TCK104723,3-day Pass,2025-05-03,21,Female,2,24.39,34.61,59.42,Card,Pop,8,5,3,True
 TCK101453,3-day Pass,2025-05-01,25,Male,3,29.08,57.22,99.61,Cash,Rock,4,7,7,True
@@ -4026,14 +4026,14 @@ TCK108082,VIP,2025-05-01,19,Female,4,4.31,35.22,50.78,Cash,Pop,8,9,4,True
 TCK104083,3-day Pass,2025-05-03,27,Female,3,36.51,10.69,35.29,Cash,Rock,9,7,7,False
 TCK103910,3-day Pass,2025-05-03,24,Female,5,47.56,25.45,39.44,Card,Pop,9,8,7,True
 TCK101065,3-day Pass,2025-05-03,26,Male,4,38.37,45.89,77.24,Cash,Rock,6,9,5,True
-TCK105994,3-day Pass,2025-05-01,24,Female,2,24.07,10.02,74.58,Card,Pop,1,8,5,True
+TCK105994,VIP,2025-05-01,24,Female,2,24.07,10.02,74.58,Card,Pop,1,8,5,True
 TCK100734,3-day Pass,2025-05-01,21,Female,5,17.5,15.01,19.87,Card,Rock,8,10,8,False
 TCK100269,VIP,2025-05-03,30,Female,4,0.64,44.96,59.58,Card,Reggaeton,8,7,3,True
 TCK106697,3-day Pass,2025-05-03,28,Female,4,12.26,44.37,41.53,Card,Hip-Hop,7,8,6,False
 TCK101267,3-day Pass,2025-05-03,20,Female,3,34.99,31.58,42.81,Cash,Pop,8,10,6,True
 TCK108031,3-day Pass,2025-05-01,32,Female,1,47.48,40.44,44.7,Card,Rock,7,5,7,True
 TCK105706,3-day Pass,2025-05-03,21,Female,2,31.38,5.41,66.25,Festival App,Hip-Hop,8,9,4,True
-TCK108416,3-day Pass,2025-05-01,20,Female,3,41.99,7.72,3.9,Card,Pop,8,9,6,False
+TCK108416,3-day Pass,2025-05-01,20,Male,3,41.99,7.72,3.9,Card,Pop,8,9,6,False
 TCK108425,3-day Pass,2025-05-02,29,Other,3,26.54,0.3,21.49,Card,Hip-Hop,6,8,5,True
 TCK100791,3-day Pass,2025-05-02,30,Male,4,43.07,57.22,30.77,Card,Rock,7,7,4,True
 TCK105287,1-day Pass,2025-05-02,26,Male,5,4.0,31.47,48.4,Card,Hip-Hop,6,7,1,False
@@ -4099,13 +4099,13 @@ TCK108665,3-day Pass,2025-05-02,27,Male,5,16.66,52.82,15.91,Cash,Rock,8,9,5,True
 TCK102070,1-day Pass,2025-05-01,29,Female,4,15.65,6.81,9.48,Cash,Rock,9,9,4,True
 TCK107787,VIP,2025-05-02,26,Female,5,38.63,48.48,85.63,Card,Electronic,6,9,2,False
 TCK103565,3-day Pass,2025-05-02,29,Male,2,42.9,37.5,26.0,Card,Pop,4,6,8,False
-TCK105137,3-day Pass,2025-05-01,19,Male,2,15.55,58.5,58.38,Card,Pop,1,9,4,True
+TCK105137,VIP,2025-05-01,19,Male,2,15.55,58.5,58.38,Card,Pop,1,9,4,True
 TCK107834,3-day Pass,2025-05-03,18,Female,4,9.43,4.79,64.42,Cash,Electronic,7,9,4,True
 TCK104132,3-day Pass,2025-05-01,24,Male,1,47.85,27.14,37.75,Card,Hip-Hop,7,7,10,True
 TCK105769,3-day Pass,2025-05-01,19,Female,5,21.83,25.81,32.87,Card,Hip-Hop,8,8,8,True
 TCK100200,3-day Pass,2025-05-02,28,Other,2,6.63,53.35,50.38,Cash,Pop,8,10,10,True
 TCK107390,3-day Pass,2025-05-03,33,Female,4,28.22,24.58,15.29,Cash,Reggaeton,4,7,3,True
-TCK101187,1-day Pass,2025-05-02,23,Male,5,14.03,17.2,23.56,Card,Rock,8,9,3,True
+TCK101187,1-day Pass,2025-05-02,23,Female,5,14.03,17.2,23.56,Card,Rock,8,9,3,True
 TCK105236,VIP,2025-05-02,24,Other,3,0.78,6.58,60.37,Card,Rock,8,7,6,False
 TCK109156,VIP,2025-05-02,19,Male,4,40.67,40.37,48.57,Card,Rock,1,7,1,True
 TCK100856,1-day Pass,2025-05-03,23,Female,4,45.48,38.57,94.06,Cash,Pop,7,8,3,True
@@ -4171,7 +4171,7 @@ TCK102579,3-day Pass,2025-05-02,24,Male,4,3.0,17.33,45.0,Card,Reggaeton,2,8,7,Fa
 TCK104621,1-day Pass,2025-05-01,27,Female,1,9.83,14.53,10.44,Card,Hip-Hop,6,6,6,True
 TCK107721,VIP,2025-05-02,21,Female,2,22.77,47.04,35.59,Cash,Hip-Hop,1,9,8,True
 TCK104229,VIP,2025-05-03,26,Male,4,27.39,0.61,97.44,Card,Reggaeton,6,7,10,True
-TCK104333,3-day Pass,2025-05-03,27,Male,4,7.82,15.77,59.11,Cash,Hip-Hop,4,9,6,True
+TCK104333,1-day Pass,2025-05-03,27,Male,4,7.82,15.77,59.11,Cash,Hip-Hop,4,9,6,True
 TCK108193,1-day Pass,2025-05-02,23,Female,5,11.55,20.45,96.0,Card,Pop,8,10,4,True
 TCK108832,VIP,2025-05-01,24,Female,2,19.28,56.07,98.27,Card,Hip-Hop,2,7,6,False
 TCK107841,VIP,2025-05-03,29,Female,5,42.06,54.33,81.64,Card,Electronic,9,1,2,True
@@ -4227,7 +4227,7 @@ TCK109066,3-day Pass,2025-05-02,26,Female,3,33.2,35.55,15.44,Cash,Rock,6,7,6,Tru
 TCK105982,3-day Pass,2025-05-01,18,Female,3,49.51,43.05,63.18,Card,Pop,8,4,2,True
 TCK105226,VIP,2025-05-01,25,Female,5,2.27,7.14,78.27,Card,Pop,8,7,4,False
 TCK107314,1-day Pass,2025-05-03,18,Male,5,7.02,19.53,21.54,Cash,Hip-Hop,6,9,6,True
-TCK108642,VIP,2025-05-01,23,Male,5,14.26,26.71,75.15,Card,Hip-Hop,9,7,9,True
+TCK108642,3-day Pass,2025-05-01,23,Male,5,14.26,26.71,75.15,Card,Hip-Hop,9,7,9,True
 TCK104212,3-day Pass,2025-05-02,30,Female,4,43.04,21.15,75.31,Card,Reggaeton,9,7,5,True
 TCK104451,1-day Pass,2025-05-03,20,Male,4,24.59,36.29,8.87,Cash,Rock,4,6,7,True
 TCK100222,3-day Pass,2025-05-02,24,Male,5,4.34,58.71,1.57,Card,Pop,8,6,6,True
@@ -4254,9 +4254,9 @@ TCK107861,3-day Pass,2025-05-03,27,Male,4,9.63,56.8,97.64,Card,Reggaeton,9,8,8,F
 TCK108166,3-day Pass,2025-05-02,20,Female,5,25.8,55.15,0.75,Card,Hip-Hop,1,6,4,True
 TCK100197,3-day Pass,2025-05-03,27,Male,2,49.67,2.25,83.33,Card,Rock,6,5,5,True
 TCK104999,VIP,2025-05-02,28,Female,4,7.64,49.56,74.2,Card,Hip-Hop,6,4,5,True
-TCK106266,1-day Pass,2025-05-02,27,Female,5,6.85,5.7,58.57,Card,Pop,8,10,4,True
+TCK106266,3-day Pass,2025-05-02,27,Female,5,6.85,5.7,58.57,Card,Pop,8,10,4,True
 TCK103692,3-day Pass,2025-05-02,18,Male,3,3.75,40.16,3.84,Card,Rock,8,10,3,True
-TCK106833,VIP,2025-05-02,22,Male,3,8.96,30.73,30.1,Card,Hip-Hop,6,6,6,True
+TCK106833,VIP,2025-05-02,22,Female,3,8.96,30.73,30.1,Card,Hip-Hop,6,6,6,True
 TCK100823,3-day Pass,2025-05-02,20,Female,5,0.49,7.0,31.51,Card,Pop,1,7,2,False
 TCK104077,3-day Pass,2025-05-02,19,Male,5,45.33,10.52,25.12,Cash,Hip-Hop,4,6,7,True
 TCK101779,3-day Pass,2025-05-03,18,Female,3,8.16,13.63,86.77,Card,Rock,6,2,9,False
@@ -4496,7 +4496,7 @@ TCK108819,1-day Pass,2025-05-01,32,Male,3,31.69,14.19,89.71,Card,Rock,8,10,6,Tru
 TCK101964,3-day Pass,2025-05-01,24,Female,3,29.18,17.37,26.85,Card,Pop,8,10,1,True
 TCK103024,1-day Pass,2025-05-03,25,Male,4,20.75,44.46,88.72,Cash,Rock,1,9,5,True
 TCK107805,1-day Pass,2025-05-03,22,Female,4,9.35,45.94,50.65,Cash,Rock,7,7,1,True
-TCK100238,3-day Pass,2025-05-03,25,Male,5,25.52,45.35,32.62,Card,Pop,7,7,7,True
+TCK100238,VIP,2025-05-03,25,Male,5,25.52,45.35,32.62,Card,Pop,7,7,7,True
 TCK108412,3-day Pass,2025-05-02,22,Female,1,23.93,15.39,89.91,Card,Reggaeton,5,6,7,True
 TCK107675,3-day Pass,2025-05-01,18,Female,4,44.21,54.83,37.42,Card,Reggaeton,7,8,2,True
 TCK102227,3-day Pass,2025-05-01,28,Female,3,27.75,33.22,17.0,Card,Rock,7,6,6,False
@@ -4505,7 +4505,7 @@ TCK100532,VIP,2025-05-02,26,Other,2,22.0,22.05,5.3,Card,Rock,7,9,6,True
 TCK102356,1-day Pass,2025-05-03,20,Female,3,13.27,12.57,26.72,Card,Electronic,8,9,2,False
 TCK106857,3-day Pass,2025-05-02,25,Male,3,4.34,54.39,34.84,Cash,Rock,5,2,6,False
 TCK100650,3-day Pass,2025-05-01,26,Female,3,19.91,49.8,46.75,Card,Rock,1,8,3,True
-TCK102312,1-day Pass,2025-05-03,21,Female,4,46.43,10.0,21.23,Card,Pop,6,7,2,True
+TCK102312,1-day Pass,2025-05-03,21,Male,4,46.43,10.0,21.23,Card,Pop,6,7,2,True
 TCK107700,3-day Pass,2025-05-01,18,Male,4,43.88,51.51,73.41,Cash,Pop,1,7,10,True
 TCK103232,VIP,2025-05-03,22,Male,1,39.37,46.41,24.07,Card,Reggaeton,3,8,7,True
 TCK108256,VIP,2025-05-03,25,Female,5,31.27,11.23,2.34,Card,Rock,8,10,6,False
@@ -4564,13 +4564,13 @@ TCK106820,3-day Pass,2025-05-03,21,Male,4,36.05,4.38,38.03,Card,Pop,8,8,7,False
 TCK102081,3-day Pass,2025-05-01,29,Other,4,15.37,17.34,14.01,Card,Electronic,8,7,6,True
 TCK104386,3-day Pass,2025-05-01,20,Female,3,48.27,56.57,0.98,Cash,Pop,8,8,5,True
 TCK103656,3-day Pass,2025-05-03,21,Female,2,49.4,52.19,26.44,Card,Pop,1,8,3,False
-TCK102868,3-day Pass,2025-05-03,18,Female,4,35.58,17.88,1.61,Card,Rock,6,5,3,False
+TCK102868,1-day Pass,2025-05-03,18,Female,4,35.58,17.88,1.61,Card,Rock,6,5,3,False
 TCK107243,3-day Pass,2025-05-01,26,Male,3,14.01,13.09,28.91,Card,Pop,6,8,3,True
 TCK101404,3-day Pass,2025-05-01,28,Male,5,9.71,15.97,81.55,Cash,Rock,4,10,4,False
 TCK105981,3-day Pass,2025-05-01,22,Female,5,28.9,32.31,28.51,Card,Pop,7,9,6,True
 TCK107043,1-day Pass,2025-05-01,18,Female,4,42.16,15.51,59.17,Card,Reggaeton,8,9,4,True
 TCK102639,3-day Pass,2025-05-02,28,Female,3,12.91,39.41,64.74,Card,Rock,5,7,7,True
-TCK103116,1-day Pass,2025-05-01,25,Female,3,30.33,47.27,17.52,Card,Rock,10,5,3,True
+TCK103116,3-day Pass,2025-05-01,25,Female,3,30.33,47.27,17.52,Card,Rock,10,5,3,True
 TCK102014,3-day Pass,2025-05-01,28,Male,3,7.47,33.42,83.7,Card,Rock,9,9,1,False
 TCK104831,3-day Pass,2025-05-02,23,Male,3,2.04,47.77,97.62,Card,Rock,5,8,3,False
 TCK106722,VIP,2025-05-01,18,Other,2,42.41,43.26,19.22,Card,Rock,9,8,3,True
@@ -4625,7 +4625,7 @@ TCK109306,3-day Pass,2025-05-01,25,Male,4,45.45,44.21,46.61,Card,Hip-Hop,6,9,1,T
 TCK106584,3-day Pass,2025-05-01,27,Female,5,17.37,35.47,77.95,Card,Rock,2,8,9,True
 TCK104830,3-day Pass,2025-05-02,18,Female,3,30.37,52.37,38.84,Cash,Pop,3,10,6,False
 TCK105183,1-day Pass,2025-05-02,24,Female,4,21.19,39.39,57.6,Card,Rock,10,8,10,False
-TCK101277,VIP,2025-05-01,26,Other,4,22.94,7.63,61.08,Card,Pop,8,7,4,True
+TCK101277,3-day Pass,2025-05-01,26,Other,4,22.94,7.63,61.08,Card,Pop,8,7,4,True
 TCK103381,3-day Pass,2025-05-02,25,Female,3,7.2,49.36,21.3,Card,Rock,3,9,3,True
 TCK106036,VIP,2025-05-01,24,Female,1,23.15,27.66,1.49,Card,Pop,1,6,6,False
 TCK104627,1-day Pass,2025-05-01,19,Female,4,23.39,1.59,24.62,Card,Rock,6,8,6,True
@@ -4779,7 +4779,7 @@ TCK103000,3-day Pass,2025-05-02,29,Male,2,42.27,10.53,26.66,Cash,Reggaeton,7,7,5
 TCK107070,VIP,2025-05-01,22,Female,3,7.12,5.2,4.37,Card,Hip-Hop,8,9,9,True
 TCK108933,3-day Pass,2025-05-03,19,Female,3,39.11,35.68,57.32,Cash,Electronic,3,8,9,False
 TCK106500,VIP,2025-05-01,31,Female,4,7.73,22.83,81.28,Card,Rock,2,7,5,True
-TCK107092,1-day Pass,2025-05-01,27,Other,1,19.59,14.68,29.54,Cash,Rock,3,2,4,True
+TCK107092,3-day Pass,2025-05-01,27,Other,1,19.59,14.68,29.54,Cash,Rock,3,2,4,True
 TCK100154,3-day Pass,2025-05-01,25,Female,3,7.85,15.55,31.83,Card,Hip-Hop,8,5,10,True
 TCK105038,3-day Pass,2025-05-01,22,Female,3,1.15,49.1,59.34,Card,Hip-Hop,8,8,3,True
 TCK106240,3-day Pass,2025-05-03,29,Male,4,7.89,29.77,51.88,Card,Hip-Hop,5,8,3,False
@@ -4800,7 +4800,7 @@ TCK106009,1-day Pass,2025-05-02,25,Male,3,41.96,3.35,61.48,Card,Rock,9,8,10,Fals
 TCK103593,3-day Pass,2025-05-03,28,Female,5,48.03,7.09,24.78,Cash,Electronic,7,8,4,False
 TCK106530,VIP,2025-05-01,26,Female,1,43.46,1.17,38.89,Festival App,Rock,7,8,6,True
 TCK105243,VIP,2025-05-03,27,Female,4,43.94,52.25,45.0,Card,Hip-Hop,6,2,6,True
-TCK105285,1-day Pass,2025-05-01,28,Female,2,40.57,51.23,46.1,Cash,Pop,4,8,5,False
+TCK105285,3-day Pass,2025-05-01,28,Female,2,40.57,51.23,46.1,Cash,Pop,4,8,5,False
 TCK103336,3-day Pass,2025-05-01,30,Male,1,43.87,38.55,57.56,Card,Rock,5,2,6,False
 TCK106762,1-day Pass,2025-05-01,28,Male,5,3.66,50.83,18.32,Festival App,Reggaeton,9,7,9,True
 TCK101934,3-day Pass,2025-05-01,18,Male,5,39.35,0.84,90.79,Festival App,Pop,1,10,4,False
@@ -4856,7 +4856,7 @@ TCK105500,3-day Pass,2025-05-01,27,Female,2,1.92,35.02,16.19,Card,Electronic,4,9
 TCK100940,VIP,2025-05-03,26,Male,1,3.33,43.67,58.71,Card,Rock,6,7,10,True
 TCK100739,3-day Pass,2025-05-01,23,Female,1,47.21,18.45,68.1,Festival App,Rock,3,10,6,True
 TCK103632,3-day Pass,2025-05-03,21,Male,3,37.07,54.15,66.63,Cash,Reggaeton,7,8,9,False
-TCK108683,3-day Pass,2025-05-03,31,Female,3,29.66,57.94,16.46,Cash,Hip-Hop,5,7,2,True
+TCK108683,1-day Pass,2025-05-03,31,Female,3,29.66,57.94,16.46,Cash,Hip-Hop,5,7,2,True
 TCK104611,VIP,2025-05-02,21,Other,4,37.83,34.07,66.83,Cash,Pop,4,7,2,False
 TCK106436,VIP,2025-05-01,27,Female,3,7.25,26.67,19.03,Cash,Pop,8,9,7,True
 TCK101036,VIP,2025-05-03,27,Female,2,23.77,13.47,58.89,Cash,Hip-Hop,4,8,4,False
@@ -4930,7 +4930,7 @@ TCK106052,1-day Pass,2025-05-01,31,Male,5,48.23,3.19,27.69,Card,Rock,6,7,5,True
 TCK102825,VIP,2025-05-02,23,Female,1,47.4,20.33,98.13,Card,Hip-Hop,9,6,4,True
 TCK103548,1-day Pass,2025-05-01,26,Male,1,16.11,3.85,65.38,Card,Hip-Hop,4,8,2,True
 TCK108300,3-day Pass,2025-05-01,23,Other,5,4.39,36.61,51.15,Card,Hip-Hop,4,8,4,True
-TCK107798,VIP,2025-05-03,25,Female,3,30.66,16.31,11.46,Card,Rock,7,7,6,True
+TCK107798,1-day Pass,2025-05-03,25,Female,3,30.66,16.31,11.46,Card,Rock,7,7,6,True
 TCK100957,1-day Pass,2025-05-03,25,Other,4,13.41,14.75,42.56,Cash,Electronic,9,9,5,True
 TCK102037,1-day Pass,2025-05-02,23,Female,2,31.86,17.35,42.21,Card,Pop,6,5,2,False
 TCK105976,3-day Pass,2025-05-03,28,Male,1,27.04,56.99,66.32,Cash,Reggaeton,8,6,6,True
@@ -5014,7 +5014,7 @@ TCK107020,3-day Pass,2025-05-01,28,Female,4,38.86,47.79,98.37,Cash,Reggaeton,7,9
 TCK107092,3-day Pass,2025-05-02,22,Female,2,29.39,14.21,95.74,Cash,Rock,9,6,3,False
 TCK104633,3-day Pass,2025-05-02,18,Female,5,26.31,59.45,78.23,Festival App,Pop,4,9,4,False
 TCK108711,3-day Pass,2025-05-01,27,Male,5,11.83,23.92,37.59,Card,Electronic,5,10,4,False
-TCK104379,3-day Pass,2025-05-02,27,Male,2,5.27,24.66,56.38,Card,Rock,7,8,4,True
+TCK104379,3-day Pass,2025-05-02,27,Female,2,5.27,24.66,56.38,Card,Rock,7,8,4,True
 TCK100540,1-day Pass,2025-05-02,30,Female,4,35.79,1.74,96.85,Card,Rock,9,9,6,True
 TCK106830,3-day Pass,2025-05-02,25,Male,1,14.78,20.41,6.82,Cash,Reggaeton,7,6,4,True
 TCK101762,VIP,2025-05-02,18,Female,3,17.95,42.85,22.06,Card,Hip-Hop,8,8,8,True
@@ -5066,7 +5066,7 @@ TCK104946,VIP,2025-05-01,18,Male,2,43.55,26.42,52.17,Card,Pop,8,8,3,False
 TCK102956,3-day Pass,2025-05-01,18,Female,3,43.44,24.83,23.19,Card,Pop,7,7,3,True
 TCK105412,VIP,2025-05-01,28,Female,5,40.0,17.47,46.77,Festival App,Rock,7,6,4,False
 TCK100309,3-day Pass,2025-05-02,27,Female,4,37.82,19.07,68.27,Card,Hip-Hop,1,6,2,True
-TCK107486,3-day Pass,2025-05-02,18,Female,3,13.42,12.28,49.55,Cash,Pop,9,7,6,True
+TCK107486,3-day Pass,2025-05-02,18,Male,3,13.42,12.28,49.55,Cash,Pop,9,7,6,True
 TCK107668,1-day Pass,2025-05-03,18,Other,2,39.24,18.28,34.19,Cash,Pop,8,9,3,False
 TCK102876,1-day Pass,2025-05-01,28,Female,4,44.97,21.83,64.55,Card,Hip-Hop,4,8,3,True
 TCK101743,3-day Pass,2025-05-03,26,Female,5,42.48,19.17,82.21,Card,Reggaeton,7,8,3,True
@@ -5123,7 +5123,7 @@ TCK105486,1-day Pass,2025-05-01,21,Female,4,32.37,41.77,70.06,Cash,Rock,5,8,9,Tr
 TCK102698,3-day Pass,2025-05-02,20,Female,5,38.14,31.95,50.39,Card,Pop,1,7,6,True
 TCK108995,1-day Pass,2025-05-01,28,Other,4,15.03,58.79,12.35,Card,Hip-Hop,8,9,2,False
 TCK101209,VIP,2025-05-01,27,Male,3,32.88,46.29,31.63,Card,Pop,2,10,10,True
-TCK106540,VIP,2025-05-02,19,Female,2,2.65,51.64,72.05,Cash,Hip-Hop,8,9,3,False
+TCK106540,3-day Pass,2025-05-02,19,Female,2,2.65,51.64,72.05,Cash,Hip-Hop,8,9,3,False
 TCK109103,1-day Pass,2025-05-03,27,Male,1,25.82,1.93,39.16,Card,Pop,1,10,5,True
 TCK107506,3-day Pass,2025-05-02,18,Male,1,30.2,45.31,51.75,Card,Rock,8,6,7,False
 TCK105820,3-day Pass,2025-05-02,25,Male,5,48.57,38.83,85.92,Cash,Hip-Hop,4,5,6,True
@@ -5193,7 +5193,7 @@ TCK103215,1-day Pass,2025-05-01,28,Male,3,29.93,10.48,63.63,Festival App,Rock,8,
 TCK104079,VIP,2025-05-02,21,Female,3,22.97,12.69,42.65,Card,Reggaeton,4,7,1,True
 TCK107477,3-day Pass,2025-05-01,30,Female,3,12.72,53.05,95.9,Card,Rock,6,8,1,True
 TCK101103,1-day Pass,2025-05-02,22,Female,5,20.33,6.71,25.34,Cash,Reggaeton,9,9,5,False
-TCK100142,3-day Pass,2025-05-03,33,Male,1,5.39,2.38,21.87,Card,Pop,8,10,5,True
+TCK100142,3-day Pass,2025-05-03,33,Female,1,5.39,2.38,21.87,Card,Pop,8,10,5,True
 TCK104948,3-day Pass,2025-05-02,26,Male,2,19.27,55.98,29.08,Card,Pop,8,7,5,True
 TCK102935,3-day Pass,2025-05-01,23,Female,3,46.7,17.46,11.31,Card,Pop,8,10,3,True
 TCK108805,3-day Pass,2025-05-03,18,Other,4,27.72,19.74,43.53,Cash,Rock,1,10,4,True
@@ -5353,7 +5353,7 @@ TCK100778,3-day Pass,2025-05-02,26,Female,3,47.58,28.67,8.03,Festival App,Rock,3
 TCK106900,3-day Pass,2025-05-02,28,Male,4,3.73,13.52,71.26,Card,Reggaeton,1,8,7,True
 TCK106226,3-day Pass,2025-05-01,21,Male,3,16.16,4.27,26.53,Card,Rock,7,7,3,True
 TCK109255,3-day Pass,2025-05-01,18,Female,1,17.26,7.07,43.0,Card,Pop,1,7,4,True
-TCK101013,1-day Pass,2025-05-03,27,Female,2,37.47,3.63,39.99,Card,Pop,2,10,2,True
+TCK101013,1-day Pass,2025-05-03,27,Male,2,37.47,3.63,39.99,Card,Pop,2,10,2,True
 TCK107670,3-day Pass,2025-05-02,23,Female,5,38.48,44.39,65.61,Cash,Hip-Hop,8,9,4,False
 TCK108221,VIP,2025-05-02,24,Male,3,19.89,53.03,79.98,Card,Rock,8,9,3,True
 TCK101943,3-day Pass,2025-05-01,18,Female,3,30.26,57.83,11.93,Cash,Hip-Hop,4,10,7,False
@@ -5432,7 +5432,7 @@ TCK103268,1-day Pass,2025-05-01,25,Male,4,4.27,40.19,71.01,Cash,Pop,7,9,6,True
 TCK103016,3-day Pass,2025-05-03,21,Other,5,8.87,19.37,14.78,Card,Pop,9,9,2,False
 TCK103753,3-day Pass,2025-05-02,20,Male,5,19.86,3.51,74.12,Card,Pop,7,8,4,False
 TCK101113,3-day Pass,2025-05-02,23,Female,2,0.9,29.66,34.34,Card,Pop,9,7,9,True
-TCK105428,1-day Pass,2025-05-02,26,Female,5,10.14,22.62,45.22,Cash,Pop,6,8,3,True
+TCK105428,VIP,2025-05-02,26,Female,5,10.14,22.62,45.22,Cash,Pop,6,8,3,True
 TCK104002,3-day Pass,2025-05-02,18,Female,2,42.04,31.94,79.86,Card,Rock,3,7,7,True
 TCK106415,3-day Pass,2025-05-01,20,Female,2,47.24,16.68,64.54,Card,Rock,8,2,6,True
 TCK102694,3-day Pass,2025-05-02,24,Male,3,6.06,14.91,79.35,Card,Rock,7,8,3,True
@@ -5522,7 +5522,7 @@ TCK106795,3-day Pass,2025-05-03,26,Female,2,2.31,33.82,33.46,Card,Pop,4,9,4,True
 TCK102365,3-day Pass,2025-05-02,31,Male,3,2.95,32.06,56.73,Card,Pop,8,10,5,True
 TCK104397,3-day Pass,2025-05-02,29,Female,4,13.19,14.82,87.31,Card,Rock,9,6,3,True
 TCK100955,3-day Pass,2025-05-03,24,Female,4,27.14,9.79,53.97,Cash,Pop,7,9,4,False
-TCK101677,1-day Pass,2025-05-01,27,Female,3,11.64,11.17,99.56,Cash,Rock,8,9,3,True
+TCK101677,3-day Pass,2025-05-01,27,Female,3,11.64,11.17,99.56,Cash,Rock,8,9,3,True
 TCK101902,3-day Pass,2025-05-01,28,Female,2,14.51,20.67,80.33,Festival App,Rock,7,6,10,True
 TCK101621,3-day Pass,2025-05-01,30,Male,4,29.61,5.42,68.89,Card,Hip-Hop,1,9,8,True
 TCK103354,3-day Pass,2025-05-01,25,Female,4,28.21,40.42,84.41,Card,Rock,8,6,9,True
@@ -5681,7 +5681,7 @@ TCK104970,1-day Pass,2025-05-02,29,Female,2,30.53,3.02,96.93,Card,Rock,6,7,7,Tru
 TCK102074,VIP,2025-05-02,20,Female,2,18.06,2.95,1.14,Card,Hip-Hop,8,7,2,True
 TCK108468,VIP,2025-05-01,25,Female,3,17.01,55.04,61.09,Cash,Electronic,3,8,2,False
 TCK101025,3-day Pass,2025-05-01,28,Male,3,1.54,52.43,40.45,Card,Pop,5,7,10,False
-TCK104470,VIP,2025-05-01,18,Male,4,41.73,48.43,40.61,Card,Pop,5,9,3,False
+TCK104470,3-day Pass,2025-05-01,18,Male,4,41.73,48.43,40.61,Card,Pop,5,9,3,False
 TCK108883,3-day Pass,2025-05-03,28,Male,5,44.22,1.61,1.18,Card,Pop,8,10,4,True
 TCK106661,3-day Pass,2025-05-01,19,Female,2,7.67,33.13,33.66,Card,Rock,5,7,2,True
 TCK107937,VIP,2025-05-03,29,Male,4,32.77,51.75,86.87,Card,Rock,1,8,8,True
@@ -5701,7 +5701,7 @@ TCK105833,VIP,2025-05-02,18,Female,3,44.87,49.78,46.18,Cash,Reggaeton,10,8,3,Tru
 TCK101039,3-day Pass,2025-05-02,23,Female,3,30.74,23.05,8.83,Cash,Pop,7,9,9,False
 TCK107214,3-day Pass,2025-05-01,18,Female,3,48.98,57.17,65.71,Card,Rock,1,9,3,True
 TCK104479,1-day Pass,2025-05-03,30,Female,2,2.93,31.67,53.73,Card,Pop,6,7,9,False
-TCK107418,VIP,2025-05-03,23,Female,5,45.27,2.65,77.83,Card,Rock,5,8,2,False
+TCK107418,3-day Pass,2025-05-03,23,Female,5,45.27,2.65,77.83,Card,Rock,5,8,2,False
 TCK103021,VIP,2025-05-03,18,Male,5,22.39,41.37,32.48,Card,Rock,7,6,5,False
 TCK101185,3-day Pass,2025-05-01,26,Male,2,17.38,12.77,6.66,Festival App,Pop,8,6,8,True
 TCK108353,1-day Pass,2025-05-02,22,Female,5,12.56,55.98,56.03,Cash,Hip-Hop,6,8,5,False
@@ -5709,7 +5709,7 @@ TCK100733,VIP,2025-05-01,23,Female,2,43.21,55.29,1.05,Festival App,Rock,6,6,6,Fa
 TCK104039,VIP,2025-05-03,29,Female,3,38.82,32.68,0.24,Cash,Hip-Hop,1,9,2,True
 TCK108444,3-day Pass,2025-05-02,28,Female,4,15.58,21.88,57.66,Card,Reggaeton,3,9,6,True
 TCK104482,1-day Pass,2025-05-02,24,Female,2,23.94,17.85,99.02,Card,Pop,2,7,6,True
-TCK102185,1-day Pass,2025-05-02,21,Other,5,2.22,38.4,43.87,Card,Rock,9,7,2,True
+TCK102185,VIP,2025-05-02,21,Other,5,2.22,38.4,43.87,Card,Rock,9,7,2,True
 TCK107713,3-day Pass,2025-05-02,25,Female,3,33.28,18.33,35.17,Card,Rock,3,5,9,True
 TCK100453,3-day Pass,2025-05-03,18,Male,3,0.24,20.75,89.32,Card,Electronic,7,10,2,True
 TCK101732,VIP,2025-05-01,21,Male,3,27.7,48.74,74.24,Cash,Reggaeton,6,7,2,False
@@ -5736,7 +5736,7 @@ TCK101996,1-day Pass,2025-05-03,19,Male,5,32.33,18.71,61.63,Card,Electronic,6,7,
 TCK108515,VIP,2025-05-01,18,Female,2,2.18,35.46,95.03,Card,Rock,9,8,3,True
 TCK105047,3-day Pass,2025-05-01,27,Female,2,0.19,0.15,88.36,Card,Rock,4,9,6,True
 TCK109329,3-day Pass,2025-05-02,29,Male,5,26.45,38.34,88.55,Festival App,Pop,4,9,3,True
-TCK103072,3-day Pass,2025-05-03,28,Female,4,20.66,50.79,46.3,Card,Reggaeton,8,7,5,False
+TCK103072,1-day Pass,2025-05-03,28,Female,4,20.66,50.79,46.3,Card,Reggaeton,8,7,5,False
 TCK106830,3-day Pass,2025-05-01,21,Female,2,26.45,50.77,6.16,Card,Hip-Hop,4,6,2,True
 TCK108384,1-day Pass,2025-05-01,27,Male,4,24.94,49.93,98.81,Cash,Pop,7,9,2,True
 TCK106742,3-day Pass,2025-05-02,25,Female,5,1.41,59.2,33.74,Card,Pop,8,8,10,False
@@ -5850,7 +5850,7 @@ TCK101283,VIP,2025-05-01,23,Male,5,2.43,41.54,32.45,Card,Rock,4,7,2,True
 TCK103258,3-day Pass,2025-05-01,23,Male,5,5.71,36.9,63.7,Card,Hip-Hop,8,1,3,True
 TCK106993,VIP,2025-05-02,24,Male,5,0.42,53.29,28.3,Card,Hip-Hop,1,10,2,False
 TCK108425,3-day Pass,2025-05-01,26,Female,4,20.9,10.14,89.31,Card,Rock,5,9,5,True
-TCK100719,3-day Pass,2025-05-02,24,Male,3,6.26,33.83,93.74,Cash,Pop,8,8,3,True
+TCK100719,3-day Pass,2025-05-02,24,Female,3,6.26,33.83,93.74,Cash,Pop,8,8,3,True
 TCK100748,3-day Pass,2025-05-03,18,Male,5,13.52,9.1,87.83,Cash,Rock,9,9,5,True
 TCK102616,3-day Pass,2025-05-02,27,Male,2,45.82,12.77,28.53,Card,Pop,7,6,3,True
 TCK102359,3-day Pass,2025-05-03,28,Female,4,31.56,52.58,40.48,Card,Pop,8,8,3,True
@@ -5905,7 +5905,7 @@ TCK102812,3-day Pass,2025-05-02,20,Male,3,18.38,59.4,55.09,Card,Pop,1,9,8,True
 TCK103658,3-day Pass,2025-05-03,23,Male,1,3.22,26.59,65.53,Cash,Rock,1,7,2,True
 TCK107905,1-day Pass,2025-05-01,19,Female,2,49.17,55.84,12.68,Card,Pop,1,7,9,True
 TCK105148,3-day Pass,2025-05-03,29,Male,3,44.48,29.08,26.32,Card,Pop,4,6,5,False
-TCK106119,3-day Pass,2025-05-01,25,Male,5,37.14,25.49,18.71,Card,Pop,9,7,9,True
+TCK106119,3-day Pass,2025-05-01,25,Female,5,37.14,25.49,18.71,Card,Pop,9,7,9,True
 TCK108416,3-day Pass,2025-05-02,22,Other,3,39.74,13.83,73.94,Card,Electronic,9,7,4,False
 TCK100500,VIP,2025-05-01,18,Male,3,19.07,17.08,50.94,Card,Hip-Hop,7,7,6,True
 TCK104766,VIP,2025-05-02,20,Female,3,28.54,16.19,4.6,Cash,Reggaeton,8,9,5,True
@@ -6022,7 +6022,7 @@ TCK103214,1-day Pass,2025-05-02,22,Male,5,22.1,53.03,41.93,Cash,Rock,8,9,4,False
 TCK103138,VIP,2025-05-02,18,Female,5,4.87,28.49,91.18,Card,Electronic,3,7,2,False
 TCK108348,1-day Pass,2025-05-01,27,Male,2,4.16,58.26,8.36,Cash,Rock,9,2,4,False
 TCK105284,1-day Pass,2025-05-01,25,Male,2,11.56,2.8,90.49,Card,Pop,3,8,6,False
-TCK102676,3-day Pass,2025-05-02,27,Female,5,24.22,46.24,98.31,Card,Rock,8,8,2,False
+TCK102676,3-day Pass,2025-05-02,27,Male,5,24.22,46.24,98.31,Card,Rock,8,8,2,False
 TCK100824,VIP,2025-05-03,20,Female,1,18.76,51.66,52.39,Card,Rock,6,7,3,False
 TCK105132,3-day Pass,2025-05-01,29,Female,2,8.3,36.85,70.59,Card,Electronic,7,10,3,True
 TCK104994,3-day Pass,2025-05-03,19,Male,3,27.13,46.93,99.74,Cash,Rock,9,5,3,True
@@ -6046,7 +6046,7 @@ TCK107739,3-day Pass,2025-05-03,29,Female,1,49.35,30.33,29.23,Card,Rock,10,9,9,T
 TCK108123,1-day Pass,2025-05-03,26,Male,2,25.72,33.66,70.14,Card,Hip-Hop,5,9,3,True
 TCK104368,VIP,2025-05-01,18,Male,3,36.89,27.93,77.93,Card,Rock,2,10,3,True
 TCK107376,3-day Pass,2025-05-03,27,Male,2,40.89,14.24,70.25,Card,Rock,4,7,9,True
-TCK101970,3-day Pass,2025-05-03,24,Male,1,8.17,38.65,31.01,Card,Rock,8,7,3,False
+TCK101970,1-day Pass,2025-05-03,24,Male,1,8.17,38.65,31.01,Card,Rock,8,7,3,False
 TCK105146,VIP,2025-05-02,29,Female,4,48.04,41.96,24.05,Cash,Rock,8,9,3,True
 TCK107714,3-day Pass,2025-05-03,24,Male,3,44.73,39.47,15.74,Card,Rock,4,7,6,False
 TCK105335,3-day Pass,2025-05-02,27,Female,5,24.66,53.44,76.46,Card,Rock,4,6,3,True
@@ -6059,7 +6059,7 @@ TCK106651,3-day Pass,2025-05-01,19,Female,3,39.65,54.48,96.15,Cash,Rock,8,9,6,Fa
 TCK105136,1-day Pass,2025-05-01,30,Female,3,28.56,23.92,64.56,Cash,Rock,6,9,5,True
 TCK104934,1-day Pass,2025-05-02,27,Other,4,47.06,37.93,73.94,Card,Electronic,4,7,5,True
 TCK106990,3-day Pass,2025-05-02,27,Female,2,23.67,54.76,73.01,Cash,Rock,4,1,4,True
-TCK105506,3-day Pass,2025-05-03,29,Male,2,12.71,36.68,65.88,Card,Rock,3,7,5,True
+TCK105506,1-day Pass,2025-05-03,29,Male,2,12.71,36.68,65.88,Card,Rock,3,7,5,True
 TCK107286,1-day Pass,2025-05-03,25,Male,4,33.9,47.03,3.83,Card,Pop,4,7,9,False
 TCK104023,1-day Pass,2025-05-01,21,Female,5,31.53,20.7,23.72,Card,Rock,2,8,8,False
 TCK101218,3-day Pass,2025-05-02,25,Male,4,10.46,30.86,74.75,Card,Reggaeton,2,10,6,False
@@ -6199,7 +6199,7 @@ TCK108325,3-day Pass,2025-05-01,25,Male,2,8.98,10.85,87.43,Cash,Hip-Hop,9,6,6,Fa
 TCK103229,3-day Pass,2025-05-01,27,Female,4,22.03,31.98,82.67,Cash,Reggaeton,3,9,6,True
 TCK108134,1-day Pass,2025-05-03,18,Female,3,16.04,30.71,14.97,Card,Pop,8,9,2,True
 TCK100678,3-day Pass,2025-05-01,18,Male,5,38.73,54.92,52.41,Cash,Electronic,7,7,4,True
-TCK106537,VIP,2025-05-01,26,Male,2,16.61,59.22,40.39,Cash,Hip-Hop,5,8,3,True
+TCK106537,3-day Pass,2025-05-01,26,Male,2,16.61,59.22,40.39,Cash,Hip-Hop,5,8,3,True
 TCK108569,VIP,2025-05-02,28,Female,5,18.04,37.93,69.94,Cash,Rock,8,10,1,True
 TCK108066,3-day Pass,2025-05-03,18,Female,4,15.68,19.28,18.79,Cash,Rock,4,9,9,True
 TCK101284,3-day Pass,2025-05-01,27,Female,5,27.95,45.94,34.56,Cash,Reggaeton,8,6,6,False
@@ -6236,7 +6236,7 @@ TCK100548,3-day Pass,2025-05-02,25,Male,3,42.52,21.36,11.75,Card,Pop,7,8,2,True
 TCK101372,3-day Pass,2025-05-02,18,Other,2,24.26,17.21,82.47,Card,Pop,8,9,5,False
 TCK106289,VIP,2025-05-03,25,Female,3,43.28,2.55,59.74,Card,Rock,8,2,2,True
 TCK100058,3-day Pass,2025-05-03,27,Female,5,10.02,27.82,35.9,Cash,Rock,1,7,9,True
-TCK103608,3-day Pass,2025-05-02,24,Male,2,36.75,27.88,97.68,Card,Rock,7,8,2,True
+TCK103608,3-day Pass,2025-05-02,24,Female,2,36.75,27.88,97.68,Card,Rock,7,8,2,True
 TCK106139,3-day Pass,2025-05-01,24,Other,5,15.98,51.74,33.99,Card,Rock,7,6,6,True
 TCK108645,3-day Pass,2025-05-01,30,Female,1,19.61,5.8,65.23,Card,Pop,8,7,2,True
 TCK106150,VIP,2025-05-03,32,Female,2,43.59,28.46,64.76,Cash,Rock,4,7,4,False
@@ -6280,7 +6280,7 @@ TCK104863,3-day Pass,2025-05-02,19,Male,5,42.98,20.25,32.05,Card,Pop,9,9,7,False
 TCK102583,3-day Pass,2025-05-02,21,Female,3,28.47,59.87,11.82,Card,Reggaeton,6,2,3,False
 TCK106153,3-day Pass,2025-05-03,18,Male,3,32.25,53.24,98.3,Card,Pop,3,8,2,True
 TCK105503,3-day Pass,2025-05-03,21,Female,3,25.84,7.27,68.26,Card,Pop,4,10,3,True
-TCK106953,3-day Pass,2025-05-01,23,Female,3,0.61,54.18,4.93,Festival App,Hip-Hop,9,9,8,True
+TCK106953,VIP,2025-05-01,23,Female,3,0.61,54.18,4.93,Festival App,Hip-Hop,9,9,8,True
 TCK103277,1-day Pass,2025-05-01,26,Male,4,22.29,47.77,98.71,Card,Hip-Hop,3,9,10,False
 TCK108563,3-day Pass,2025-05-03,18,Male,4,49.41,3.88,56.4,Card,Pop,2,8,3,True
 TCK104799,3-day Pass,2025-05-03,28,Female,4,6.76,53.28,76.4,Cash,Rock,7,9,6,True
@@ -6371,7 +6371,7 @@ TCK103436,3-day Pass,2025-05-01,29,Male,3,6.16,31.82,20.35,Cash,Rock,8,8,1,False
 TCK103750,1-day Pass,2025-05-03,31,Female,4,27.49,13.48,51.31,Cash,Hip-Hop,8,8,7,True
 TCK102133,1-day Pass,2025-05-02,28,Female,5,44.61,48.58,79.16,Cash,Reggaeton,7,8,8,False
 TCK108373,VIP,2025-05-02,31,Female,3,27.88,42.16,26.55,Card,Reggaeton,8,8,3,False
-TCK102599,VIP,2025-05-03,29,Female,1,34.55,30.3,32.68,Card,Rock,6,9,5,True
+TCK102599,3-day Pass,2025-05-03,29,Female,1,34.55,30.3,32.68,Card,Rock,6,9,5,True
 TCK107696,VIP,2025-05-02,26,Male,4,42.8,54.29,6.73,Card,Pop,9,9,5,False
 TCK100862,VIP,2025-05-03,26,Female,5,23.49,30.13,68.69,Card,Rock,8,10,3,True
 TCK105229,VIP,2025-05-02,23,Male,3,39.94,21.82,6.38,Card,Hip-Hop,1,10,6,True
@@ -6390,7 +6390,7 @@ TCK102288,VIP,2025-05-01,28,Other,4,11.81,25.62,51.29,Card,Rock,8,7,4,True
 TCK102936,1-day Pass,2025-05-02,29,Male,3,34.37,8.15,37.35,Card,Pop,9,9,1,True
 TCK100737,3-day Pass,2025-05-03,20,Female,3,41.97,7.32,70.76,Card,Rock,8,4,4,True
 TCK105470,1-day Pass,2025-05-03,22,Male,5,15.24,50.65,94.1,Festival App,Hip-Hop,3,10,8,True
-TCK106631,3-day Pass,2025-05-02,28,Male,4,7.74,22.66,15.13,Card,Rock,3,7,7,True
+TCK106631,VIP,2025-05-02,28,Male,4,7.74,22.66,15.13,Card,Rock,3,7,7,True
 TCK108910,VIP,2025-05-03,27,Female,3,40.74,31.61,93.8,Cash,Rock,4,6,5,True
 TCK102161,3-day Pass,2025-05-02,24,Female,3,7.06,35.12,8.66,Card,Hip-Hop,6,6,4,False
 TCK102927,VIP,2025-05-03,28,Female,3,40.07,19.02,96.25,Card,Reggaeton,1,9,5,False
@@ -6400,7 +6400,7 @@ TCK100472,1-day Pass,2025-05-02,30,Male,3,9.38,44.44,17.08,Card,Pop,10,8,3,True
 TCK100084,VIP,2025-05-01,21,Female,5,0.84,41.68,30.48,Card,Hip-Hop,1,7,9,True
 TCK101344,VIP,2025-05-01,24,Female,5,35.28,10.22,2.95,Card,Pop,4,2,6,True
 TCK103059,1-day Pass,2025-05-02,18,Male,5,31.31,47.77,92.45,Card,Hip-Hop,7,10,3,True
-TCK109185,3-day Pass,2025-05-03,25,Male,3,31.95,9.71,11.75,Cash,Hip-Hop,4,7,1,True
+TCK109185,VIP,2025-05-03,25,Male,3,31.95,9.71,11.75,Cash,Hip-Hop,4,7,1,True
 TCK104074,3-day Pass,2025-05-02,21,Female,4,24.75,42.67,43.65,Cash,Reggaeton,8,8,3,True
 TCK104292,VIP,2025-05-02,28,Male,3,29.1,31.95,53.72,Card,Electronic,9,8,6,False
 TCK108085,VIP,2025-05-01,25,Female,5,33.73,58.31,55.45,Cash,Rock,6,9,3,True
@@ -6416,14 +6416,14 @@ TCK105426,3-day Pass,2025-05-03,20,Female,5,24.4,21.68,92.36,Card,Hip-Hop,8,9,10
 TCK104807,1-day Pass,2025-05-01,26,Male,2,18.49,40.97,18.15,Cash,Hip-Hop,6,5,5,False
 TCK102838,3-day Pass,2025-05-02,18,Male,5,46.4,57.41,75.37,Cash,Hip-Hop,6,8,6,True
 TCK103808,1-day Pass,2025-05-01,22,Female,1,25.61,2.9,98.74,Cash,Rock,7,7,2,True
-TCK107842,VIP,2025-05-03,18,Male,3,44.13,49.0,77.49,Card,Pop,2,9,3,False
+TCK107842,3-day Pass,2025-05-03,18,Male,3,44.13,49.0,77.49,Card,Pop,2,9,3,False
 TCK108546,3-day Pass,2025-05-01,23,Male,2,20.92,14.03,77.75,Card,Reggaeton,6,8,2,False
 TCK103639,3-day Pass,2025-05-03,22,Male,4,34.2,46.6,20.1,Card,Rock,7,5,7,True
 TCK103861,1-day Pass,2025-05-02,25,Female,1,41.83,2.14,30.62,Cash,Rock,5,4,1,True
 TCK100775,3-day Pass,2025-05-02,18,Male,4,42.28,4.26,81.72,Card,Electronic,7,7,3,True
 TCK105152,1-day Pass,2025-05-03,27,Male,3,21.5,45.58,76.19,Card,Rock,8,8,7,True
 TCK107545,3-day Pass,2025-05-02,18,Female,5,27.39,35.31,88.18,Cash,Rock,1,9,5,True
-TCK100062,VIP,2025-05-02,22,Male,4,30.81,42.22,90.48,Card,Rock,8,8,3,True
+TCK100062,VIP,2025-05-02,22,Female,4,30.81,42.22,90.48,Card,Rock,8,8,3,True
 TCK106283,3-day Pass,2025-05-01,27,Female,2,24.61,34.56,33.8,Cash,Pop,5,8,3,True
 TCK102255,3-day Pass,2025-05-03,27,Female,4,14.99,45.78,65.07,Card,Reggaeton,9,6,3,True
 TCK106168,1-day Pass,2025-05-02,18,Female,2,35.44,52.71,36.58,Cash,Rock,4,8,8,False
@@ -6460,7 +6460,7 @@ TCK105713,3-day Pass,2025-05-01,31,Male,3,15.97,47.07,2.44,Card,Rock,8,10,3,True
 TCK100998,1-day Pass,2025-05-03,31,Female,2,12.75,9.88,53.82,Festival App,Rock,4,8,6,True
 TCK109093,3-day Pass,2025-05-03,29,Female,3,17.52,51.21,58.9,Cash,Hip-Hop,3,1,9,False
 TCK107992,3-day Pass,2025-05-02,18,Female,5,44.01,37.14,14.41,Cash,Pop,8,4,3,True
-TCK107651,VIP,2025-05-01,28,Male,3,28.22,4.81,67.7,Cash,Rock,1,9,9,True
+TCK107651,3-day Pass,2025-05-01,28,Male,3,28.22,4.81,67.7,Cash,Rock,1,9,9,True
 TCK108017,VIP,2025-05-01,23,Female,3,48.85,40.19,72.38,Cash,Pop,8,7,5,True
 TCK108004,3-day Pass,2025-05-01,19,Female,3,0.71,45.27,68.65,Card,Rock,1,1,6,True
 TCK104026,3-day Pass,2025-05-01,33,Female,3,16.1,48.46,76.9,Card,Pop,1,8,6,True
@@ -6480,7 +6480,7 @@ TCK101655,3-day Pass,2025-05-01,28,Male,3,22.46,4.79,61.09,Card,Electronic,7,10,
 TCK107761,3-day Pass,2025-05-01,23,Female,5,16.13,55.39,64.99,Festival App,Electronic,7,6,10,True
 TCK102261,3-day Pass,2025-05-01,27,Male,3,46.8,13.2,1.64,Card,Reggaeton,8,8,7,False
 TCK100736,1-day Pass,2025-05-03,20,Female,3,26.9,48.43,16.57,Card,Reggaeton,6,1,2,True
-TCK103645,VIP,2025-05-02,28,Female,5,3.97,9.58,60.25,Card,Rock,7,7,4,True
+TCK103645,VIP,2025-05-02,28,Male,5,3.97,9.58,60.25,Card,Rock,7,7,4,True
 TCK105647,3-day Pass,2025-05-01,21,Female,5,2.46,35.09,15.47,Card,Reggaeton,4,2,8,True
 TCK107227,3-day Pass,2025-05-01,27,Male,4,7.36,33.44,29.75,Festival App,Rock,4,6,5,True
 TCK100285,VIP,2025-05-03,18,Male,3,29.37,19.59,86.59,Card,Electronic,9,9,7,True
@@ -6668,7 +6668,7 @@ TCK100274,1-day Pass,2025-05-03,20,Male,4,5.69,21.36,40.9,Card,Pop,4,1,2,False
 TCK102941,VIP,2025-05-02,23,Male,2,49.24,58.81,38.62,Cash,Electronic,6,9,9,True
 TCK101386,3-day Pass,2025-05-03,27,Female,3,16.12,26.48,18.23,Card,Electronic,2,6,5,True
 TCK102030,3-day Pass,2025-05-02,31,Male,4,39.5,48.46,1.22,Card,Pop,10,6,6,True
-TCK106962,1-day Pass,2025-05-02,19,Female,4,21.85,57.95,71.57,Card,Reggaeton,8,6,2,True
+TCK106962,3-day Pass,2025-05-02,19,Female,4,21.85,57.95,71.57,Card,Reggaeton,8,6,2,True
 TCK100112,3-day Pass,2025-05-02,20,Female,4,15.89,24.5,1.82,Cash,Hip-Hop,8,8,3,True
 TCK108320,3-day Pass,2025-05-03,28,Male,2,16.11,21.04,91.81,Festival App,Rock,2,9,4,False
 TCK102856,3-day Pass,2025-05-03,23,Female,4,44.78,41.76,63.57,Cash,Pop,5,8,9,True
@@ -6723,7 +6723,7 @@ TCK100785,3-day Pass,2025-05-03,19,Male,4,22.69,22.53,37.01,Cash,Pop,8,10,3,True
 TCK105029,1-day Pass,2025-05-03,24,Female,1,43.5,24.79,84.59,Card,Reggaeton,9,6,2,False
 TCK104276,VIP,2025-05-01,24,Male,5,7.96,15.04,43.03,Card,Hip-Hop,7,10,1,True
 TCK105886,VIP,2025-05-01,27,Female,3,11.78,6.76,75.29,Card,Pop,6,9,2,True
-TCK103096,1-day Pass,2025-05-02,26,Female,3,18.3,0.01,63.58,Card,Electronic,5,9,8,True
+TCK103096,3-day Pass,2025-05-02,26,Female,3,18.3,0.01,63.58,Card,Electronic,5,9,8,True
 TCK103514,3-day Pass,2025-05-01,18,Female,3,2.31,27.09,16.58,Card,Hip-Hop,5,8,5,True
 TCK102508,VIP,2025-05-03,30,Female,1,9.24,5.27,91.38,Card,Rock,7,8,3,True
 TCK106868,3-day Pass,2025-05-03,28,Male,4,31.26,36.29,14.21,Card,Hip-Hop,7,10,2,True
@@ -6739,7 +6739,7 @@ TCK101812,VIP,2025-05-01,20,Male,4,24.22,17.43,91.62,Cash,Pop,8,10,2,False
 TCK109233,1-day Pass,2025-05-02,26,Male,3,14.43,46.83,91.88,Cash,Hip-Hop,3,7,8,True
 TCK106729,VIP,2025-05-03,25,Male,2,21.57,48.57,18.84,Cash,Electronic,8,7,4,True
 TCK100295,1-day Pass,2025-05-01,20,Other,1,41.38,27.23,49.43,Festival App,Hip-Hop,4,7,3,False
-TCK106375,VIP,2025-05-03,23,Female,3,40.4,59.78,79.34,Festival App,Pop,5,8,8,False
+TCK106375,3-day Pass,2025-05-03,23,Female,3,40.4,59.78,79.34,Festival App,Pop,5,8,8,False
 TCK107046,3-day Pass,2025-05-02,18,Male,5,4.46,17.06,28.77,Card,Electronic,4,4,7,True
 TCK108810,1-day Pass,2025-05-02,27,Female,2,10.02,30.98,41.55,Cash,Reggaeton,7,9,8,False
 TCK109104,3-day Pass,2025-05-01,26,Male,3,11.77,2.0,79.12,Card,Pop,7,9,3,False
@@ -6747,9 +6747,9 @@ TCK109073,VIP,2025-05-03,19,Male,5,37.76,29.65,81.81,Cash,Reggaeton,8,9,9,True
 TCK105245,VIP,2025-05-01,23,Male,3,5.73,46.38,44.29,Card,Rock,4,8,6,False
 TCK107689,3-day Pass,2025-05-03,22,Female,2,3.02,50.01,68.01,Card,Pop,1,9,8,True
 TCK106940,3-day Pass,2025-05-02,25,Male,3,19.81,0.84,16.29,Card,Rock,1,2,6,True
-TCK103738,3-day Pass,2025-05-01,23,Female,3,41.22,33.26,66.25,Card,Rock,10,10,6,True
+TCK103738,1-day Pass,2025-05-01,23,Female,3,41.22,33.26,66.25,Card,Rock,10,10,6,True
 TCK102657,VIP,2025-05-01,31,Female,4,23.28,50.33,25.66,Card,Electronic,1,9,8,True
-TCK103154,3-day Pass,2025-05-01,25,Male,4,9.22,34.97,20.87,Card,Rock,6,9,3,True
+TCK103154,3-day Pass,2025-05-01,25,Other,4,9.22,34.97,20.87,Card,Rock,6,9,3,True
 TCK100888,3-day Pass,2025-05-03,18,Male,2,20.44,52.24,78.25,Cash,Hip-Hop,4,8,3,True
 TCK106121,3-day Pass,2025-05-02,26,Female,2,32.78,0.22,68.3,Card,Pop,7,7,9,False
 TCK104771,3-day Pass,2025-05-01,31,Female,4,29.02,39.92,68.23,Cash,Hip-Hop,1,8,5,True
@@ -6776,7 +6776,7 @@ TCK104332,VIP,2025-05-02,30,Male,4,28.52,58.7,1.21,Cash,Rock,8,7,8,False
 TCK103851,1-day Pass,2025-05-03,18,Male,4,26.62,36.68,79.6,Card,Reggaeton,1,1,9,True
 TCK102440,3-day Pass,2025-05-02,18,Male,2,27.9,8.48,13.57,Card,Reggaeton,8,7,2,True
 TCK108565,VIP,2025-05-03,28,Female,5,29.12,8.3,6.17,Cash,Rock,7,8,9,False
-TCK107534,3-day Pass,2025-05-03,23,Female,2,13.68,3.28,77.95,Card,Electronic,8,7,3,False
+TCK107534,VIP,2025-05-03,23,Female,2,13.68,3.28,77.95,Card,Electronic,8,7,3,False
 TCK102110,3-day Pass,2025-05-03,22,Female,3,12.34,57.65,55.04,Card,Hip-Hop,4,9,7,False
 TCK100815,3-day Pass,2025-05-02,20,Female,3,40.0,13.31,39.17,Card,Hip-Hop,4,9,6,True
 TCK105090,3-day Pass,2025-05-03,24,Female,5,0.96,4.19,64.5,Card,Rock,4,9,4,False
@@ -6807,7 +6807,7 @@ TCK101711,VIP,2025-05-02,26,Male,4,41.29,53.58,9.23,Cash,Pop,8,8,2,True
 TCK105202,VIP,2025-05-01,23,Male,2,41.79,50.21,7.57,Card,Rock,7,10,8,True
 TCK104318,1-day Pass,2025-05-01,24,Female,4,45.25,4.76,21.9,Card,Hip-Hop,5,9,6,True
 TCK108047,3-day Pass,2025-05-01,23,Female,3,24.15,6.24,30.27,Card,Rock,3,8,7,False
-TCK108756,1-day Pass,2025-05-02,28,Female,5,43.31,16.15,32.95,Cash,Rock,5,8,5,True
+TCK108756,3-day Pass,2025-05-02,28,Female,5,43.31,16.15,32.95,Cash,Rock,5,8,5,True
 TCK108944,1-day Pass,2025-05-01,27,Female,1,18.81,57.53,49.49,Festival App,Hip-Hop,8,9,2,False
 TCK103796,VIP,2025-05-01,20,Female,4,25.81,29.62,73.26,Card,Rock,9,9,3,True
 TCK104281,3-day Pass,2025-05-02,30,Female,3,22.76,27.11,93.77,Card,Hip-Hop,6,8,6,False
@@ -6845,7 +6845,7 @@ TCK100172,3-day Pass,2025-05-01,21,Female,5,45.6,18.5,96.7,Cash,Pop,5,8,9,False
 TCK104800,3-day Pass,2025-05-02,28,Female,3,19.02,0.1,80.48,Card,Rock,1,5,2,True
 TCK103002,3-day Pass,2025-05-02,22,Male,5,2.41,15.14,31.38,Cash,Pop,1,10,4,True
 TCK107411,VIP,2025-05-03,23,Male,4,20.59,27.14,87.52,Card,Rock,8,6,2,True
-TCK103428,3-day Pass,2025-05-02,31,Female,3,13.21,18.7,73.88,Cash,Rock,10,7,3,False
+TCK103428,3-day Pass,2025-05-02,31,Male,3,13.21,18.7,73.88,Cash,Rock,10,7,3,False
 TCK107699,3-day Pass,2025-05-01,19,Female,5,1.3,6.02,71.32,Festival App,Hip-Hop,8,9,4,False
 TCK109268,VIP,2025-05-02,21,Female,2,18.51,9.43,94.44,Card,Rock,8,7,2,True
 TCK100502,VIP,2025-05-01,27,Other,2,2.71,20.66,45.1,Festival App,Hip-Hop,8,1,6,True
@@ -6888,7 +6888,7 @@ TCK106574,3-day Pass,2025-05-01,26,Male,3,24.95,18.26,61.16,Card,Pop,9,9,7,True
 TCK105885,1-day Pass,2025-05-01,29,Male,2,3.66,35.69,29.97,Cash,Hip-Hop,5,9,6,False
 TCK107349,1-day Pass,2025-05-03,27,Female,3,27.42,28.52,98.93,Cash,Pop,8,10,4,False
 TCK105399,1-day Pass,2025-05-03,23,Male,3,23.57,0.0,51.43,Cash,Reggaeton,10,8,4,False
-TCK101771,VIP,2025-05-03,31,Male,3,45.27,4.56,93.7,Card,Pop,10,8,1,False
+TCK101771,3-day Pass,2025-05-03,31,Male,3,45.27,4.56,93.7,Card,Pop,10,8,1,False
 TCK108543,3-day Pass,2025-05-03,21,Male,2,2.14,34.38,31.97,Cash,Hip-Hop,1,10,6,True
 TCK103574,3-day Pass,2025-05-03,22,Female,1,21.22,45.33,93.49,Card,Pop,4,7,9,True
 TCK105011,3-day Pass,2025-05-02,20,Male,3,22.35,23.1,76.65,Card,Pop,4,9,6,True
@@ -7010,7 +7010,7 @@ TCK102051,1-day Pass,2025-05-03,29,Female,5,22.3,53.85,1.19,Cash,Reggaeton,9,10,
 TCK101810,3-day Pass,2025-05-03,23,Female,5,2.21,38.84,2.41,Card,Electronic,8,8,2,True
 TCK100322,3-day Pass,2025-05-02,18,Male,3,36.78,45.98,3.6,Card,Pop,8,9,5,True
 TCK100885,3-day Pass,2025-05-03,18,Male,4,16.28,25.31,9.79,Card,Pop,4,7,3,True
-TCK101517,3-day Pass,2025-05-02,25,Other,5,32.41,37.26,8.18,Cash,Pop,8,8,2,False
+TCK101517,3-day Pass,2025-05-02,25,Male,5,32.41,37.26,8.18,Cash,Pop,8,8,2,False
 TCK102494,VIP,2025-05-02,18,Male,3,46.72,38.26,19.31,Card,Rock,4,10,3,True
 TCK109006,1-day Pass,2025-05-01,26,Female,4,0.4,14.88,57.53,Cash,Electronic,8,8,2,True
 TCK103895,VIP,2025-05-03,26,Other,4,39.94,20.75,23.24,Card,Rock,8,9,3,True
@@ -7050,7 +7050,7 @@ TCK100429,VIP,2025-05-02,29,Female,5,17.45,38.85,92.11,Card,Pop,9,5,6,False
 TCK106260,3-day Pass,2025-05-03,19,Male,3,10.66,45.16,7.57,Card,Hip-Hop,4,8,6,False
 TCK105246,3-day Pass,2025-05-01,18,Female,4,8.54,45.82,43.57,Card,Hip-Hop,1,5,8,False
 TCK105864,3-day Pass,2025-05-02,24,Female,3,0.39,20.2,28.27,Card,Reggaeton,6,9,8,False
-TCK102130,1-day Pass,2025-05-02,26,Male,2,45.71,52.68,45.49,Card,Pop,1,1,10,True
+TCK102130,3-day Pass,2025-05-02,26,Male,2,45.71,52.68,45.49,Card,Pop,1,1,10,True
 TCK102861,1-day Pass,2025-05-03,24,Female,5,18.18,28.67,25.06,Cash,Reggaeton,4,8,10,True
 TCK103455,1-day Pass,2025-05-02,24,Other,5,13.55,51.66,94.1,Card,Hip-Hop,1,7,4,True
 TCK104152,VIP,2025-05-03,26,Male,5,31.73,23.99,92.65,Cash,Pop,4,7,4,False
@@ -7108,7 +7108,7 @@ TCK108584,3-day Pass,2025-05-02,31,Female,3,40.51,7.79,11.2,Cash,Rock,8,9,4,Fals
 TCK104429,3-day Pass,2025-05-02,26,Female,4,33.61,50.23,42.01,Cash,Hip-Hop,8,7,3,True
 TCK104915,3-day Pass,2025-05-03,26,Female,1,39.39,39.23,56.61,Card,Pop,3,10,6,True
 TCK106914,3-day Pass,2025-05-03,24,Male,4,43.37,43.07,35.71,Cash,Reggaeton,8,8,3,False
-TCK101791,3-day Pass,2025-05-03,19,Female,4,12.9,57.38,78.83,Card,Pop,8,9,9,False
+TCK101791,VIP,2025-05-03,19,Female,4,12.9,57.38,78.83,Card,Pop,8,9,9,False
 TCK100544,1-day Pass,2025-05-03,18,Female,5,19.49,28.48,17.28,Card,Rock,9,8,7,False
 TCK104321,3-day Pass,2025-05-02,25,Female,3,42.28,55.67,72.63,Festival App,Hip-Hop,4,7,7,True
 TCK104492,1-day Pass,2025-05-02,28,Male,5,42.55,43.81,26.82,Card,Pop,4,10,4,True
@@ -7140,8 +7140,8 @@ TCK101019,3-day Pass,2025-05-03,24,Male,4,49.6,49.55,7.13,Card,Rock,4,5,3,True
 TCK102583,VIP,2025-05-01,21,Female,2,32.77,17.32,43.72,Card,Hip-Hop,1,7,2,False
 TCK103523,3-day Pass,2025-05-03,24,Female,4,9.86,45.33,77.81,Card,Pop,8,8,1,True
 TCK107081,3-day Pass,2025-05-02,28,Female,3,41.3,5.75,45.04,Card,Rock,2,8,3,False
-TCK107111,VIP,2025-05-03,26,Male,3,49.92,36.26,6.82,Cash,Rock,2,8,3,False
-TCK105142,1-day Pass,2025-05-03,18,Other,2,40.85,31.45,47.66,Festival App,Rock,9,9,8,False
+TCK107111,3-day Pass,2025-05-03,26,Male,3,49.92,36.26,6.82,Cash,Rock,2,8,3,False
+TCK105142,1-day Pass,2025-05-03,18,Female,2,40.85,31.45,47.66,Festival App,Rock,9,9,8,False
 TCK100867,3-day Pass,2025-05-03,26,Male,1,21.67,9.5,14.56,Cash,Reggaeton,8,8,5,False
 TCK104477,VIP,2025-05-03,24,Female,4,35.87,38.84,19.31,Cash,Rock,8,9,6,False
 TCK104169,1-day Pass,2025-05-03,18,Male,1,8.41,47.06,79.45,Card,Electronic,8,10,3,True
@@ -7218,7 +7218,7 @@ TCK103909,1-day Pass,2025-05-01,23,Male,5,33.91,38.0,21.52,Cash,Rock,2,10,6,True
 TCK108474,3-day Pass,2025-05-03,28,Male,4,12.72,23.5,56.9,Card,Reggaeton,6,9,5,False
 TCK108481,VIP,2025-05-01,32,Female,5,19.43,23.6,42.07,Cash,Pop,8,9,6,True
 TCK103615,3-day Pass,2025-05-02,22,Male,5,49.71,34.44,70.72,Card,Rock,8,9,3,True
-TCK107619,VIP,2025-05-02,18,Male,1,13.26,5.25,19.95,Card,Pop,8,7,4,True
+TCK107619,VIP,2025-05-02,18,Female,1,13.26,5.25,19.95,Card,Pop,8,7,4,True
 TCK106791,3-day Pass,2025-05-02,29,Female,4,35.69,3.44,15.65,Cash,Pop,8,8,9,True
 TCK100446,1-day Pass,2025-05-01,30,Female,3,41.63,39.46,8.91,Cash,Pop,8,9,6,True
 TCK108408,3-day Pass,2025-05-03,24,Male,1,47.7,56.63,37.48,Card,Electronic,8,6,8,False
@@ -7274,7 +7274,7 @@ TCK105472,1-day Pass,2025-05-03,25,Male,4,3.78,11.05,10.7,Card,Rock,8,8,2,True
 TCK101545,1-day Pass,2025-05-02,28,Female,5,3.98,35.76,45.06,Card,Reggaeton,8,9,2,True
 TCK100606,VIP,2025-05-01,19,Female,4,38.56,59.99,61.87,Card,Rock,8,8,10,True
 TCK104956,1-day Pass,2025-05-03,28,Female,2,1.68,26.87,44.52,Card,Hip-Hop,7,8,2,True
-TCK100104,1-day Pass,2025-05-02,26,Female,3,19.88,47.42,52.15,Card,Reggaeton,4,7,5,True
+TCK100104,3-day Pass,2025-05-02,26,Female,3,19.88,47.42,52.15,Card,Reggaeton,4,7,5,True
 TCK105469,VIP,2025-05-02,27,Female,3,22.41,58.19,78.56,Card,Reggaeton,10,9,7,True
 TCK107078,3-day Pass,2025-05-01,27,Female,4,4.45,51.43,12.84,Card,Rock,3,7,3,True
 TCK106498,VIP,2025-05-03,18,Female,2,13.23,29.51,7.88,Card,Rock,5,9,6,True
@@ -7290,7 +7290,7 @@ TCK108771,3-day Pass,2025-05-03,18,Other,4,32.73,20.13,88.88,Cash,Rock,3,9,3,Tru
 TCK101913,3-day Pass,2025-05-02,21,Female,3,33.05,24.3,94.61,Card,Pop,8,6,2,True
 TCK102485,3-day Pass,2025-05-03,30,Female,3,14.96,11.94,57.3,Card,Electronic,8,7,5,True
 TCK104733,VIP,2025-05-03,27,Male,4,23.08,20.95,80.39,Festival App,Reggaeton,8,9,10,True
-TCK108216,3-day Pass,2025-05-02,28,Male,2,14.03,10.72,76.4,Card,Rock,7,10,6,True
+TCK108216,3-day Pass,2025-05-02,28,Female,2,14.03,10.72,76.4,Card,Rock,7,10,6,True
 TCK107962,3-day Pass,2025-05-01,25,Male,4,18.78,25.99,8.51,Card,Pop,5,8,3,True
 TCK106362,1-day Pass,2025-05-02,26,Female,1,4.68,5.34,39.17,Card,Pop,8,8,4,False
 TCK103639,3-day Pass,2025-05-01,28,Female,3,21.41,13.31,97.67,Card,Rock,8,5,8,False
@@ -7413,7 +7413,7 @@ TCK105955,1-day Pass,2025-05-03,20,Other,4,22.32,0.12,67.01,Card,Rock,8,7,2,True
 TCK101698,3-day Pass,2025-05-01,28,Female,3,25.48,38.25,96.06,Card,Rock,3,7,9,False
 TCK108846,3-day Pass,2025-05-02,21,Female,1,13.18,14.5,55.29,Cash,Reggaeton,7,10,4,True
 TCK100297,3-day Pass,2025-05-03,18,Female,3,13.84,2.93,1.7,Card,Pop,4,7,7,True
-TCK105873,1-day Pass,2025-05-02,29,Male,4,23.65,4.26,60.12,Card,Pop,5,8,4,False
+TCK105873,VIP,2025-05-02,29,Male,4,23.65,4.26,60.12,Card,Pop,5,8,4,False
 TCK107901,3-day Pass,2025-05-01,30,Female,5,8.43,24.69,83.53,Card,Hip-Hop,9,7,3,True
 TCK108495,VIP,2025-05-03,29,Male,1,49.87,22.92,33.19,Card,Electronic,1,8,4,True
 TCK103500,3-day Pass,2025-05-01,21,Female,3,0.92,24.03,33.15,Cash,Rock,7,8,6,True
@@ -7483,7 +7483,7 @@ TCK103380,3-day Pass,2025-05-01,29,Female,3,38.07,54.78,64.38,Card,Rock,1,9,3,Fa
 TCK101680,3-day Pass,2025-05-02,27,Male,4,28.03,52.43,51.64,Card,Rock,10,7,7,True
 TCK106678,1-day Pass,2025-05-01,22,Female,1,11.84,15.64,50.33,Card,Pop,2,5,4,True
 TCK100876,VIP,2025-05-02,25,Other,1,9.58,48.52,41.72,Card,Electronic,8,10,4,True
-TCK102899,3-day Pass,2025-05-01,25,Female,5,2.71,46.74,67.62,Card,Rock,10,8,2,False
+TCK102899,VIP,2025-05-01,25,Female,5,2.71,46.74,67.62,Card,Rock,10,8,2,False
 TCK100085,3-day Pass,2025-05-02,33,Female,3,25.6,59.64,38.71,Card,Hip-Hop,9,9,3,True
 TCK108022,VIP,2025-05-03,29,Female,3,6.09,12.22,93.39,Card,Rock,8,8,3,True
 TCK101633,1-day Pass,2025-05-02,18,Female,4,33.75,33.65,66.05,Card,Pop,2,2,3,False
@@ -7569,7 +7569,7 @@ TCK106084,3-day Pass,2025-05-02,18,Male,5,14.86,11.56,59.3,Card,Reggaeton,10,9,8
 TCK101819,3-day Pass,2025-05-01,26,Female,3,17.54,11.14,15.03,Cash,Hip-Hop,1,9,2,True
 TCK103414,3-day Pass,2025-05-03,26,Female,4,22.63,12.54,33.3,Card,Rock,2,8,3,True
 TCK108156,3-day Pass,2025-05-02,30,Male,3,47.97,25.3,63.79,Card,Hip-Hop,8,7,7,True
-TCK104091,VIP,2025-05-01,32,Female,3,18.97,24.27,93.95,Card,Hip-Hop,5,5,3,True
+TCK104091,3-day Pass,2025-05-01,32,Female,3,18.97,24.27,93.95,Card,Hip-Hop,5,5,3,True
 TCK108597,3-day Pass,2025-05-03,20,Male,2,47.4,16.74,64.02,Card,Rock,2,10,3,True
 TCK105440,VIP,2025-05-02,23,Other,4,42.45,33.7,19.24,Card,Rock,8,7,2,True
 TCK105892,3-day Pass,2025-05-03,26,Female,4,2.74,21.52,67.62,Card,Reggaeton,1,5,2,True
@@ -7578,7 +7578,7 @@ TCK103985,1-day Pass,2025-05-01,21,Male,1,21.73,20.72,68.67,Card,Rock,8,9,10,Tru
 TCK103794,3-day Pass,2025-05-01,24,Female,5,4.15,45.4,1.42,Festival App,Rock,5,4,7,True
 TCK108831,3-day Pass,2025-05-03,29,Female,2,7.94,58.86,24.52,Card,Pop,1,7,7,True
 TCK103709,1-day Pass,2025-05-02,26,Female,3,49.77,5.18,11.07,Festival App,Rock,4,10,4,False
-TCK107864,3-day Pass,2025-05-03,25,Female,3,16.68,6.74,7.25,Card,Rock,1,8,4,True
+TCK107864,1-day Pass,2025-05-03,25,Female,3,16.68,6.74,7.25,Card,Rock,1,8,4,True
 TCK102438,1-day Pass,2025-05-03,30,Male,4,49.51,26.24,24.71,Festival App,Hip-Hop,4,9,8,True
 TCK102871,1-day Pass,2025-05-03,31,Female,3,47.78,11.53,81.31,Card,Electronic,7,7,6,True
 TCK105421,3-day Pass,2025-05-01,27,Male,2,29.98,41.17,51.95,Card,Hip-Hop,1,9,3,True
@@ -7621,7 +7621,7 @@ TCK105195,3-day Pass,2025-05-01,31,Other,2,16.53,13.53,90.89,Cash,Reggaeton,8,5,
 TCK106890,3-day Pass,2025-05-03,22,Female,5,27.87,25.22,25.29,Card,Rock,1,7,8,False
 TCK103805,3-day Pass,2025-05-02,18,Other,4,14.88,56.38,12.18,Card,Pop,7,8,5,True
 TCK104624,VIP,2025-05-01,18,Male,5,16.34,46.6,90.06,Card,Rock,7,8,3,True
-TCK106344,3-day Pass,2025-05-02,29,Male,5,16.41,26.4,76.24,Card,Rock,3,7,6,True
+TCK106344,VIP,2025-05-02,29,Male,5,16.41,26.4,76.24,Card,Rock,3,7,6,True
 TCK107130,3-day Pass,2025-05-02,27,Male,5,29.7,55.11,22.46,Card,Pop,6,4,3,True
 TCK105347,VIP,2025-05-01,18,Female,3,36.67,43.76,48.69,Card,Rock,8,10,10,True
 TCK106428,3-day Pass,2025-05-03,22,Male,3,9.82,18.83,83.21,Card,Pop,8,5,8,False
@@ -7666,7 +7666,7 @@ TCK103090,1-day Pass,2025-05-03,25,Female,3,1.85,17.88,43.83,Cash,Pop,2,8,6,True
 TCK109091,1-day Pass,2025-05-02,23,Female,1,0.14,26.6,64.0,Card,Electronic,6,8,10,True
 TCK101866,3-day Pass,2025-05-01,28,Female,4,2.99,1.54,54.59,Card,Pop,1,8,1,True
 TCK108770,3-day Pass,2025-05-02,18,Other,4,48.3,18.55,76.61,Cash,Electronic,7,9,4,False
-TCK108060,3-day Pass,2025-05-02,22,Other,1,35.26,4.85,43.19,Cash,Rock,7,8,4,False
+TCK108060,3-day Pass,2025-05-02,22,Male,1,35.26,4.85,43.19,Cash,Rock,7,8,4,False
 TCK109025,3-day Pass,2025-05-02,31,Female,4,11.19,45.75,55.52,Cash,Rock,4,8,6,True
 TCK108386,3-day Pass,2025-05-01,30,Male,1,41.76,48.1,2.52,Card,Hip-Hop,8,9,3,True
 TCK101699,3-day Pass,2025-05-03,28,Female,2,19.61,36.31,74.95,Card,Rock,8,10,9,False
@@ -7674,7 +7674,7 @@ TCK106546,3-day Pass,2025-05-03,20,Female,5,29.55,12.79,53.48,Card,Pop,8,8,3,Tru
 TCK104829,3-day Pass,2025-05-02,30,Male,5,49.87,35.86,26.01,Card,Hip-Hop,6,10,6,True
 TCK104997,3-day Pass,2025-05-02,18,Male,2,16.37,3.46,52.29,Festival App,Rock,5,7,6,True
 TCK100589,3-day Pass,2025-05-02,26,Female,4,29.75,50.53,7.18,Cash,Hip-Hop,1,9,1,True
-TCK106619,1-day Pass,2025-05-03,24,Female,2,45.9,34.53,67.84,Cash,Hip-Hop,2,10,5,True
+TCK106619,1-day Pass,2025-05-03,24,Male,2,45.9,34.53,67.84,Cash,Hip-Hop,2,10,5,True
 TCK106704,VIP,2025-05-02,25,Female,3,39.19,47.56,40.56,Cash,Reggaeton,5,5,6,True
 TCK102774,VIP,2025-05-03,24,Female,3,46.43,0.5,34.79,Card,Rock,8,6,3,True
 TCK105135,3-day Pass,2025-05-03,22,Male,3,41.45,7.66,6.17,Card,Pop,7,7,7,True
@@ -7690,7 +7690,7 @@ TCK105945,3-day Pass,2025-05-02,28,Female,5,15.9,21.61,93.47,Card,Rock,2,2,8,Tru
 TCK100238,3-day Pass,2025-05-01,18,Male,5,43.82,44.84,73.1,Card,Rock,9,7,6,True
 TCK107441,VIP,2025-05-01,28,Female,4,6.51,10.61,1.65,Cash,Pop,6,10,6,False
 TCK100651,3-day Pass,2025-05-03,28,Male,4,44.18,4.6,1.91,Cash,Electronic,6,8,4,True
-TCK103644,VIP,2025-05-02,25,Female,3,31.69,58.08,57.37,Card,Hip-Hop,8,8,7,True
+TCK103644,3-day Pass,2025-05-02,25,Female,3,31.69,58.08,57.37,Card,Hip-Hop,8,8,7,True
 TCK107316,3-day Pass,2025-05-02,21,Male,4,31.62,43.2,20.15,Card,Rock,8,8,4,False
 TCK104452,VIP,2025-05-01,25,Male,3,37.83,40.42,40.11,Card,Rock,8,6,4,False
 TCK103182,1-day Pass,2025-05-03,21,Male,5,49.91,33.22,51.15,Card,Pop,5,7,3,False
@@ -7775,7 +7775,7 @@ TCK108659,3-day Pass,2025-05-02,27,Female,3,22.51,36.39,63.28,Card,Reggaeton,8,6
 TCK101201,VIP,2025-05-02,27,Male,5,2.75,30.05,7.83,Card,Hip-Hop,2,7,6,True
 TCK104201,1-day Pass,2025-05-02,29,Female,3,10.1,56.31,81.83,Cash,Rock,2,5,3,False
 TCK105955,1-day Pass,2025-05-02,30,Male,3,33.0,33.33,87.77,Card,Reggaeton,8,7,7,False
-TCK108810,3-day Pass,2025-05-01,18,Female,2,4.59,28.29,21.91,Cash,Pop,8,7,4,True
+TCK108810,1-day Pass,2025-05-01,18,Female,2,4.59,28.29,21.91,Cash,Pop,8,7,4,True
 TCK106089,3-day Pass,2025-05-03,28,Female,1,38.47,4.04,52.17,Card,Pop,8,7,5,False
 TCK101261,3-day Pass,2025-05-01,23,Male,5,28.16,43.2,84.59,Card,Pop,5,5,6,False
 TCK106856,3-day Pass,2025-05-02,24,Male,4,43.9,2.3,25.56,Card,Pop,6,2,6,True
@@ -7872,7 +7872,7 @@ TCK100758,1-day Pass,2025-05-02,26,Female,1,17.62,29.23,91.52,Festival App,Pop,2
 TCK100487,VIP,2025-05-02,24,Female,1,5.58,32.68,28.52,Card,Electronic,8,8,7,True
 TCK101935,1-day Pass,2025-05-03,30,Female,4,2.38,40.94,43.31,Card,Hip-Hop,1,7,2,False
 TCK105300,3-day Pass,2025-05-03,31,Other,2,24.15,14.17,29.66,Cash,Pop,10,9,5,False
-TCK102047,VIP,2025-05-01,27,Male,5,14.78,54.71,44.02,Cash,Hip-Hop,9,7,3,True
+TCK102047,1-day Pass,2025-05-01,27,Male,5,14.78,54.71,44.02,Cash,Hip-Hop,9,7,3,True
 TCK104526,3-day Pass,2025-05-01,27,Male,3,5.15,43.57,8.41,Card,Rock,8,9,10,True
 TCK104849,VIP,2025-05-02,18,Female,2,8.49,41.75,68.25,Card,Rock,7,7,6,True
 TCK103054,3-day Pass,2025-05-02,27,Male,3,11.29,56.55,29.23,Card,Rock,3,9,6,True
@@ -7919,7 +7919,7 @@ TCK106608,1-day Pass,2025-05-01,26,Female,5,24.18,10.15,4.68,Card,Rock,1,10,6,Fa
 TCK107690,3-day Pass,2025-05-01,18,Female,4,49.59,11.56,50.71,Card,Pop,1,8,2,True
 TCK105599,VIP,2025-05-01,26,Female,4,32.35,4.83,42.5,Card,Pop,8,10,4,True
 TCK105012,1-day Pass,2025-05-03,24,Other,5,1.56,35.66,76.59,Cash,Pop,8,10,3,True
-TCK105287,3-day Pass,2025-05-01,27,Female,5,11.52,28.31,96.35,Card,Reggaeton,6,7,4,True
+TCK105287,VIP,2025-05-01,27,Female,5,11.52,28.31,96.35,Card,Reggaeton,6,7,4,True
 TCK105096,VIP,2025-05-02,26,Female,3,18.28,2.49,83.95,Card,Rock,1,8,6,False
 TCK100046,3-day Pass,2025-05-01,19,Male,2,28.02,53.32,55.24,Card,Electronic,8,9,8,True
 TCK103408,3-day Pass,2025-05-01,28,Female,5,26.53,30.59,14.25,Card,Electronic,4,7,4,False
@@ -8002,7 +8002,7 @@ TCK108579,3-day Pass,2025-05-03,28,Male,5,36.36,47.09,90.17,Card,Pop,1,8,6,False
 TCK107354,VIP,2025-05-03,32,Female,4,35.56,32.6,99.15,Card,Pop,7,5,6,True
 TCK107412,VIP,2025-05-02,28,Female,4,11.19,34.74,90.39,Cash,Rock,8,7,7,True
 TCK108405,3-day Pass,2025-05-01,24,Male,3,9.67,11.5,81.13,Cash,Rock,8,8,1,False
-TCK105726,1-day Pass,2025-05-02,25,Other,5,30.36,28.77,75.96,Card,Rock,6,9,2,True
+TCK105726,3-day Pass,2025-05-02,25,Other,5,30.36,28.77,75.96,Card,Rock,6,9,2,True
 TCK106078,VIP,2025-05-03,25,Female,2,28.67,15.96,68.01,Cash,Electronic,4,7,7,False
 TCK105588,3-day Pass,2025-05-03,31,Male,3,5.77,49.95,52.75,Card,Rock,5,6,3,False
 TCK102666,3-day Pass,2025-05-01,27,Female,3,21.63,16.13,30.28,Card,Rock,4,2,4,False
@@ -8017,7 +8017,7 @@ TCK104314,1-day Pass,2025-05-03,18,Female,5,3.88,47.58,37.05,Card,Electronic,7,8
 TCK105832,1-day Pass,2025-05-03,18,Female,1,9.61,48.95,66.38,Card,Rock,8,7,4,True
 TCK105549,3-day Pass,2025-05-03,25,Male,4,37.87,44.99,99.0,Card,Rock,4,5,8,True
 TCK100843,3-day Pass,2025-05-02,18,Other,3,21.05,20.43,51.58,Card,Electronic,6,9,6,True
-TCK106031,3-day Pass,2025-05-01,27,Male,5,10.02,11.68,29.46,Card,Hip-Hop,1,7,6,True
+TCK106031,VIP,2025-05-01,27,Male,5,10.02,11.68,29.46,Card,Hip-Hop,1,7,6,True
 TCK102816,3-day Pass,2025-05-01,18,Male,2,7.2,47.08,33.4,Card,Hip-Hop,3,9,2,True
 TCK103752,3-day Pass,2025-05-03,23,Male,4,3.12,25.81,75.23,Card,Rock,8,7,4,True
 TCK107171,1-day Pass,2025-05-01,26,Female,5,33.67,2.24,37.21,Card,Rock,8,9,5,False
@@ -8075,7 +8075,7 @@ TCK103168,3-day Pass,2025-05-02,28,Female,3,24.97,1.64,77.58,Cash,Hip-Hop,4,7,7,
 TCK103611,3-day Pass,2025-05-02,23,Male,4,25.11,16.41,96.5,Card,Rock,9,10,8,False
 TCK109080,1-day Pass,2025-05-02,18,Male,1,12.3,34.07,19.23,Card,Rock,4,9,3,True
 TCK102101,1-day Pass,2025-05-03,23,Male,4,26.97,31.51,43.65,Card,Pop,1,6,8,True
-TCK107307,3-day Pass,2025-05-01,18,Male,3,26.81,5.28,7.36,Cash,Electronic,8,9,2,True
+TCK107307,1-day Pass,2025-05-01,18,Male,3,26.81,5.28,7.36,Cash,Electronic,8,9,2,True
 TCK101981,VIP,2025-05-03,30,Female,4,12.51,55.62,50.35,Card,Hip-Hop,4,8,3,False
 TCK103259,1-day Pass,2025-05-02,30,Male,3,40.28,8.86,5.19,Card,Rock,7,10,6,True
 TCK101251,1-day Pass,2025-05-02,29,Male,2,33.08,55.11,74.11,Card,Rock,2,10,5,True
@@ -8149,7 +8149,7 @@ TCK103017,3-day Pass,2025-05-01,28,Male,4,2.97,4.96,58.94,Festival App,Rock,8,8,
 TCK106288,3-day Pass,2025-05-02,28,Female,3,28.45,28.78,64.78,Card,Rock,7,8,6,False
 TCK107971,3-day Pass,2025-05-03,31,Male,4,34.37,44.66,81.52,Card,Hip-Hop,2,10,7,False
 TCK106226,3-day Pass,2025-05-03,28,Male,4,24.58,48.46,33.34,Cash,Rock,7,10,4,True
-TCK105101,VIP,2025-05-02,31,Male,3,34.45,0.01,21.28,Card,Rock,1,5,3,False
+TCK105101,3-day Pass,2025-05-02,31,Male,3,34.45,0.01,21.28,Card,Rock,1,5,3,False
 TCK105060,1-day Pass,2025-05-03,27,Female,4,6.68,36.41,94.53,Cash,Reggaeton,8,9,6,True
 TCK102496,3-day Pass,2025-05-01,24,Female,3,23.07,9.67,59.25,Cash,Pop,8,9,8,False
 TCK107482,3-day Pass,2025-05-03,22,Female,1,16.19,48.74,33.38,Card,Pop,10,10,3,True
@@ -8157,7 +8157,7 @@ TCK101946,3-day Pass,2025-05-02,22,Female,3,49.08,17.83,58.65,Cash,Rock,7,9,4,Tr
 TCK106120,3-day Pass,2025-05-02,27,Male,1,37.08,32.74,9.48,Card,Pop,9,10,3,False
 TCK106972,3-day Pass,2025-05-01,22,Female,5,9.91,10.99,68.62,Card,Pop,7,7,7,True
 TCK103184,3-day Pass,2025-05-02,22,Male,1,10.55,5.8,87.19,Card,Hip-Hop,4,8,3,True
-TCK101515,1-day Pass,2025-05-03,26,Female,3,17.92,25.09,10.83,Card,Pop,1,10,2,True
+TCK101515,3-day Pass,2025-05-03,26,Female,3,17.92,25.09,10.83,Card,Pop,1,10,2,True
 TCK108313,VIP,2025-05-03,21,Other,4,20.2,55.13,62.76,Card,Pop,5,6,3,False
 TCK100964,1-day Pass,2025-05-01,21,Female,4,0.74,33.58,32.41,Card,Rock,8,10,7,False
 TCK104451,3-day Pass,2025-05-01,23,Male,4,8.93,36.74,75.38,Card,Reggaeton,1,7,4,True
@@ -8227,7 +8227,7 @@ TCK109247,3-day Pass,2025-05-01,31,Female,5,33.22,59.23,51.01,Card,Hip-Hop,1,8,1
 TCK104301,3-day Pass,2025-05-02,20,Female,3,13.19,55.8,48.24,Card,Reggaeton,8,8,5,True
 TCK109259,1-day Pass,2025-05-01,27,Male,5,20.45,33.15,32.29,Card,Reggaeton,7,10,6,True
 TCK104986,3-day Pass,2025-05-02,27,Female,4,36.46,6.69,69.26,Card,Rock,8,7,3,True
-TCK107867,1-day Pass,2025-05-03,28,Female,1,10.46,11.87,81.33,Card,Rock,7,7,5,True
+TCK107867,3-day Pass,2025-05-03,28,Female,1,10.46,11.87,81.33,Card,Rock,7,7,5,True
 TCK102595,VIP,2025-05-03,18,Female,5,32.92,9.04,85.95,Card,Pop,8,6,5,True
 TCK102382,3-day Pass,2025-05-01,26,Female,4,36.57,39.78,24.94,Card,Hip-Hop,4,7,6,False
 TCK103629,VIP,2025-05-02,26,Female,2,0.19,1.94,17.87,Card,Hip-Hop,8,6,6,True
@@ -8257,7 +8257,7 @@ TCK101840,3-day Pass,2025-05-02,29,Female,3,32.79,55.78,61.62,Card,Rock,1,5,6,Fa
 TCK105067,1-day Pass,2025-05-01,25,Female,3,20.3,5.66,14.45,Card,Hip-Hop,9,8,3,True
 TCK104359,3-day Pass,2025-05-02,25,Female,5,32.2,0.37,33.18,Cash,Reggaeton,7,9,5,False
 TCK107933,1-day Pass,2025-05-02,23,Female,5,4.5,20.14,91.96,Card,Hip-Hop,8,9,4,False
-TCK103850,3-day Pass,2025-05-03,30,Male,4,24.44,40.63,19.23,Cash,Rock,6,8,5,True
+TCK103850,1-day Pass,2025-05-03,30,Male,4,24.44,40.63,19.23,Cash,Rock,6,8,5,True
 TCK103971,1-day Pass,2025-05-01,25,Female,4,25.11,49.43,24.02,Card,Rock,5,7,6,True
 TCK103902,1-day Pass,2025-05-02,32,Female,3,2.23,42.24,49.72,Card,Rock,6,7,3,False
 TCK105846,3-day Pass,2025-05-01,19,Female,3,34.42,20.29,16.29,Card,Pop,2,10,6,False
@@ -8375,7 +8375,7 @@ TCK102894,3-day Pass,2025-05-01,21,Female,4,27.88,22.14,97.17,Cash,Pop,8,8,4,Fal
 TCK109120,3-day Pass,2025-05-03,18,Female,5,18.15,17.03,42.5,Card,Hip-Hop,1,7,8,False
 TCK100256,VIP,2025-05-03,28,Male,5,26.07,25.86,46.77,Card,Rock,1,10,4,True
 TCK101307,1-day Pass,2025-05-03,24,Female,3,48.22,57.63,76.48,Card,Reggaeton,1,6,6,True
-TCK102629,1-day Pass,2025-05-03,20,Male,1,18.65,20.51,88.62,Card,Rock,8,6,5,True
+TCK102629,1-day Pass,2025-05-03,20,Female,1,18.65,20.51,88.62,Card,Rock,8,6,5,True
 TCK108185,3-day Pass,2025-05-03,22,Female,3,44.82,27.11,12.97,Card,Pop,8,8,3,True
 TCK103780,3-day Pass,2025-05-03,19,Male,2,20.28,34.15,23.39,Card,Pop,9,2,6,True
 TCK100830,1-day Pass,2025-05-01,30,Female,3,25.27,45.27,47.63,Card,Electronic,6,9,1,True
@@ -8404,7 +8404,7 @@ TCK105302,3-day Pass,2025-05-03,20,Other,2,36.64,36.39,75.69,Festival App,Reggae
 TCK101355,3-day Pass,2025-05-03,31,Female,2,9.88,43.63,82.15,Card,Hip-Hop,7,7,5,True
 TCK102682,1-day Pass,2025-05-02,26,Female,2,5.37,22.96,61.42,Cash,Pop,5,8,6,True
 TCK106093,VIP,2025-05-02,18,Female,3,19.99,59.19,2.46,Card,Rock,8,9,7,True
-TCK106675,3-day Pass,2025-05-02,26,Other,4,7.84,44.89,7.31,Card,Reggaeton,7,7,6,False
+TCK106675,3-day Pass,2025-05-02,26,Male,4,7.84,44.89,7.31,Card,Reggaeton,7,7,6,False
 TCK100997,3-day Pass,2025-05-02,26,Other,5,41.8,18.25,90.97,Card,Pop,5,8,7,False
 TCK102344,VIP,2025-05-02,20,Male,3,28.93,39.27,0.74,Cash,Pop,1,8,5,False
 TCK109252,VIP,2025-05-01,18,Male,3,49.37,31.28,45.32,Cash,Reggaeton,8,8,5,True
@@ -8458,7 +8458,7 @@ TCK100845,1-day Pass,2025-05-01,21,Male,4,3.37,55.82,25.98,Card,Electronic,7,7,2
 TCK100571,3-day Pass,2025-05-01,21,Female,3,9.49,28.08,58.04,Card,Hip-Hop,4,9,7,False
 TCK103282,3-day Pass,2025-05-01,28,Male,4,24.12,6.07,10.29,Card,Rock,8,5,2,True
 TCK101496,3-day Pass,2025-05-02,18,Female,5,29.65,28.63,45.79,Card,Rock,1,8,6,True
-TCK103990,3-day Pass,2025-05-01,26,Female,4,8.92,14.87,58.14,Card,Pop,2,8,6,True
+TCK103990,3-day Pass,2025-05-01,26,Male,4,8.92,14.87,58.14,Card,Pop,2,8,6,True
 TCK104593,VIP,2025-05-01,21,Other,4,3.18,45.09,66.4,Card,Hip-Hop,8,8,5,True
 TCK106098,3-day Pass,2025-05-01,31,Female,4,34.21,13.66,58.67,Card,Electronic,8,7,8,False
 TCK104651,3-day Pass,2025-05-02,18,Male,5,39.41,33.07,56.71,Card,Rock,8,9,3,True
@@ -8477,7 +8477,7 @@ TCK104747,3-day Pass,2025-05-01,23,Female,5,18.83,24.39,80.02,Card,Electronic,4,
 TCK102529,3-day Pass,2025-05-03,23,Female,2,24.99,48.63,95.6,Cash,Rock,6,10,7,True
 TCK106793,1-day Pass,2025-05-03,18,Male,3,27.16,32.21,86.16,Festival App,Rock,4,6,3,True
 TCK103707,3-day Pass,2025-05-02,25,Male,4,26.58,55.9,77.02,Cash,Pop,3,10,5,True
-TCK105731,3-day Pass,2025-05-02,23,Female,1,6.91,49.58,96.16,Card,Rock,2,10,6,True
+TCK105731,1-day Pass,2025-05-02,23,Female,1,6.91,49.58,96.16,Card,Rock,2,10,6,True
 TCK103366,1-day Pass,2025-05-01,21,Female,2,32.67,22.68,89.45,Card,Hip-Hop,8,10,8,True
 TCK109147,1-day Pass,2025-05-02,18,Female,4,12.96,54.1,95.78,Cash,Pop,9,8,4,False
 TCK108202,3-day Pass,2025-05-01,31,Female,3,39.14,31.46,90.1,Card,Pop,8,2,5,True
@@ -8510,7 +8510,7 @@ TCK103854,VIP,2025-05-03,25,Male,5,47.22,49.11,45.54,Card,Electronic,1,8,1,True
 TCK102540,3-day Pass,2025-05-03,18,Female,3,43.61,28.46,80.1,Cash,Rock,6,7,7,True
 TCK105727,3-day Pass,2025-05-01,20,Female,5,46.97,14.85,98.71,Card,Rock,1,7,7,False
 TCK103113,3-day Pass,2025-05-02,20,Female,3,24.4,29.59,36.86,Festival App,Electronic,7,9,9,True
-TCK107289,1-day Pass,2025-05-03,30,Female,5,21.26,58.26,18.37,Card,Rock,8,9,6,False
+TCK107289,3-day Pass,2025-05-03,30,Female,5,21.26,58.26,18.37,Card,Rock,8,9,6,False
 TCK107852,1-day Pass,2025-05-02,18,Other,1,16.56,32.5,69.95,Card,Hip-Hop,6,5,3,True
 TCK106656,3-day Pass,2025-05-03,31,Male,1,23.78,52.21,45.17,Card,Pop,8,7,6,True
 TCK103714,3-day Pass,2025-05-01,32,Female,3,1.96,43.53,35.69,Card,Pop,2,8,3,True
@@ -8608,7 +8608,7 @@ TCK102867,VIP,2025-05-02,27,Male,4,23.63,24.72,24.1,Card,Reggaeton,7,9,2,False
 TCK101968,3-day Pass,2025-05-02,23,Male,3,46.78,31.32,63.04,Card,Pop,8,8,7,False
 TCK102635,3-day Pass,2025-05-01,26,Female,2,21.9,57.17,18.05,Card,Rock,4,9,5,True
 TCK108349,3-day Pass,2025-05-01,26,Female,5,19.71,41.52,27.97,Card,Hip-Hop,8,9,9,True
-TCK106159,1-day Pass,2025-05-02,29,Male,4,19.29,45.1,24.06,Cash,Hip-Hop,7,10,6,True
+TCK106159,1-day Pass,2025-05-02,29,Other,4,19.29,45.1,24.06,Cash,Hip-Hop,7,10,6,True
 TCK108029,1-day Pass,2025-05-03,23,Male,4,3.58,35.26,74.15,Card,Hip-Hop,4,10,3,True
 TCK104973,3-day Pass,2025-05-01,23,Female,4,7.15,30.84,89.62,Cash,Rock,8,7,2,True
 TCK104191,VIP,2025-05-02,20,Female,3,47.94,44.27,75.25,Cash,Rock,8,6,6,True
@@ -8803,7 +8803,7 @@ TCK106130,3-day Pass,2025-05-02,19,Female,4,29.93,1.92,11.13,Cash,Pop,4,1,4,Fals
 TCK107245,3-day Pass,2025-05-02,24,Male,3,34.33,4.01,88.41,Card,Hip-Hop,6,4,3,True
 TCK106719,1-day Pass,2025-05-02,29,Female,3,0.95,53.18,3.6,Card,Electronic,7,8,3,True
 TCK102509,VIP,2025-05-03,21,Female,1,43.26,29.93,1.56,Cash,Pop,1,8,6,False
-TCK104551,3-day Pass,2025-05-02,23,Female,3,45.4,12.26,6.5,Festival App,Hip-Hop,7,7,4,False
+TCK104551,VIP,2025-05-02,23,Female,3,45.4,12.26,6.5,Festival App,Hip-Hop,7,7,4,False
 TCK101349,VIP,2025-05-01,26,Female,2,37.27,55.19,41.58,Cash,Electronic,8,8,8,True
 TCK107678,1-day Pass,2025-05-02,27,Female,4,27.81,4.24,62.02,Card,Reggaeton,8,7,7,False
 TCK103630,3-day Pass,2025-05-03,25,Female,5,47.4,26.96,76.41,Cash,Pop,7,9,2,True
@@ -9051,7 +9051,7 @@ TCK108229,1-day Pass,2025-05-02,19,Female,1,37.09,45.96,67.37,Card,Pop,7,7,2,Tru
 TCK106305,3-day Pass,2025-05-03,18,Female,3,43.52,43.8,89.29,Card,Reggaeton,9,8,8,True
 TCK105983,3-day Pass,2025-05-01,26,Male,3,25.05,1.94,93.45,Card,Pop,1,8,5,False
 TCK106609,3-day Pass,2025-05-01,25,Female,2,7.5,27.33,18.58,Card,Rock,8,9,6,False
-TCK108216,3-day Pass,2025-05-03,22,Male,3,35.11,1.74,24.28,Card,Rock,6,2,6,True
+TCK108216,1-day Pass,2025-05-03,22,Male,3,35.11,1.74,24.28,Card,Rock,6,2,6,True
 TCK100126,VIP,2025-05-03,32,Male,1,49.68,44.99,63.47,Card,Pop,5,7,6,True
 TCK103689,3-day Pass,2025-05-03,28,Male,3,40.99,12.85,98.49,Card,Pop,4,10,3,True
 TCK104773,3-day Pass,2025-05-03,30,Female,4,7.79,25.48,84.85,Card,Rock,8,8,6,False
@@ -9106,7 +9106,7 @@ TCK107926,3-day Pass,2025-05-03,28,Female,4,1.51,43.36,62.7,Cash,Rock,8,10,6,Fal
 TCK106215,3-day Pass,2025-05-03,23,Female,4,49.9,46.07,64.92,Cash,Electronic,8,10,6,True
 TCK103631,3-day Pass,2025-05-03,19,Male,1,47.43,1.96,80.36,Card,Reggaeton,9,9,6,True
 TCK101429,3-day Pass,2025-05-01,28,Female,3,14.89,12.73,68.9,Card,Pop,8,8,8,True
-TCK102745,3-day Pass,2025-05-03,26,Male,3,47.93,56.63,3.96,Card,Rock,8,6,5,True
+TCK102745,1-day Pass,2025-05-03,26,Male,3,47.93,56.63,3.96,Card,Rock,8,6,5,True
 TCK100693,3-day Pass,2025-05-03,27,Male,3,34.94,36.42,36.01,Card,Rock,4,10,5,True
 TCK105832,3-day Pass,2025-05-02,18,Male,3,5.16,21.26,54.01,Card,Electronic,4,8,2,True
 TCK108900,1-day Pass,2025-05-02,28,Other,2,20.45,25.81,46.62,Cash,Pop,6,8,6,False
@@ -9114,7 +9114,7 @@ TCK102748,1-day Pass,2025-05-03,20,Male,5,38.6,34.62,18.36,Card,Electronic,8,7,7
 TCK100435,VIP,2025-05-02,23,Other,1,22.75,4.73,60.32,Card,Rock,8,2,7,False
 TCK104457,3-day Pass,2025-05-03,30,Female,3,8.36,50.35,70.15,Card,Rock,8,6,6,False
 TCK100570,1-day Pass,2025-05-01,21,Female,3,7.64,13.15,79.13,Card,Electronic,6,6,10,True
-TCK106023,3-day Pass,2025-05-01,29,Female,4,34.4,44.02,35.58,Card,Rock,6,7,6,False
+TCK106023,3-day Pass,2025-05-01,29,Male,4,34.4,44.02,35.58,Card,Rock,6,7,6,False
 TCK100128,3-day Pass,2025-05-02,25,Female,2,26.33,32.83,97.38,Card,Electronic,7,9,1,False
 TCK105501,VIP,2025-05-03,21,Female,3,3.22,1.9,54.06,Card,Pop,9,4,3,True
 TCK104001,3-day Pass,2025-05-02,18,Male,3,19.38,50.44,80.41,Cash,Electronic,6,9,3,True
@@ -9218,7 +9218,7 @@ TCK104545,1-day Pass,2025-05-01,25,Female,4,36.21,20.32,55.77,Card,Pop,4,8,2,Tru
 TCK102144,VIP,2025-05-01,30,Female,3,2.35,28.54,3.06,Cash,Rock,6,10,6,True
 TCK109096,1-day Pass,2025-05-02,26,Female,4,28.66,28.94,66.72,Cash,Reggaeton,5,7,6,True
 TCK102910,3-day Pass,2025-05-01,19,Female,5,36.42,42.06,24.43,Card,Pop,7,2,6,True
-TCK105217,3-day Pass,2025-05-01,18,Female,5,39.17,15.18,93.07,Cash,Electronic,8,8,9,False
+TCK105217,VIP,2025-05-01,18,Female,5,39.17,15.18,93.07,Cash,Electronic,8,8,9,False
 TCK102363,3-day Pass,2025-05-02,23,Male,1,12.48,15.93,99.77,Card,Pop,8,7,6,True
 TCK106573,1-day Pass,2025-05-03,23,Female,5,23.52,26.36,74.95,Card,Rock,5,10,2,True
 TCK108352,3-day Pass,2025-05-03,29,Male,4,15.62,14.98,9.66,Cash,Pop,7,7,8,True
@@ -9272,7 +9272,7 @@ TCK101815,3-day Pass,2025-05-01,19,Female,4,38.25,8.43,34.44,Card,Rock,6,10,2,Tr
 TCK103766,3-day Pass,2025-05-03,20,Female,5,44.21,46.53,60.86,Card,Pop,7,8,6,True
 TCK103313,3-day Pass,2025-05-01,23,Male,2,36.26,3.89,43.19,Card,Hip-Hop,8,10,3,True
 TCK108388,1-day Pass,2025-05-01,26,Female,3,49.09,35.91,99.17,Card,Rock,8,8,3,True
-TCK101584,1-day Pass,2025-05-02,19,Female,2,48.13,31.84,14.6,Card,Pop,3,7,3,True
+TCK101584,3-day Pass,2025-05-02,19,Female,2,48.13,31.84,14.6,Card,Pop,3,7,3,True
 TCK106464,VIP,2025-05-01,18,Female,2,24.87,44.97,82.74,Card,Reggaeton,6,5,6,False
 TCK102773,3-day Pass,2025-05-01,30,Female,5,22.75,5.4,53.54,Card,Rock,4,7,8,False
 TCK105372,VIP,2025-05-03,25,Male,5,42.88,19.66,8.09,Cash,Hip-Hop,8,7,7,True
@@ -9320,7 +9320,7 @@ TCK102536,3-day Pass,2025-05-03,30,Female,3,28.74,39.55,29.89,Card,Reggaeton,8,1
 TCK103630,3-day Pass,2025-05-01,22,Female,1,42.49,8.78,16.75,Cash,Pop,7,10,1,False
 TCK106312,3-day Pass,2025-05-01,20,Male,2,45.67,54.59,49.51,Cash,Electronic,1,10,7,False
 TCK107672,VIP,2025-05-02,21,Female,1,31.64,0.57,31.12,Card,Hip-Hop,1,7,6,True
-TCK104560,1-day Pass,2025-05-01,29,Female,5,35.45,52.55,55.12,Card,Electronic,1,9,2,True
+TCK104560,3-day Pass,2025-05-01,29,Female,5,35.45,52.55,55.12,Card,Electronic,1,9,2,True
 TCK106343,1-day Pass,2025-05-01,23,Female,4,38.35,2.55,73.99,Card,Hip-Hop,1,9,3,False
 TCK108096,3-day Pass,2025-05-02,24,Female,3,20.7,12.95,38.97,Card,Rock,1,7,8,False
 TCK108964,VIP,2025-05-02,27,Male,3,17.15,44.59,23.74,Card,Hip-Hop,8,8,2,True
@@ -9333,7 +9333,7 @@ TCK102222,3-day Pass,2025-05-03,29,Female,2,2.77,19.03,84.18,Cash,Pop,7,8,6,Fals
 TCK107063,1-day Pass,2025-05-03,28,Other,4,47.4,50.35,36.43,Card,Pop,8,7,6,False
 TCK108453,1-day Pass,2025-05-01,20,Female,2,9.25,21.31,20.89,Card,Reggaeton,1,10,3,False
 TCK106273,3-day Pass,2025-05-03,28,Female,1,2.81,33.94,26.11,Card,Reggaeton,2,5,8,True
-TCK106243,3-day Pass,2025-05-02,32,Male,3,23.64,9.74,68.28,Card,Reggaeton,8,8,8,True
+TCK106243,3-day Pass,2025-05-02,32,Female,3,23.64,9.74,68.28,Card,Reggaeton,8,8,8,True
 TCK103897,3-day Pass,2025-05-03,27,Male,5,16.62,29.14,91.24,Card,Pop,6,2,3,False
 TCK106335,VIP,2025-05-01,28,Female,5,30.23,41.67,77.76,Cash,Hip-Hop,4,10,8,True
 TCK105954,3-day Pass,2025-05-02,28,Female,5,48.69,18.8,94.14,Cash,Pop,1,6,5,True
@@ -9495,7 +9495,7 @@ TCK100688,VIP,2025-05-02,22,Male,5,45.07,24.26,87.28,Card,Rock,1,8,7,True
 TCK100094,1-day Pass,2025-05-03,22,Female,3,24.44,42.99,45.21,Card,Hip-Hop,7,10,1,False
 TCK104630,1-day Pass,2025-05-02,31,Female,3,41.48,32.62,78.59,Card,Pop,8,8,7,True
 TCK106960,3-day Pass,2025-05-01,31,Male,3,6.86,17.87,87.71,Card,Pop,1,7,10,False
-TCK104668,3-day Pass,2025-05-01,29,Male,2,38.22,36.08,18.38,Card,Hip-Hop,5,10,8,False
+TCK104668,3-day Pass,2025-05-01,29,Female,2,38.22,36.08,18.38,Card,Hip-Hop,5,10,8,False
 TCK101894,3-day Pass,2025-05-02,25,Male,2,38.09,45.11,41.31,Card,Rock,8,10,5,False
 TCK100802,3-day Pass,2025-05-02,21,Female,4,16.86,20.93,51.15,Card,Rock,5,10,5,False
 TCK104067,3-day Pass,2025-05-03,23,Female,3,11.61,3.03,59.89,Card,Rock,4,8,9,False
@@ -9509,7 +9509,7 @@ TCK102405,3-day Pass,2025-05-02,32,Female,4,41.89,33.7,65.54,Cash,Pop,8,2,4,True
 TCK108309,VIP,2025-05-01,21,Female,4,10.67,48.2,58.36,Cash,Rock,8,10,3,True
 TCK101552,3-day Pass,2025-05-01,18,Female,2,43.3,27.56,22.56,Card,Reggaeton,8,10,4,False
 TCK101454,3-day Pass,2025-05-03,23,Male,3,38.35,53.46,54.68,Card,Rock,6,8,2,True
-TCK100131,VIP,2025-05-03,28,Female,3,44.79,19.06,92.18,Cash,Rock,8,8,6,True
+TCK100131,3-day Pass,2025-05-03,28,Female,3,44.79,19.06,92.18,Cash,Rock,8,8,6,True
 TCK103365,3-day Pass,2025-05-01,29,Female,3,15.9,25.01,84.94,Card,Rock,2,5,3,True
 TCK100533,3-day Pass,2025-05-03,21,Female,4,10.72,0.68,98.08,Cash,Rock,9,8,4,True
 TCK101775,3-day Pass,2025-05-03,27,Female,2,8.49,59.58,62.64,Card,Pop,8,7,5,True
@@ -9568,7 +9568,7 @@ TCK101325,3-day Pass,2025-05-02,32,Female,3,35.43,30.12,22.8,Cash,Pop,9,5,6,True
 TCK105062,VIP,2025-05-01,19,Other,5,9.11,53.64,75.0,Festival App,Reggaeton,8,9,3,False
 TCK103509,3-day Pass,2025-05-03,22,Female,2,4.29,53.71,47.06,Card,Reggaeton,5,9,9,True
 TCK102901,VIP,2025-05-02,18,Male,3,0.36,40.31,89.03,Festival App,Reggaeton,8,10,9,True
-TCK100905,VIP,2025-05-02,28,Female,3,35.81,2.86,59.86,Card,Hip-Hop,8,7,8,False
+TCK100905,3-day Pass,2025-05-02,28,Female,3,35.81,2.86,59.86,Card,Hip-Hop,8,7,8,False
 TCK101012,3-day Pass,2025-05-02,30,Female,4,7.93,29.41,4.25,Cash,Pop,2,7,9,True
 TCK108044,3-day Pass,2025-05-01,25,Male,2,48.04,53.47,44.96,Cash,Rock,7,8,10,True
 TCK101086,3-day Pass,2025-05-02,25,Female,3,48.31,3.23,33.64,Card,Hip-Hop,1,6,4,True
@@ -9627,8 +9627,8 @@ TCK105609,3-day Pass,2025-05-02,18,Male,2,0.98,52.69,85.38,Cash,Rock,8,9,3,False
 TCK104069,3-day Pass,2025-05-03,22,Male,1,40.47,35.32,57.14,Cash,Pop,9,9,6,False
 TCK102737,1-day Pass,2025-05-01,22,Male,4,6.94,33.21,17.54,Cash,Hip-Hop,8,10,7,True
 TCK107427,3-day Pass,2025-05-01,28,Female,4,30.91,44.48,33.0,Cash,Rock,7,10,4,False
-TCK108268,VIP,2025-05-01,22,Male,3,24.87,12.48,17.27,Card,Hip-Hop,9,7,3,True
-TCK101202,3-day Pass,2025-05-03,26,Male,4,26.23,20.31,87.24,Card,Rock,6,10,9,True
+TCK108268,VIP,2025-05-01,22,Female,3,24.87,12.48,17.27,Card,Hip-Hop,9,7,3,True
+TCK101202,3-day Pass,2025-05-03,26,Female,4,26.23,20.31,87.24,Card,Rock,6,10,9,True
 TCK100846,3-day Pass,2025-05-01,23,Female,4,18.24,4.73,84.22,Card,Pop,2,5,3,True
 TCK105790,VIP,2025-05-01,29,Male,5,4.53,22.01,44.47,Cash,Pop,9,10,3,True
 TCK101986,3-day Pass,2025-05-01,23,Male,3,26.74,31.62,50.81,Card,Rock,4,7,3,True
@@ -9641,7 +9641,7 @@ TCK107424,VIP,2025-05-02,19,Female,2,43.38,26.67,11.98,Card,Reggaeton,8,10,1,Tru
 TCK101531,3-day Pass,2025-05-02,28,Female,4,19.57,39.34,61.28,Card,Pop,3,6,3,False
 TCK106779,1-day Pass,2025-05-01,29,Female,3,44.21,49.96,59.14,Card,Pop,7,6,3,True
 TCK107819,3-day Pass,2025-05-02,22,Female,3,8.05,42.29,53.3,Card,Rock,4,7,6,False
-TCK102786,3-day Pass,2025-05-01,25,Female,3,33.63,21.06,37.92,Card,Reggaeton,8,7,3,True
+TCK102786,3-day Pass,2025-05-01,25,Male,3,33.63,21.06,37.92,Card,Reggaeton,8,7,3,True
 TCK107795,3-day Pass,2025-05-01,30,Female,1,42.57,36.32,64.06,Card,Pop,5,9,3,False
 TCK102566,VIP,2025-05-03,23,Female,4,49.17,56.27,23.86,Cash,Hip-Hop,5,8,6,True
 TCK109186,3-day Pass,2025-05-02,19,Male,4,39.47,23.68,4.65,Card,Rock,8,9,6,False
@@ -9843,7 +9843,7 @@ TCK108105,3-day Pass,2025-05-01,22,Male,2,31.62,27.08,55.37,Festival App,Rock,2,
 TCK108005,3-day Pass,2025-05-02,18,Male,1,31.22,24.81,95.83,Cash,Hip-Hop,8,9,3,False
 TCK105881,3-day Pass,2025-05-01,27,Female,5,18.96,51.63,22.42,Card,Hip-Hop,5,7,2,True
 TCK102555,3-day Pass,2025-05-02,20,Male,3,30.41,15.23,10.85,Cash,Pop,5,10,1,False
-TCK108126,1-day Pass,2025-05-01,26,Female,3,24.43,25.45,66.72,Card,Reggaeton,8,8,6,True
+TCK108126,1-day Pass,2025-05-01,26,Male,3,24.43,25.45,66.72,Card,Reggaeton,8,8,6,True
 TCK103169,3-day Pass,2025-05-03,26,Female,3,3.13,47.71,15.05,Card,Rock,8,5,4,True
 TCK105316,VIP,2025-05-01,27,Female,4,24.93,28.94,87.24,Card,Pop,8,1,9,True
 TCK102840,VIP,2025-05-01,19,Male,4,19.77,41.5,30.6,Cash,Rock,1,6,1,True
@@ -9976,8 +9976,8 @@ TCK105231,3-day Pass,2025-05-02,18,Male,2,37.77,21.69,78.01,Card,Reggaeton,1,9,8
 TCK101820,1-day Pass,2025-05-01,24,Male,4,31.69,11.39,98.28,Card,Rock,5,2,6,True
 TCK109260,VIP,2025-05-03,18,Female,3,5.88,3.38,25.96,Card,Pop,8,9,7,True
 TCK106489,3-day Pass,2025-05-02,26,Male,5,35.73,31.96,63.97,Card,Rock,4,7,3,True
-TCK103293,VIP,2025-05-01,21,Female,3,23.07,10.78,33.37,Card,Hip-Hop,8,9,10,True
-TCK107673,3-day Pass,2025-05-01,30,Other,1,22.34,32.79,5.87,Cash,Pop,5,4,1,True
+TCK103293,VIP,2025-05-01,21,Male,3,23.07,10.78,33.37,Card,Hip-Hop,8,9,10,True
+TCK107673,1-day Pass,2025-05-01,30,Other,1,22.34,32.79,5.87,Cash,Pop,5,4,1,True
 TCK104305,1-day Pass,2025-05-01,22,Female,4,34.97,40.59,45.77,Card,Hip-Hop,8,9,3,True
 TCK105247,3-day Pass,2025-05-02,29,Other,4,8.7,45.8,35.7,Cash,Rock,9,7,1,True
 TCK105824,3-day Pass,2025-05-02,24,Female,4,9.64,59.73,93.84,Card,Hip-Hop,2,7,6,True
@@ -10072,7 +10072,7 @@ TCK102576,3-day Pass,2025-05-02,24,Male,4,20.25,8.11,13.22,Card,Rock,9,7,6,False
 TCK108516,3-day Pass,2025-05-03,26,Male,3,15.63,19.33,85.91,Cash,Reggaeton,8,10,9,True
 TCK108701,3-day Pass,2025-05-03,25,Other,3,48.8,17.2,0.54,Card,Reggaeton,7,8,5,True
 TCK102145,3-day Pass,2025-05-03,31,Male,3,29.42,58.14,36.53,Cash,Hip-Hop,8,8,7,True
-TCK102796,1-day Pass,2025-05-01,26,Male,4,4.71,13.46,43.71,Card,Pop,1,7,7,False
+TCK102796,3-day Pass,2025-05-01,26,Male,4,4.71,13.46,43.71,Card,Pop,1,7,7,False
 TCK102608,3-day Pass,2025-05-03,27,Female,1,1.5,39.39,20.49,Cash,Rock,6,7,10,True
 TCK106946,VIP,2025-05-02,18,Female,4,29.51,33.87,3.06,Card,Hip-Hop,4,6,9,True
 TCK100929,VIP,2025-05-03,19,Female,4,48.57,34.01,6.06,Card,Pop,4,7,3,False
@@ -10112,7 +10112,7 @@ TCK104763,3-day Pass,2025-05-03,26,Other,2,39.15,53.11,50.49,Cash,Hip-Hop,8,8,6,
 TCK104944,3-day Pass,2025-05-03,24,Male,5,35.61,15.98,26.2,Card,Hip-Hop,8,10,2,True
 TCK108913,1-day Pass,2025-05-03,27,Male,1,20.06,39.68,63.6,Card,Pop,5,10,3,True
 TCK101164,3-day Pass,2025-05-02,29,Female,4,26.19,25.6,50.7,Card,Reggaeton,4,8,6,False
-TCK102642,3-day Pass,2025-05-01,24,Male,5,38.45,42.33,32.85,Cash,Rock,7,6,8,False
+TCK102642,3-day Pass,2025-05-01,24,Female,5,38.45,42.33,32.85,Cash,Rock,7,6,8,False
 TCK105531,3-day Pass,2025-05-01,18,Male,5,31.52,30.35,20.48,Card,Rock,6,5,6,True
 TCK101179,VIP,2025-05-02,28,Male,5,46.19,38.83,47.13,Card,Rock,4,10,9,True
 TCK106224,1-day Pass,2025-05-03,22,Male,4,21.14,58.34,70.11,Card,Rock,9,10,3,False
@@ -10129,7 +10129,7 @@ TCK103702,1-day Pass,2025-05-03,23,Male,3,20.1,48.15,71.5,Card,Pop,2,7,3,True
 TCK106015,VIP,2025-05-03,24,Female,3,24.08,26.6,81.58,Card,Rock,6,10,3,True
 TCK108879,1-day Pass,2025-05-01,28,Female,4,26.9,44.15,47.01,Cash,Rock,6,8,9,True
 TCK103558,1-day Pass,2025-05-01,29,Female,4,30.37,53.56,68.6,Card,Hip-Hop,9,1,3,False
-TCK105570,VIP,2025-05-01,23,Male,3,8.05,58.14,68.29,Card,Pop,4,9,6,True
+TCK105570,VIP,2025-05-01,23,Female,3,8.05,58.14,68.29,Card,Pop,4,9,6,True
 TCK104047,3-day Pass,2025-05-01,29,Female,5,11.41,22.96,58.9,Card,Rock,8,6,2,True
 TCK105280,3-day Pass,2025-05-01,28,Female,2,9.4,22.72,3.24,Card,Electronic,8,9,2,False
 TCK108033,3-day Pass,2025-05-01,19,Male,1,30.04,23.14,14.77,Cash,Reggaeton,4,8,3,True
@@ -10196,10 +10196,10 @@ TCK104014,1-day Pass,2025-05-03,23,Male,2,25.13,27.06,9.02,Card,Rock,8,10,4,True
 TCK107817,3-day Pass,2025-05-01,22,Male,2,27.34,16.38,30.48,Festival App,Rock,8,5,5,True
 TCK108647,3-day Pass,2025-05-03,27,Female,3,44.22,45.44,15.69,Festival App,Rock,6,8,8,False
 TCK104598,1-day Pass,2025-05-01,27,Male,4,19.25,44.21,46.26,Card,Rock,4,8,4,False
-TCK103712,3-day Pass,2025-05-03,24,Female,5,27.79,52.08,21.33,Card,Reggaeton,6,8,6,False
+TCK103712,3-day Pass,2025-05-03,24,Male,5,27.79,52.08,21.33,Card,Reggaeton,6,8,6,False
 TCK104805,3-day Pass,2025-05-02,27,Male,4,0.01,26.92,29.27,Cash,Rock,8,8,4,True
 TCK100819,VIP,2025-05-02,18,Male,2,11.47,54.96,22.21,Cash,Electronic,6,8,9,True
-TCK107711,3-day Pass,2025-05-01,29,Female,2,35.7,6.8,11.8,Card,Rock,7,1,2,False
+TCK107711,3-day Pass,2025-05-01,29,Other,2,35.7,6.8,11.8,Card,Rock,7,1,2,False
 TCK104552,1-day Pass,2025-05-02,28,Male,3,17.6,5.67,71.94,Card,Pop,10,1,7,False
 TCK105467,3-day Pass,2025-05-03,23,Female,2,48.04,12.38,39.74,Cash,Reggaeton,4,10,2,False
 TCK107215,3-day Pass,2025-05-02,22,Female,1,2.0,44.25,73.66,Card,Rock,7,7,2,True
@@ -10225,7 +10225,7 @@ TCK103844,3-day Pass,2025-05-02,29,Female,4,18.77,44.78,6.6,Card,Pop,1,7,6,True
 TCK107617,3-day Pass,2025-05-03,22,Other,4,19.98,4.18,64.07,Card,Rock,2,10,3,False
 TCK101058,VIP,2025-05-02,26,Male,3,40.63,46.34,99.61,Card,Rock,6,8,7,True
 TCK104921,VIP,2025-05-03,29,Female,4,12.58,57.9,51.72,Cash,Hip-Hop,7,8,3,True
-TCK101844,VIP,2025-05-01,18,Male,4,36.81,17.79,18.35,Card,Pop,1,7,8,False
+TCK101844,3-day Pass,2025-05-01,18,Male,4,36.81,17.79,18.35,Card,Pop,1,7,8,False
 TCK108376,3-day Pass,2025-05-03,29,Male,5,48.74,18.76,70.65,Festival App,Pop,3,10,4,True
 TCK106123,VIP,2025-05-02,28,Female,1,6.6,50.68,98.19,Card,Rock,1,5,7,True
 TCK103774,3-day Pass,2025-05-03,18,Female,3,37.89,31.13,19.73,Card,Pop,6,8,3,True
@@ -10288,7 +10288,7 @@ TCK102760,VIP,2025-05-02,20,Female,2,10.72,32.35,74.9,Cash,Rock,7,7,3,False
 TCK106295,VIP,2025-05-01,29,Female,3,21.33,8.62,5.31,Card,Rock,2,8,3,True
 TCK100464,3-day Pass,2025-05-02,24,Female,3,9.22,54.27,50.81,Card,Reggaeton,5,8,7,True
 TCK108566,VIP,2025-05-01,18,Female,5,27.29,8.08,46.62,Card,Hip-Hop,9,9,6,False
-TCK104212,3-day Pass,2025-05-01,18,Male,5,20.51,35.53,7.34,Card,Electronic,2,8,2,True
+TCK104212,VIP,2025-05-01,18,Male,5,20.51,35.53,7.34,Card,Electronic,2,8,2,True
 TCK100818,3-day Pass,2025-05-03,29,Male,4,7.78,40.72,34.72,Cash,Hip-Hop,1,8,10,True
 TCK101329,3-day Pass,2025-05-03,27,Male,3,11.72,19.9,7.12,Card,Rock,8,6,2,False
 TCK100188,3-day Pass,2025-05-02,18,Other,4,15.45,9.74,93.68,Card,Rock,1,10,4,False
@@ -10366,7 +10366,7 @@ TCK106686,VIP,2025-05-02,22,Male,4,43.82,5.14,40.35,Festival App,Hip-Hop,5,10,9,
 TCK101769,3-day Pass,2025-05-01,20,Female,3,28.14,36.26,0.93,Cash,Hip-Hop,7,7,2,False
 TCK105845,1-day Pass,2025-05-01,30,Male,4,19.79,25.03,9.74,Card,Hip-Hop,5,8,6,False
 TCK100870,1-day Pass,2025-05-02,26,Male,4,43.01,48.17,63.21,Card,Pop,6,9,2,True
-TCK101708,1-day Pass,2025-05-03,28,Male,3,21.21,17.54,97.34,Card,Rock,8,10,2,True
+TCK101708,1-day Pass,2025-05-03,28,Female,3,21.21,17.54,97.34,Card,Rock,8,10,2,True
 TCK106092,VIP,2025-05-01,20,Female,4,45.42,55.12,73.55,Card,Reggaeton,8,8,4,True
 TCK101881,1-day Pass,2025-05-01,18,Female,3,19.01,13.48,38.99,Card,Electronic,8,10,6,False
 TCK108939,3-day Pass,2025-05-01,33,Male,4,11.75,18.05,23.39,Card,Pop,6,8,2,False
@@ -10458,7 +10458,7 @@ TCK101337,3-day Pass,2025-05-02,26,Male,5,17.71,54.35,73.17,Card,Rock,3,6,3,True
 TCK100607,VIP,2025-05-03,18,Male,3,12.76,48.05,61.52,Card,Pop,8,10,2,False
 TCK105063,VIP,2025-05-03,28,Female,3,37.12,48.17,14.8,Card,Rock,2,9,5,True
 TCK107681,1-day Pass,2025-05-03,30,Other,3,18.91,48.28,81.03,Card,Reggaeton,3,10,4,True
-TCK108793,3-day Pass,2025-05-01,20,Female,4,17.45,14.67,4.68,Cash,Hip-Hop,2,8,2,True
+TCK108793,VIP,2025-05-01,20,Female,4,17.45,14.67,4.68,Cash,Hip-Hop,2,8,2,True
 TCK101732,1-day Pass,2025-05-03,19,Male,3,47.1,26.55,45.66,Card,Pop,1,9,10,True
 TCK103271,3-day Pass,2025-05-02,20,Other,2,42.61,43.54,22.95,Cash,Rock,8,7,3,True
 TCK106480,3-day Pass,2025-05-02,32,Male,4,14.37,21.38,28.32,Card,Reggaeton,8,7,3,True
@@ -10482,7 +10482,7 @@ TCK102157,VIP,2025-05-03,18,Male,4,21.73,35.94,0.37,Cash,Rock,8,9,4,True
 TCK101489,1-day Pass,2025-05-03,30,Female,2,40.82,48.09,9.17,Card,Rock,2,10,3,False
 TCK100981,3-day Pass,2025-05-02,24,Other,2,7.24,2.09,62.47,Card,Pop,6,7,8,False
 TCK108010,3-day Pass,2025-05-02,29,Female,4,34.57,32.1,34.81,Festival App,Electronic,9,4,2,False
-TCK106673,3-day Pass,2025-05-01,22,Male,3,27.3,43.14,2.99,Card,Pop,5,9,3,True
+TCK106673,VIP,2025-05-01,22,Male,3,27.3,43.14,2.99,Card,Pop,5,9,3,True
 TCK102166,3-day Pass,2025-05-03,18,Female,4,8.4,9.43,47.02,Cash,Rock,9,9,5,True
 TCK106764,1-day Pass,2025-05-03,20,Male,5,26.34,2.81,93.91,Card,Rock,4,7,6,False
 TCK102668,3-day Pass,2025-05-02,22,Male,4,45.17,58.99,68.49,Card,Rock,8,10,8,True
@@ -10508,7 +10508,7 @@ TCK108180,3-day Pass,2025-05-02,28,Female,3,23.44,59.39,75.88,Card,Rock,6,5,8,Fa
 TCK101230,3-day Pass,2025-05-01,27,Female,5,15.35,17.03,12.42,Cash,Rock,4,9,5,False
 TCK101517,3-day Pass,2025-05-01,18,Female,2,18.06,1.45,30.63,Card,Pop,9,8,4,False
 TCK108114,3-day Pass,2025-05-01,23,Female,1,36.02,36.47,83.26,Card,Pop,9,6,3,True
-TCK102661,VIP,2025-05-03,22,Other,3,36.23,49.52,97.51,Cash,Pop,7,8,4,False
+TCK102661,VIP,2025-05-03,22,Female,3,36.23,49.52,97.51,Cash,Pop,7,8,4,False
 TCK104252,3-day Pass,2025-05-01,31,Female,5,18.81,6.14,70.23,Card,Hip-Hop,1,9,8,True
 TCK109258,VIP,2025-05-03,28,Female,3,46.39,50.22,3.82,Card,Pop,9,9,2,True
 TCK108660,VIP,2025-05-02,24,Male,5,37.18,56.06,20.9,Card,Rock,8,6,6,True
@@ -10569,7 +10569,7 @@ TCK107243,3-day Pass,2025-05-02,26,Female,4,28.41,2.47,16.88,Cash,Rock,5,10,2,Tr
 TCK103864,VIP,2025-05-03,26,Male,1,3.63,10.65,87.96,Cash,Pop,5,8,5,True
 TCK108876,3-day Pass,2025-05-03,25,Male,5,16.06,19.67,51.44,Card,Rock,4,9,3,False
 TCK103766,3-day Pass,2025-05-01,31,Other,5,22.0,20.16,73.98,Cash,Rock,8,8,3,True
-TCK102064,1-day Pass,2025-05-02,25,Female,5,19.73,33.3,58.42,Card,Rock,6,8,5,False
+TCK102064,3-day Pass,2025-05-02,25,Female,5,19.73,33.3,58.42,Card,Rock,6,8,5,False
 TCK100123,3-day Pass,2025-05-01,32,Male,3,17.53,30.55,99.23,Card,Rock,2,6,4,False
 TCK108258,3-day Pass,2025-05-02,26,Female,4,12.24,9.12,14.94,Card,Rock,4,9,6,False
 TCK106618,3-day Pass,2025-05-03,22,Female,4,38.59,26.19,40.03,Card,Rock,8,10,2,False
@@ -10670,7 +10670,7 @@ TCK102127,3-day Pass,2025-05-02,29,Male,2,25.11,21.12,91.28,Cash,Pop,3,9,6,True
 TCK103793,3-day Pass,2025-05-01,24,Female,4,32.99,54.44,0.06,Card,Rock,8,9,6,True
 TCK108020,3-day Pass,2025-05-02,28,Female,5,5.5,42.92,68.08,Card,Rock,8,7,6,True
 TCK108494,3-day Pass,2025-05-03,21,Female,3,31.26,56.91,97.83,Card,Rock,1,9,6,True
-TCK107675,3-day Pass,2025-05-03,18,Male,1,4.16,35.36,83.12,Cash,Pop,1,6,5,True
+TCK107675,1-day Pass,2025-05-03,18,Male,1,4.16,35.36,83.12,Cash,Pop,1,6,5,True
 TCK105475,1-day Pass,2025-05-02,26,Female,5,40.03,14.25,48.4,Cash,Pop,6,7,7,False
 TCK107503,VIP,2025-05-02,29,Male,3,41.5,17.0,38.78,Card,Rock,8,6,5,True
 TCK100028,1-day Pass,2025-05-01,23,Male,3,26.46,29.12,99.06,Card,Reggaeton,4,10,6,True
@@ -10694,9 +10694,9 @@ TCK106897,3-day Pass,2025-05-02,25,Male,3,47.25,41.97,37.41,Cash,Rock,9,8,6,Fals
 TCK103376,VIP,2025-05-02,29,Male,3,48.15,46.39,64.81,Card,Pop,7,7,3,True
 TCK106975,3-day Pass,2025-05-02,28,Female,5,40.13,23.81,3.07,Cash,Hip-Hop,8,7,3,True
 TCK105241,3-day Pass,2025-05-02,27,Male,5,20.71,2.72,77.33,Card,Pop,6,8,8,True
-TCK103588,VIP,2025-05-01,18,Male,3,27.95,19.56,3.43,Card,Hip-Hop,6,8,3,True
+TCK103588,VIP,2025-05-01,18,Female,3,27.95,19.56,3.43,Card,Hip-Hop,6,8,3,True
 TCK106387,VIP,2025-05-02,29,Other,3,19.64,59.68,99.52,Card,Hip-Hop,4,8,3,False
-TCK107982,3-day Pass,2025-05-01,18,Female,3,5.73,35.05,52.91,Card,Rock,6,8,8,True
+TCK107982,VIP,2025-05-01,18,Female,3,5.73,35.05,52.91,Card,Rock,6,8,8,True
 TCK105180,3-day Pass,2025-05-03,30,Female,3,10.43,6.44,54.19,Card,Pop,8,9,6,False
 TCK108726,3-day Pass,2025-05-01,23,Female,2,22.6,32.12,47.7,Card,Pop,8,6,2,True
 TCK102715,VIP,2025-05-01,29,Male,2,18.62,33.87,34.57,Card,Hip-Hop,7,5,7,True
@@ -10733,7 +10733,7 @@ TCK107494,1-day Pass,2025-05-03,18,Male,2,47.06,42.97,14.44,Card,Pop,8,9,4,True
 TCK103090,3-day Pass,2025-05-01,26,Male,1,11.69,26.36,68.82,Card,Hip-Hop,6,10,5,True
 TCK105036,1-day Pass,2025-05-03,21,Male,3,22.5,45.29,25.28,Festival App,Reggaeton,9,8,5,True
 TCK100312,1-day Pass,2025-05-03,22,Other,3,39.01,6.93,83.9,Cash,Pop,2,6,3,False
-TCK104063,3-day Pass,2025-05-03,32,Male,1,0.75,45.96,20.39,Cash,Pop,6,2,6,True
+TCK104063,3-day Pass,2025-05-03,32,Female,1,0.75,45.96,20.39,Cash,Pop,6,2,6,True
 TCK105425,3-day Pass,2025-05-02,32,Female,1,32.71,35.98,65.31,Card,Rock,5,8,9,True
 TCK100628,3-day Pass,2025-05-03,29,Male,3,16.53,8.33,6.19,Card,Rock,10,7,2,True
 TCK106313,1-day Pass,2025-05-01,25,Female,1,47.13,14.66,23.51,Cash,Pop,5,1,2,True
@@ -10804,7 +10804,7 @@ TCK102574,1-day Pass,2025-05-03,28,Female,5,16.84,59.99,43.91,Cash,Hip-Hop,6,6,8
 TCK106913,VIP,2025-05-03,23,Male,3,27.98,40.82,14.02,Card,Hip-Hop,8,8,2,True
 TCK107022,VIP,2025-05-01,21,Female,4,17.5,27.01,9.25,Cash,Reggaeton,1,9,4,True
 TCK104169,3-day Pass,2025-05-01,27,Female,3,26.43,48.07,16.11,Card,Rock,2,8,3,True
-TCK108097,3-day Pass,2025-05-01,30,Female,2,38.94,43.83,3.64,Cash,Hip-Hop,6,10,6,False
+TCK108097,VIP,2025-05-01,30,Female,2,38.94,43.83,3.64,Cash,Hip-Hop,6,10,6,False
 TCK109146,3-day Pass,2025-05-03,29,Female,3,28.35,50.26,45.39,Card,Rock,6,6,4,True
 TCK102479,VIP,2025-05-03,18,Female,3,0.13,46.92,98.66,Card,Pop,7,7,3,True
 TCK105585,VIP,2025-05-01,30,Female,4,9.09,18.38,60.24,Card,Rock,5,1,4,False
@@ -10953,7 +10953,7 @@ TCK103713,1-day Pass,2025-05-03,21,Female,5,48.35,57.62,69.71,Card,Rock,5,8,8,Tr
 TCK100784,VIP,2025-05-02,20,Female,5,41.61,23.58,67.99,Cash,Rock,8,6,5,True
 TCK105273,1-day Pass,2025-05-01,22,Male,2,13.05,51.84,71.58,Card,Rock,9,9,3,True
 TCK107512,1-day Pass,2025-05-02,24,Female,2,15.44,52.07,35.44,Card,Reggaeton,5,6,6,False
-TCK106369,VIP,2025-05-02,19,Female,1,49.03,56.42,34.65,Card,Rock,10,8,2,True
+TCK106369,3-day Pass,2025-05-02,19,Female,1,49.03,56.42,34.65,Card,Rock,10,8,2,True
 TCK108739,VIP,2025-05-02,28,Female,5,24.74,37.17,44.17,Card,Pop,7,6,4,True
 TCK107550,1-day Pass,2025-05-03,24,Male,2,17.88,48.95,77.62,Cash,Hip-Hop,7,6,4,True
 TCK108554,3-day Pass,2025-05-01,25,Other,5,31.11,21.8,84.84,Card,Pop,6,2,8,False
@@ -11209,7 +11209,7 @@ TCK102503,3-day Pass,2025-05-01,25,Female,4,25.22,53.91,43.27,Card,Hip-Hop,3,8,7
 TCK101460,3-day Pass,2025-05-01,20,Male,4,6.15,0.17,57.46,Card,Rock,5,6,8,True
 TCK105667,VIP,2025-05-02,27,Female,5,41.83,12.91,51.16,Card,Pop,8,8,6,True
 TCK109218,1-day Pass,2025-05-02,27,Male,4,41.41,16.98,37.53,Cash,Hip-Hop,7,6,8,False
-TCK102846,VIP,2025-05-01,18,Other,3,28.16,39.6,34.33,Card,Rock,6,7,3,True
+TCK102846,VIP,2025-05-01,18,Female,3,28.16,39.6,34.33,Card,Rock,6,7,3,True
 TCK105671,VIP,2025-05-02,25,Female,3,32.83,9.09,10.98,Card,Pop,4,7,7,False
 TCK106894,3-day Pass,2025-05-02,28,Other,3,19.02,3.23,84.74,Cash,Electronic,6,1,8,True
 TCK106509,3-day Pass,2025-05-03,27,Female,2,49.38,53.98,65.57,Festival App,Pop,8,8,4,False
@@ -11233,7 +11233,7 @@ TCK108962,3-day Pass,2025-05-01,29,Female,5,26.81,32.43,57.28,Cash,Rock,7,8,8,Tr
 TCK105927,3-day Pass,2025-05-02,26,Female,4,2.29,38.61,84.59,Card,Rock,5,6,3,False
 TCK107087,3-day Pass,2025-05-01,20,Female,2,13.83,9.96,63.41,Card,Hip-Hop,7,5,3,True
 TCK109075,VIP,2025-05-03,27,Male,4,4.15,52.02,50.25,Cash,Hip-Hop,7,8,9,True
-TCK108968,3-day Pass,2025-05-02,26,Female,4,29.33,3.25,24.17,Card,Rock,8,8,7,True
+TCK108968,3-day Pass,2025-05-02,26,Male,4,29.33,3.25,24.17,Card,Rock,8,8,7,True
 TCK103661,3-day Pass,2025-05-03,18,Female,1,22.77,52.62,43.29,Card,Pop,9,9,6,False
 TCK103544,3-day Pass,2025-05-03,18,Male,3,17.83,10.63,32.44,Card,Electronic,8,8,3,False
 TCK103015,VIP,2025-05-01,26,Male,5,12.06,31.22,17.56,Card,Rock,6,6,6,True
@@ -11320,8 +11320,8 @@ TCK103679,3-day Pass,2025-05-02,30,Male,4,19.47,19.56,56.83,Cash,Hip-Hop,8,8,7,F
 TCK103988,1-day Pass,2025-05-03,27,Male,1,3.89,6.32,80.51,Festival App,Hip-Hop,2,7,1,True
 TCK105313,3-day Pass,2025-05-03,25,Male,5,27.58,36.26,17.25,Card,Reggaeton,4,7,4,False
 TCK105079,3-day Pass,2025-05-02,18,Female,3,45.27,50.32,7.6,Cash,Pop,8,9,7,False
-TCK104516,1-day Pass,2025-05-01,26,Male,2,45.99,54.71,64.1,Card,Reggaeton,7,10,6,True
-TCK107236,VIP,2025-05-02,27,Female,4,21.38,24.84,52.59,Cash,Pop,8,8,9,False
+TCK104516,1-day Pass,2025-05-01,26,Female,2,45.99,54.71,64.1,Card,Reggaeton,7,10,6,True
+TCK107236,1-day Pass,2025-05-02,27,Female,4,21.38,24.84,52.59,Cash,Pop,8,8,9,False
 TCK105157,1-day Pass,2025-05-01,31,Other,5,29.54,20.79,59.22,Card,Rock,9,6,7,False
 TCK103211,1-day Pass,2025-05-03,20,Female,4,22.04,32.79,69.92,Card,Rock,7,8,9,True
 TCK101526,3-day Pass,2025-05-02,21,Female,3,4.49,7.71,6.26,Card,Pop,8,9,3,True
@@ -11339,12 +11339,12 @@ TCK101361,3-day Pass,2025-05-01,26,Female,3,46.89,27.58,52.32,Card,Reggaeton,9,8
 TCK100507,3-day Pass,2025-05-03,27,Male,2,26.01,49.24,16.31,Card,Hip-Hop,2,10,5,False
 TCK103778,3-day Pass,2025-05-02,21,Female,4,22.23,53.64,8.3,Card,Rock,8,9,10,True
 TCK105235,1-day Pass,2025-05-01,30,Male,1,21.84,28.76,58.93,Card,Reggaeton,8,1,6,True
-TCK106427,1-day Pass,2025-05-03,25,Female,2,29.23,0.8,38.16,Card,Pop,4,9,5,True
+TCK106427,VIP,2025-05-03,25,Female,2,29.23,0.8,38.16,Card,Pop,4,9,5,True
 TCK105225,3-day Pass,2025-05-02,18,Female,5,20.29,16.41,0.56,Card,Hip-Hop,8,6,4,False
 TCK102194,3-day Pass,2025-05-03,26,Female,3,12.69,16.95,28.89,Card,Rock,9,10,3,True
 TCK103005,1-day Pass,2025-05-01,23,Female,3,44.98,8.53,5.05,Card,Rock,2,8,7,True
 TCK108470,3-day Pass,2025-05-02,28,Female,4,6.75,33.6,46.88,Cash,Rock,8,10,3,True
-TCK107539,3-day Pass,2025-05-02,21,Male,4,20.9,0.21,40.23,Card,Rock,10,7,8,True
+TCK107539,3-day Pass,2025-05-02,21,Female,4,20.9,0.21,40.23,Card,Rock,10,7,8,True
 TCK102189,1-day Pass,2025-05-02,28,Female,2,10.78,50.42,29.62,Card,Rock,8,6,3,True
 TCK105965,VIP,2025-05-03,22,Other,5,31.09,4.62,76.52,Festival App,Rock,4,9,3,True
 TCK100930,1-day Pass,2025-05-01,22,Female,5,40.97,18.71,51.55,Card,Electronic,7,7,2,True
@@ -11413,7 +11413,7 @@ TCK103920,VIP,2025-05-01,27,Female,5,24.13,7.94,29.71,Cash,Rock,8,7,7,True
 TCK104904,3-day Pass,2025-05-01,18,Other,4,43.99,45.61,51.65,Cash,Hip-Hop,5,10,2,True
 TCK101975,VIP,2025-05-03,31,Male,2,30.06,12.11,84.47,Cash,Electronic,1,10,5,False
 TCK108261,3-day Pass,2025-05-02,18,Female,4,43.14,48.17,9.24,Cash,Pop,6,7,10,False
-TCK108693,3-day Pass,2025-05-03,27,Male,3,24.72,37.42,77.66,Cash,Pop,7,8,6,False
+TCK108693,3-day Pass,2025-05-03,27,Female,3,24.72,37.42,77.66,Cash,Pop,7,8,6,False
 TCK104466,3-day Pass,2025-05-03,27,Male,2,42.17,2.88,27.03,Card,Pop,1,10,3,False
 TCK105216,1-day Pass,2025-05-01,28,Female,5,4.09,59.81,57.08,Card,Rock,6,8,8,True
 TCK105478,3-day Pass,2025-05-02,23,Male,3,6.2,58.76,1.14,Festival App,Pop,7,10,3,True
@@ -11441,7 +11441,7 @@ TCK101124,3-day Pass,2025-05-01,30,Male,5,6.62,44.06,25.58,Cash,Rock,4,7,10,True
 TCK109208,1-day Pass,2025-05-01,30,Male,3,46.66,11.24,35.42,Cash,Rock,3,9,9,True
 TCK106562,1-day Pass,2025-05-03,27,Male,2,48.23,23.07,4.04,Card,Hip-Hop,4,8,4,False
 TCK108386,VIP,2025-05-02,25,Male,2,8.98,57.78,43.04,Card,Pop,3,8,3,True
-TCK103958,3-day Pass,2025-05-02,20,Female,5,48.18,48.73,20.03,Cash,Hip-Hop,6,7,8,True
+TCK103958,VIP,2025-05-02,20,Female,5,48.18,48.73,20.03,Cash,Hip-Hop,6,7,8,True
 TCK101665,3-day Pass,2025-05-01,18,Male,1,12.17,17.51,69.4,Cash,Electronic,8,8,5,True
 TCK107640,3-day Pass,2025-05-01,28,Male,2,21.76,48.59,14.47,Card,Pop,1,8,9,True
 TCK100232,VIP,2025-05-02,28,Female,4,32.67,14.35,72.51,Card,Hip-Hop,8,8,3,True
@@ -11450,7 +11450,7 @@ TCK106487,3-day Pass,2025-05-01,21,Male,5,2.65,48.27,43.64,Card,Pop,7,8,8,True
 TCK107790,3-day Pass,2025-05-02,23,Female,4,44.92,47.11,49.93,Cash,Rock,6,10,9,False
 TCK103838,3-day Pass,2025-05-02,18,Male,3,13.09,47.12,63.11,Cash,Rock,1,9,3,False
 TCK103045,VIP,2025-05-02,28,Female,3,15.61,29.48,71.4,Cash,Hip-Hop,9,1,8,True
-TCK102490,3-day Pass,2025-05-03,29,Male,2,7.95,25.43,7.53,Card,Pop,2,7,6,True
+TCK102490,3-day Pass,2025-05-03,29,Female,2,7.95,25.43,7.53,Card,Pop,2,7,6,True
 TCK109281,3-day Pass,2025-05-02,33,Male,3,44.82,10.57,76.78,Card,Rock,8,9,5,False
 TCK101848,3-day Pass,2025-05-01,26,Female,2,45.17,35.39,63.53,Festival App,Rock,3,10,6,True
 TCK106436,3-day Pass,2025-05-03,27,Female,3,9.73,1.91,88.86,Card,Pop,7,6,2,True
@@ -11540,7 +11540,7 @@ TCK104507,3-day Pass,2025-05-01,22,Male,3,47.76,39.12,17.67,Cash,Rock,1,6,3,True
 TCK106471,3-day Pass,2025-05-01,27,Female,5,21.27,20.85,22.28,Cash,Hip-Hop,6,10,4,True
 TCK102890,VIP,2025-05-02,24,Female,3,30.13,12.94,61.9,Card,Rock,8,5,5,False
 TCK100895,3-day Pass,2025-05-03,28,Male,4,38.64,11.52,92.43,Festival App,Pop,8,9,5,False
-TCK109320,1-day Pass,2025-05-01,30,Male,3,37.1,41.67,90.53,Card,Rock,5,2,6,True
+TCK109320,3-day Pass,2025-05-01,30,Male,3,37.1,41.67,90.53,Card,Rock,5,2,6,True
 TCK108098,3-day Pass,2025-05-03,28,Female,5,17.08,20.79,56.53,Card,Electronic,8,10,1,True
 TCK108945,3-day Pass,2025-05-03,21,Female,3,43.85,37.52,74.38,Card,Electronic,5,9,4,True
 TCK105710,1-day Pass,2025-05-03,18,Male,3,34.69,50.59,6.57,Card,Rock,5,9,2,True
@@ -11580,7 +11580,7 @@ TCK107887,3-day Pass,2025-05-03,30,Female,3,1.65,30.19,35.11,Card,Rock,7,7,2,Tru
 TCK107184,VIP,2025-05-03,30,Female,3,17.95,3.82,74.17,Cash,Rock,5,8,5,True
 TCK106523,VIP,2025-05-03,24,Female,3,44.91,57.72,2.74,Card,Reggaeton,6,9,7,False
 TCK103819,3-day Pass,2025-05-02,18,Female,4,5.34,4.91,81.45,Card,Hip-Hop,6,8,3,True
-TCK107042,1-day Pass,2025-05-02,18,Female,3,39.52,36.16,58.69,Card,Pop,7,9,3,False
+TCK107042,1-day Pass,2025-05-02,18,Male,3,39.52,36.16,58.69,Card,Pop,7,9,3,False
 TCK108533,3-day Pass,2025-05-01,25,Female,4,49.32,47.75,59.0,Card,Electronic,8,7,2,True
 TCK103070,3-day Pass,2025-05-01,27,Female,4,17.66,1.12,50.0,Card,Rock,1,5,3,False
 TCK102055,VIP,2025-05-01,31,Female,5,44.44,19.65,77.82,Card,Electronic,1,7,9,True
@@ -11638,7 +11638,7 @@ TCK107559,VIP,2025-05-01,23,Male,5,29.5,36.51,64.89,Card,Electronic,10,5,8,True
 TCK106637,3-day Pass,2025-05-02,27,Male,2,27.83,11.34,86.61,Cash,Pop,1,9,5,True
 TCK102943,3-day Pass,2025-05-02,21,Female,1,43.62,35.56,40.5,Card,Rock,7,10,6,True
 TCK107797,3-day Pass,2025-05-01,27,Female,5,7.26,23.49,99.39,Festival App,Electronic,1,9,9,False
-TCK100277,3-day Pass,2025-05-01,23,Female,5,27.63,52.44,44.01,Card,Pop,5,6,3,False
+TCK100277,1-day Pass,2025-05-01,23,Female,5,27.63,52.44,44.01,Card,Pop,5,6,3,False
 TCK105447,VIP,2025-05-01,18,Female,2,14.12,26.26,23.34,Card,Pop,3,7,5,True
 TCK106095,1-day Pass,2025-05-02,22,Male,2,45.59,31.67,27.07,Cash,Pop,3,7,3,False
 TCK107807,3-day Pass,2025-05-01,29,Female,2,7.21,35.76,81.47,Festival App,Rock,4,5,5,True
@@ -11655,7 +11655,7 @@ TCK107676,3-day Pass,2025-05-02,21,Female,2,5.82,35.59,66.99,Card,Pop,1,7,6,True
 TCK102921,VIP,2025-05-02,18,Male,3,4.75,38.78,38.51,Card,Rock,9,6,3,True
 TCK103492,VIP,2025-05-03,27,Female,3,8.8,18.51,55.15,Card,Pop,7,9,8,False
 TCK100008,3-day Pass,2025-05-01,29,Male,4,0.49,9.23,90.55,Card,Rock,5,9,3,True
-TCK103158,VIP,2025-05-03,18,Female,4,34.47,15.59,89.64,Card,Hip-Hop,7,6,2,True
+TCK103158,3-day Pass,2025-05-03,18,Female,4,34.47,15.59,89.64,Card,Hip-Hop,7,6,2,True
 TCK100788,1-day Pass,2025-05-03,24,Female,2,44.12,12.02,25.55,Card,Rock,8,9,2,True
 TCK106712,3-day Pass,2025-05-02,25,Male,3,40.65,18.54,83.86,Cash,Reggaeton,7,7,6,True
 TCK107093,1-day Pass,2025-05-01,19,Female,5,12.17,14.13,70.99,Cash,Reggaeton,5,10,5,False
@@ -11725,7 +11725,7 @@ TCK102950,VIP,2025-05-02,21,Male,3,5.01,25.11,42.12,Cash,Electronic,8,7,7,True
 TCK108497,3-day Pass,2025-05-03,23,Male,3,44.05,16.62,82.74,Cash,Hip-Hop,9,10,5,False
 TCK100653,VIP,2025-05-01,24,Female,3,24.17,17.96,53.13,Card,Rock,3,10,9,False
 TCK108623,3-day Pass,2025-05-01,28,Female,4,39.03,27.71,18.6,Cash,Rock,8,8,7,False
-TCK108692,VIP,2025-05-03,18,Male,4,47.86,4.36,2.5,Cash,Pop,6,8,5,False
+TCK108692,VIP,2025-05-03,18,Female,4,47.86,4.36,2.5,Cash,Pop,6,8,5,False
 TCK105120,3-day Pass,2025-05-02,23,Male,3,17.17,35.68,13.96,Card,Rock,1,10,1,True
 TCK104158,3-day Pass,2025-05-02,29,Female,4,36.47,18.41,44.43,Cash,Rock,4,8,7,True
 TCK107757,3-day Pass,2025-05-02,22,Male,3,11.8,54.03,79.61,Card,Pop,4,9,5,True
@@ -11824,7 +11824,7 @@ TCK104272,3-day Pass,2025-05-01,22,Male,1,21.45,28.08,3.32,Cash,Electronic,6,8,1
 TCK108703,1-day Pass,2025-05-03,29,Other,1,22.75,40.18,9.71,Cash,Rock,8,9,4,True
 TCK104691,3-day Pass,2025-05-03,31,Other,3,4.46,16.52,59.35,Festival App,Hip-Hop,9,6,5,True
 TCK109082,1-day Pass,2025-05-03,24,Female,5,2.41,6.58,51.47,Card,Reggaeton,1,9,6,True
-TCK103680,3-day Pass,2025-05-01,30,Female,5,28.95,14.58,6.14,Cash,Hip-Hop,4,6,5,True
+TCK103680,VIP,2025-05-01,30,Female,5,28.95,14.58,6.14,Cash,Hip-Hop,4,6,5,True
 TCK106780,1-day Pass,2025-05-02,20,Male,2,4.37,18.77,74.7,Card,Rock,1,9,7,False
 TCK102889,1-day Pass,2025-05-03,18,Female,4,13.38,17.74,99.42,Card,Hip-Hop,1,10,7,False
 TCK108504,VIP,2025-05-03,29,Female,3,32.55,11.71,89.92,Cash,Pop,8,7,7,False
@@ -11883,7 +11883,7 @@ TCK105689,3-day Pass,2025-05-01,22,Female,2,18.11,46.88,16.42,Card,Pop,1,10,4,Tr
 TCK101378,3-day Pass,2025-05-01,20,Female,3,2.93,57.37,2.15,Card,Rock,8,8,10,True
 TCK109092,3-day Pass,2025-05-02,18,Female,3,4.36,55.12,71.0,Card,Electronic,7,9,6,False
 TCK106733,3-day Pass,2025-05-02,18,Female,3,8.52,59.08,87.94,Card,Pop,1,5,2,False
-TCK100108,1-day Pass,2025-05-01,18,Other,3,5.72,39.99,7.89,Cash,Hip-Hop,4,9,6,True
+TCK100108,3-day Pass,2025-05-01,18,Other,3,5.72,39.99,7.89,Cash,Hip-Hop,4,9,6,True
 TCK104656,3-day Pass,2025-05-01,23,Male,4,23.05,34.62,70.69,Card,Pop,4,8,3,False
 TCK106022,3-day Pass,2025-05-01,20,Male,4,1.17,8.99,12.4,Cash,Pop,8,10,3,False
 TCK100239,3-day Pass,2025-05-02,20,Female,4,39.95,3.6,43.99,Card,Rock,8,7,6,False
@@ -11894,7 +11894,7 @@ TCK107413,1-day Pass,2025-05-01,18,Male,3,19.04,31.95,67.37,Cash,Reggaeton,8,6,2
 TCK109308,1-day Pass,2025-05-03,25,Female,3,4.35,39.08,1.25,Card,Hip-Hop,7,10,8,True
 TCK101936,3-day Pass,2025-05-02,24,Male,5,13.9,27.34,70.96,Cash,Rock,8,8,8,True
 TCK105626,3-day Pass,2025-05-01,34,Female,3,48.34,56.14,17.25,Card,Reggaeton,4,5,6,False
-TCK103089,3-day Pass,2025-05-01,25,Male,3,43.1,59.81,59.98,Card,Reggaeton,6,8,9,True
+TCK103089,VIP,2025-05-01,25,Male,3,43.1,59.81,59.98,Card,Reggaeton,6,8,9,True
 TCK100442,VIP,2025-05-02,25,Female,3,22.99,41.86,27.61,Card,Rock,4,9,2,False
 TCK104687,3-day Pass,2025-05-02,25,Male,4,12.88,12.7,62.0,Card,Hip-Hop,9,7,6,False
 TCK106743,3-day Pass,2025-05-03,28,Female,4,17.43,23.65,69.75,Card,Hip-Hop,5,6,3,True
@@ -11984,7 +11984,7 @@ TCK102512,3-day Pass,2025-05-01,27,Female,2,27.91,29.22,32.45,Cash,Rock,4,8,2,Fa
 TCK100143,3-day Pass,2025-05-03,22,Female,2,11.0,50.68,16.15,Festival App,Pop,6,9,6,True
 TCK100515,VIP,2025-05-03,28,Female,4,35.59,7.21,10.46,Card,Hip-Hop,3,10,6,False
 TCK102336,3-day Pass,2025-05-01,22,Male,2,2.92,44.56,8.48,Card,Rock,1,7,7,True
-TCK109268,VIP,2025-05-03,24,Female,4,32.41,3.94,99.65,Card,Rock,10,9,7,False
+TCK109268,1-day Pass,2025-05-03,24,Female,4,32.41,3.94,99.65,Card,Rock,10,9,7,False
 TCK101361,1-day Pass,2025-05-03,27,Male,2,49.59,6.13,25.16,Card,Rock,8,8,6,True
 TCK105899,3-day Pass,2025-05-02,25,Male,2,16.53,15.34,21.46,Card,Pop,8,8,5,True
 TCK103609,3-day Pass,2025-05-03,18,Male,4,38.88,56.54,60.76,Cash,Hip-Hop,3,10,3,True
@@ -12113,7 +12113,7 @@ TCK104689,3-day Pass,2025-05-03,27,Female,2,49.78,35.32,24.05,Card,Rock,8,8,6,Tr
 TCK100188,3-day Pass,2025-05-01,23,Other,3,26.92,52.27,0.49,Cash,Reggaeton,4,8,3,True
 TCK103381,3-day Pass,2025-05-03,18,Other,4,31.79,2.87,14.72,Cash,Pop,5,5,2,True
 TCK106804,3-day Pass,2025-05-02,24,Male,3,19.3,54.02,35.2,Cash,Reggaeton,5,7,8,True
-TCK106253,3-day Pass,2025-05-03,26,Male,3,0.93,5.86,93.56,Card,Rock,3,10,6,True
+TCK106253,VIP,2025-05-03,26,Male,3,0.93,5.86,93.56,Card,Rock,3,10,6,True
 TCK101587,3-day Pass,2025-05-03,29,Female,5,30.43,0.8,3.36,Card,Pop,4,10,3,True
 TCK100382,3-day Pass,2025-05-01,18,Male,1,11.49,33.62,26.22,Card,Rock,2,9,3,False
 TCK100953,3-day Pass,2025-05-01,19,Female,4,23.41,55.9,84.7,Cash,Rock,9,6,3,False
@@ -12129,7 +12129,7 @@ TCK108225,1-day Pass,2025-05-01,26,Male,4,43.43,0.56,27.03,Card,Rock,8,8,3,False
 TCK101373,1-day Pass,2025-05-02,24,Male,4,31.85,27.67,84.21,Cash,Rock,8,6,2,False
 TCK100761,3-day Pass,2025-05-02,28,Male,5,12.16,26.61,12.14,Cash,Electronic,2,8,6,True
 TCK106539,VIP,2025-05-01,24,Male,3,4.93,23.31,55.67,Cash,Rock,4,6,2,True
-TCK108642,3-day Pass,2025-05-03,29,Female,3,39.02,2.89,74.87,Card,Electronic,2,7,1,True
+TCK108642,3-day Pass,2025-05-03,29,Male,3,39.02,2.89,74.87,Card,Electronic,2,7,1,True
 TCK103550,VIP,2025-05-03,20,Other,4,35.92,54.18,0.18,Cash,Rock,4,6,3,False
 TCK106740,3-day Pass,2025-05-02,25,Male,2,8.07,26.31,14.65,Cash,Electronic,2,9,4,True
 TCK100200,3-day Pass,2025-05-03,28,Other,2,49.5,4.32,66.91,Cash,Rock,7,9,4,False
@@ -12202,7 +12202,7 @@ TCK108696,3-day Pass,2025-05-01,27,Female,3,49.63,0.95,19.49,Card,Hip-Hop,2,10,8
 TCK103333,3-day Pass,2025-05-03,28,Male,4,33.87,26.0,42.31,Card,Reggaeton,6,9,6,False
 TCK109085,VIP,2025-05-03,26,Female,1,10.96,35.44,87.23,Card,Rock,9,1,3,False
 TCK106083,1-day Pass,2025-05-03,36,Female,4,27.95,19.35,1.88,Cash,Hip-Hop,8,8,5,True
-TCK107217,1-day Pass,2025-05-03,18,Male,5,47.0,45.33,53.51,Card,Hip-Hop,4,7,10,True
+TCK107217,3-day Pass,2025-05-03,18,Male,5,47.0,45.33,53.51,Card,Hip-Hop,4,7,10,True
 TCK104981,3-day Pass,2025-05-02,24,Male,3,28.08,19.67,26.55,Card,Hip-Hop,8,6,4,False
 TCK101093,3-day Pass,2025-05-02,24,Female,4,28.24,33.49,32.11,Card,Pop,6,10,3,True
 TCK100861,3-day Pass,2025-05-01,18,Other,5,11.27,40.97,90.15,Cash,Rock,8,10,2,False
@@ -12259,7 +12259,7 @@ TCK103188,VIP,2025-05-02,23,Female,5,29.57,48.53,27.46,Card,Rock,9,6,4,True
 TCK108232,3-day Pass,2025-05-03,34,Male,3,41.27,36.2,20.26,Cash,Rock,5,8,5,True
 TCK106820,3-day Pass,2025-05-01,18,Male,5,7.61,2.59,11.22,Card,Hip-Hop,7,9,4,True
 TCK108541,VIP,2025-05-02,31,Female,2,6.08,0.13,84.02,Card,Hip-Hop,1,8,5,True
-TCK109287,3-day Pass,2025-05-03,30,Male,4,26.44,52.37,91.22,Card,Reggaeton,7,8,7,True
+TCK109287,3-day Pass,2025-05-03,30,Female,4,26.44,52.37,91.22,Card,Reggaeton,7,8,7,True
 TCK106906,1-day Pass,2025-05-01,25,Female,2,33.02,52.5,76.72,Cash,Pop,9,8,2,True
 TCK106062,3-day Pass,2025-05-01,18,Male,3,39.82,9.19,66.59,Cash,Pop,5,7,4,True
 TCK104994,3-day Pass,2025-05-01,26,Female,3,16.86,51.64,74.25,Cash,Hip-Hop,5,10,4,True
@@ -12316,7 +12316,7 @@ TCK107824,VIP,2025-05-02,25,Male,2,6.24,28.99,47.36,Cash,Rock,8,1,5,True
 TCK104408,3-day Pass,2025-05-03,28,Male,3,26.9,9.09,98.79,Card,Pop,7,7,4,True
 TCK108067,3-day Pass,2025-05-02,18,Other,2,28.91,23.17,54.35,Cash,Pop,9,2,9,True
 TCK105113,3-day Pass,2025-05-02,28,Male,5,25.17,36.39,66.57,Cash,Rock,7,7,10,True
-TCK105458,1-day Pass,2025-05-02,26,Female,2,14.11,32.63,40.59,Card,Hip-Hop,1,10,6,True
+TCK105458,VIP,2025-05-02,26,Female,2,14.11,32.63,40.59,Card,Hip-Hop,1,10,6,True
 TCK104732,3-day Pass,2025-05-03,21,Male,3,19.56,8.95,45.48,Card,Pop,1,7,8,True
 TCK102842,3-day Pass,2025-05-01,18,Male,5,45.06,24.16,84.76,Card,Electronic,4,10,6,False
 TCK101978,3-day Pass,2025-05-03,26,Female,3,46.47,12.33,51.33,Card,Reggaeton,5,2,6,False
@@ -12362,7 +12362,7 @@ TCK105344,3-day Pass,2025-05-01,24,Male,3,20.96,27.76,38.89,Card,Rock,6,7,7,True
 TCK109131,1-day Pass,2025-05-03,29,Female,1,1.43,20.19,49.42,Cash,Pop,2,2,6,True
 TCK102653,3-day Pass,2025-05-02,20,Female,5,48.61,24.66,88.28,Card,Rock,6,10,3,True
 TCK107858,3-day Pass,2025-05-02,28,Female,3,40.85,52.14,50.94,Card,Reggaeton,8,9,2,True
-TCK107917,1-day Pass,2025-05-01,26,Female,5,10.81,11.79,9.72,Cash,Rock,2,6,3,True
+TCK107917,3-day Pass,2025-05-01,26,Male,5,10.81,11.79,9.72,Cash,Rock,2,6,3,True
 TCK108923,3-day Pass,2025-05-03,28,Female,3,20.86,52.59,22.83,Card,Rock,9,6,4,True
 TCK104388,VIP,2025-05-02,18,Female,1,30.83,43.5,85.68,Card,Rock,6,7,6,False
 TCK103534,3-day Pass,2025-05-01,31,Female,3,40.8,41.63,15.02,Card,Rock,8,10,3,True
@@ -12401,7 +12401,7 @@ TCK102790,3-day Pass,2025-05-02,29,Male,2,17.7,6.88,78.37,Card,Rock,6,8,7,True
 TCK108703,3-day Pass,2025-05-01,25,Female,1,16.89,19.08,52.23,Festival App,Hip-Hop,2,10,5,True
 TCK107811,VIP,2025-05-01,22,Female,3,21.59,35.9,93.71,Card,Rock,10,6,3,True
 TCK108331,3-day Pass,2025-05-02,22,Female,1,38.86,33.38,41.5,Card,Pop,6,10,2,False
-TCK108387,1-day Pass,2025-05-03,18,Male,2,33.17,39.82,82.54,Cash,Hip-Hop,5,9,6,True
+TCK108387,3-day Pass,2025-05-03,18,Male,2,33.17,39.82,82.54,Cash,Hip-Hop,5,9,6,True
 TCK104113,3-day Pass,2025-05-03,23,Female,2,28.63,41.92,74.82,Card,Hip-Hop,8,8,3,False
 TCK101093,3-day Pass,2025-05-01,30,Female,1,9.08,48.93,60.17,Card,Rock,1,10,6,True
 TCK106048,VIP,2025-05-03,21,Female,4,36.87,19.36,1.78,Card,Electronic,6,9,8,False
@@ -12492,7 +12492,7 @@ TCK108616,3-day Pass,2025-05-03,30,Female,3,40.45,10.65,32.15,Card,Pop,8,7,2,Fal
 TCK101366,VIP,2025-05-02,27,Female,3,7.65,32.06,66.62,Cash,Rock,8,10,10,False
 TCK101694,3-day Pass,2025-05-02,25,Male,3,38.02,30.98,43.65,Card,Rock,7,6,8,True
 TCK100868,3-day Pass,2025-05-03,24,Female,1,13.83,12.3,28.17,Card,Hip-Hop,8,5,10,True
-TCK103898,3-day Pass,2025-05-02,28,Female,3,21.04,51.41,31.52,Cash,Pop,9,8,2,True
+TCK103898,3-day Pass,2025-05-02,28,Male,3,21.04,51.41,31.52,Cash,Pop,9,8,2,True
 TCK104900,1-day Pass,2025-05-03,22,Male,3,42.5,45.38,7.57,Card,Hip-Hop,7,8,7,True
 TCK107716,3-day Pass,2025-05-03,18,Female,3,13.46,20.29,17.48,Card,Pop,5,8,5,True
 TCK100869,3-day Pass,2025-05-01,26,Female,5,40.63,52.02,93.91,Cash,Reggaeton,8,8,4,False
@@ -12652,7 +12652,7 @@ TCK108432,VIP,2025-05-01,26,Female,3,7.74,51.71,93.09,Card,Rock,7,1,3,False
 TCK105360,3-day Pass,2025-05-01,22,Female,2,46.91,10.14,86.52,Card,Hip-Hop,2,8,7,True
 TCK105676,3-day Pass,2025-05-01,29,Female,1,42.12,13.0,88.94,Card,Pop,7,4,9,True
 TCK105299,3-day Pass,2025-05-02,30,Female,1,24.14,45.43,58.68,Card,Rock,4,7,3,True
-TCK108699,VIP,2025-05-01,21,Male,3,15.07,33.13,15.92,Card,Hip-Hop,5,10,2,True
+TCK108699,VIP,2025-05-01,21,Female,3,15.07,33.13,15.92,Card,Hip-Hop,5,10,2,True
 TCK101085,3-day Pass,2025-05-02,32,Male,2,15.41,20.02,21.62,Cash,Hip-Hop,8,7,2,True
 TCK100357,3-day Pass,2025-05-03,26,Male,3,43.94,2.27,10.01,Cash,Electronic,8,10,2,True
 TCK105797,3-day Pass,2025-05-02,27,Female,3,12.65,3.63,34.4,Card,Electronic,5,9,4,True
@@ -12664,7 +12664,7 @@ TCK105556,1-day Pass,2025-05-01,30,Female,4,24.06,19.49,15.22,Cash,Pop,6,10,6,Tr
 TCK106310,3-day Pass,2025-05-01,24,Female,3,1.45,40.2,52.53,Card,Rock,8,8,3,True
 TCK104723,3-day Pass,2025-05-01,25,Female,4,44.13,27.55,72.9,Cash,Rock,5,6,6,False
 TCK107770,3-day Pass,2025-05-01,28,Female,4,32.84,20.76,42.28,Cash,Pop,1,9,4,True
-TCK101799,3-day Pass,2025-05-03,18,Male,2,19.82,42.62,70.19,Card,Pop,5,8,3,True
+TCK101799,1-day Pass,2025-05-03,18,Male,2,19.82,42.62,70.19,Card,Pop,5,8,3,True
 TCK103343,VIP,2025-05-03,22,Male,5,42.37,14.01,70.27,Cash,Rock,5,10,7,True
 TCK104329,3-day Pass,2025-05-02,27,Female,5,21.52,33.75,8.04,Card,Hip-Hop,9,7,3,True
 TCK103101,3-day Pass,2025-05-02,24,Male,3,1.4,59.86,98.21,Card,Pop,2,10,9,True
@@ -12703,7 +12703,7 @@ TCK107250,3-day Pass,2025-05-01,26,Female,4,41.7,56.9,47.69,Cash,Hip-Hop,8,10,4,
 TCK100552,1-day Pass,2025-05-02,30,Male,5,45.11,25.58,94.78,Cash,Hip-Hop,2,8,6,False
 TCK106508,3-day Pass,2025-05-03,18,Female,3,5.61,54.88,95.73,Cash,Pop,8,10,8,True
 TCK105180,3-day Pass,2025-05-02,22,Male,5,38.1,7.27,57.38,Card,Electronic,8,9,4,True
-TCK100651,3-day Pass,2025-05-02,24,Female,4,8.54,51.53,57.19,Card,Pop,5,10,6,True
+TCK100651,3-day Pass,2025-05-02,24,Male,4,8.54,51.53,57.19,Card,Pop,5,10,6,True
 TCK107621,3-day Pass,2025-05-01,24,Female,5,35.99,20.28,94.0,Card,Pop,4,9,3,False
 TCK107437,1-day Pass,2025-05-01,22,Female,4,26.77,18.88,87.5,Card,Rock,4,7,3,False
 TCK105176,3-day Pass,2025-05-01,18,Male,3,27.44,5.57,62.8,Card,Hip-Hop,4,8,8,False
@@ -12728,7 +12728,7 @@ TCK109276,3-day Pass,2025-05-02,19,Female,3,32.47,27.84,4.35,Card,Hip-Hop,4,6,3,
 TCK104583,3-day Pass,2025-05-02,18,Female,5,49.05,34.95,14.5,Cash,Rock,6,8,7,True
 TCK101778,3-day Pass,2025-05-01,28,Other,4,45.47,5.72,2.57,Card,Rock,3,8,4,True
 TCK100067,3-day Pass,2025-05-01,19,Other,2,26.58,36.89,33.92,Card,Rock,8,5,4,True
-TCK102805,VIP,2025-05-03,19,Female,2,4.59,3.94,23.79,Cash,Reggaeton,4,10,5,False
+TCK102805,3-day Pass,2025-05-03,19,Female,2,4.59,3.94,23.79,Cash,Reggaeton,4,10,5,False
 TCK102508,VIP,2025-05-01,32,Male,3,22.03,35.1,35.26,Cash,Electronic,6,8,4,True
 TCK101917,VIP,2025-05-03,22,Female,3,31.23,5.02,14.96,Card,Pop,7,10,3,True
 TCK101579,3-day Pass,2025-05-03,28,Female,3,14.03,15.11,82.8,Card,Electronic,5,6,3,True
@@ -12768,7 +12768,7 @@ TCK105397,1-day Pass,2025-05-03,21,Male,5,43.79,31.88,46.5,Cash,Hip-Hop,8,6,6,Fa
 TCK100803,1-day Pass,2025-05-03,26,Female,1,31.55,36.48,44.86,Card,Electronic,8,7,2,True
 TCK107181,1-day Pass,2025-05-02,20,Female,2,27.54,40.93,34.25,Cash,Hip-Hop,4,6,4,True
 TCK103827,3-day Pass,2025-05-03,18,Male,1,26.66,14.7,34.4,Cash,Rock,6,8,7,True
-TCK105553,VIP,2025-05-02,22,Female,3,19.23,20.04,48.45,Card,Hip-Hop,8,5,10,True
+TCK105553,3-day Pass,2025-05-02,22,Female,3,19.23,20.04,48.45,Card,Hip-Hop,8,5,10,True
 TCK101309,1-day Pass,2025-05-01,29,Female,3,18.69,27.89,72.36,Cash,Pop,1,8,7,True
 TCK107509,3-day Pass,2025-05-01,30,Male,5,38.86,26.93,10.12,Card,Hip-Hop,8,9,10,True
 TCK102667,3-day Pass,2025-05-02,25,Female,3,22.8,33.28,72.8,Cash,Hip-Hop,8,7,3,False
@@ -12808,7 +12808,7 @@ TCK106298,3-day Pass,2025-05-03,23,Male,4,30.3,26.15,95.79,Card,Hip-Hop,8,8,4,Fa
 TCK108694,3-day Pass,2025-05-03,24,Male,2,37.81,27.07,91.4,Cash,Rock,8,6,8,False
 TCK104259,3-day Pass,2025-05-02,18,Male,2,47.53,38.71,66.53,Cash,Reggaeton,8,6,7,True
 TCK106258,1-day Pass,2025-05-02,26,Male,4,39.97,6.36,80.38,Card,Hip-Hop,3,8,3,True
-TCK106003,3-day Pass,2025-05-03,31,Female,5,25.15,52.72,81.08,Card,Hip-Hop,4,9,3,True
+TCK106003,3-day Pass,2025-05-03,31,Male,5,25.15,52.72,81.08,Card,Hip-Hop,4,9,3,True
 TCK107996,3-day Pass,2025-05-01,22,Female,2,18.8,29.49,19.21,Card,Pop,2,8,9,True
 TCK105321,VIP,2025-05-03,18,Male,4,32.67,24.06,9.5,Card,Electronic,1,10,2,False
 TCK103637,3-day Pass,2025-05-02,24,Male,5,26.81,41.87,72.25,Card,Pop,4,6,9,True
@@ -12838,7 +12838,7 @@ TCK109191,1-day Pass,2025-05-02,25,Female,1,36.39,52.58,41.78,Card,Pop,4,8,3,Fal
 TCK107403,3-day Pass,2025-05-01,19,Male,4,15.12,40.47,31.61,Card,Hip-Hop,9,2,5,False
 TCK101326,VIP,2025-05-02,28,Male,3,25.05,19.67,90.72,Card,Pop,8,8,6,True
 TCK101874,1-day Pass,2025-05-03,30,Female,3,41.62,6.23,89.35,Card,Hip-Hop,4,7,10,True
-TCK108676,3-day Pass,2025-05-02,27,Male,5,36.04,39.54,37.62,Card,Electronic,1,7,3,True
+TCK108676,VIP,2025-05-02,27,Male,5,36.04,39.54,37.62,Card,Electronic,1,7,3,True
 TCK107004,1-day Pass,2025-05-03,30,Male,1,38.52,8.57,26.53,Card,Rock,4,5,1,True
 TCK100895,3-day Pass,2025-05-02,29,Male,3,2.88,33.36,62.99,Card,Reggaeton,9,7,4,False
 TCK105633,3-day Pass,2025-05-02,20,Male,5,37.37,46.72,1.5,Cash,Reggaeton,9,10,7,True
@@ -12907,7 +12907,7 @@ TCK104496,3-day Pass,2025-05-02,28,Female,2,43.78,19.4,29.84,Cash,Reggaeton,8,7,
 TCK103734,3-day Pass,2025-05-01,28,Female,5,46.78,56.52,41.45,Cash,Hip-Hop,1,8,7,True
 TCK101070,3-day Pass,2025-05-02,27,Female,3,44.51,45.99,37.95,Cash,Pop,7,5,6,False
 TCK101151,3-day Pass,2025-05-02,28,Female,4,4.47,35.54,2.17,Card,Electronic,8,7,5,True
-TCK106971,VIP,2025-05-03,19,Female,3,35.17,16.6,83.99,Card,Electronic,4,9,7,True
+TCK106971,3-day Pass,2025-05-03,19,Female,3,35.17,16.6,83.99,Card,Electronic,4,9,7,True
 TCK107237,VIP,2025-05-03,23,Female,3,47.99,5.93,57.09,Cash,Rock,8,10,10,True
 TCK108729,3-day Pass,2025-05-01,23,Male,2,14.6,9.84,19.48,Card,Pop,10,7,7,False
 TCK106296,3-day Pass,2025-05-01,30,Female,4,32.34,5.97,70.08,Card,Electronic,8,10,4,False
@@ -12968,7 +12968,7 @@ TCK100610,VIP,2025-05-03,18,Female,2,42.5,18.78,20.07,Card,Pop,2,6,4,True
 TCK101097,1-day Pass,2025-05-01,27,Female,2,12.51,3.89,82.01,Card,Hip-Hop,4,10,4,True
 TCK103404,VIP,2025-05-01,24,Female,3,8.53,48.75,39.84,Card,Rock,9,1,5,False
 TCK103407,3-day Pass,2025-05-03,18,Female,3,48.15,21.1,67.99,Card,Rock,9,10,2,True
-TCK103073,3-day Pass,2025-05-01,28,Female,3,13.95,40.41,56.6,Cash,Rock,7,7,6,True
+TCK103073,3-day Pass,2025-05-01,28,Male,3,13.95,40.41,56.6,Cash,Rock,7,7,6,True
 TCK104526,3-day Pass,2025-05-03,24,Female,5,35.79,50.38,26.98,Card,Pop,6,5,6,True
 TCK100248,3-day Pass,2025-05-01,25,Female,3,29.09,18.35,99.21,Cash,Rock,9,5,1,True
 TCK107626,1-day Pass,2025-05-02,23,Male,3,30.3,43.4,94.13,Cash,Pop,7,7,5,True
@@ -13091,7 +13091,7 @@ TCK108083,3-day Pass,2025-05-01,26,Male,4,10.61,39.79,91.01,Cash,Hip-Hop,1,10,6,
 TCK104649,3-day Pass,2025-05-03,22,Male,3,15.88,1.79,48.33,Card,Pop,9,7,4,False
 TCK100836,3-day Pass,2025-05-02,30,Male,4,29.99,51.59,4.97,Festival App,Pop,8,8,10,True
 TCK107619,3-day Pass,2025-05-03,20,Other,3,40.28,10.17,7.83,Cash,Hip-Hop,1,2,7,True
-TCK102247,3-day Pass,2025-05-01,27,Female,4,15.2,8.42,17.85,Cash,Rock,8,7,2,True
+TCK102247,1-day Pass,2025-05-01,27,Female,4,15.2,8.42,17.85,Cash,Rock,8,7,2,True
 TCK101868,3-day Pass,2025-05-02,20,Male,3,19.7,33.67,76.72,Card,Pop,7,5,7,True
 TCK103136,3-day Pass,2025-05-02,22,Male,1,44.28,8.34,39.98,Cash,Electronic,7,5,6,True
 TCK104351,VIP,2025-05-03,29,Female,4,28.8,53.84,49.99,Card,Pop,5,4,4,False
@@ -13144,7 +13144,7 @@ TCK105423,1-day Pass,2025-05-01,28,Male,5,34.12,56.91,73.33,Cash,Hip-Hop,8,9,4,T
 TCK100276,3-day Pass,2025-05-02,20,Female,3,11.78,35.74,15.23,Card,Rock,8,9,4,True
 TCK100262,3-day Pass,2025-05-01,18,Female,4,10.95,51.94,42.74,Card,Hip-Hop,5,6,9,True
 TCK108829,1-day Pass,2025-05-02,27,Male,3,47.28,12.01,87.97,Card,Pop,8,9,3,False
-TCK108862,3-day Pass,2025-05-02,28,Female,3,27.59,26.91,8.7,Cash,Pop,5,10,5,False
+TCK108862,VIP,2025-05-02,28,Female,3,27.59,26.91,8.7,Cash,Pop,5,10,5,False
 TCK106854,VIP,2025-05-01,28,Female,2,44.91,29.26,9.94,Card,Reggaeton,8,7,5,True
 TCK101089,3-day Pass,2025-05-03,27,Female,5,11.5,7.17,65.08,Cash,Rock,8,8,5,False
 TCK108927,3-day Pass,2025-05-02,26,Male,3,48.41,20.0,56.97,Card,Electronic,6,10,6,True
@@ -13241,15 +13241,15 @@ TCK103342,3-day Pass,2025-05-02,22,Male,5,37.35,32.74,58.82,Cash,Hip-Hop,8,9,6,T
 TCK100617,3-day Pass,2025-05-03,24,Male,3,44.11,16.7,93.52,Card,Rock,8,8,5,True
 TCK100549,3-day Pass,2025-05-03,25,Female,5,40.8,13.55,86.48,Card,Rock,4,1,4,False
 TCK105041,VIP,2025-05-03,20,Female,4,19.01,5.3,58.31,Card,Rock,3,5,5,True
-TCK107723,3-day Pass,2025-05-03,23,Male,3,35.8,23.22,88.48,Card,Rock,7,9,8,False
-TCK101016,3-day Pass,2025-05-01,18,Male,2,41.0,35.59,49.08,Card,Hip-Hop,8,1,8,False
+TCK107723,1-day Pass,2025-05-03,23,Male,3,35.8,23.22,88.48,Card,Rock,7,9,8,False
+TCK101016,VIP,2025-05-01,18,Male,2,41.0,35.59,49.08,Card,Hip-Hop,8,1,8,False
 TCK100810,3-day Pass,2025-05-02,18,Female,4,2.35,59.04,92.19,Card,Hip-Hop,9,2,2,True
 TCK100338,1-day Pass,2025-05-02,30,Male,3,10.36,15.56,24.3,Card,Hip-Hop,4,8,4,True
 TCK108280,VIP,2025-05-01,23,Other,3,32.72,40.75,21.41,Card,Rock,1,8,2,True
 TCK106748,3-day Pass,2025-05-03,31,Male,3,23.25,5.27,31.6,Card,Rock,2,9,4,True
 TCK104341,3-day Pass,2025-05-02,22,Male,3,42.19,55.8,27.67,Card,Hip-Hop,6,7,7,True
 TCK102041,VIP,2025-05-01,22,Male,3,46.54,13.84,58.57,Card,Hip-Hop,2,8,4,True
-TCK106720,3-day Pass,2025-05-03,27,Male,2,20.76,14.05,76.3,Card,Pop,4,7,9,True
+TCK106720,3-day Pass,2025-05-03,27,Female,2,20.76,14.05,76.3,Card,Pop,4,7,9,True
 TCK106346,1-day Pass,2025-05-03,27,Other,3,9.5,40.39,81.69,Card,Reggaeton,7,5,3,True
 TCK106016,1-day Pass,2025-05-02,32,Male,4,34.99,38.02,65.58,Cash,Reggaeton,4,10,5,True
 TCK108720,VIP,2025-05-01,26,Female,5,49.3,36.47,67.06,Cash,Pop,9,7,3,False
@@ -13270,7 +13270,7 @@ TCK102782,VIP,2025-05-02,20,Male,5,25.78,55.0,30.28,Card,Reggaeton,9,10,6,False
 TCK106894,3-day Pass,2025-05-03,28,Female,3,21.73,44.85,61.07,Card,Hip-Hop,6,7,6,False
 TCK103522,VIP,2025-05-03,19,Male,3,43.34,22.54,20.84,Card,Reggaeton,6,6,5,False
 TCK101938,3-day Pass,2025-05-03,30,Male,4,35.43,59.8,71.72,Card,Rock,6,6,3,True
-TCK104377,3-day Pass,2025-05-02,25,Other,2,12.04,50.67,25.32,Cash,Rock,6,9,8,True
+TCK104377,VIP,2025-05-02,25,Male,2,12.04,50.67,25.32,Cash,Rock,6,9,8,True
 TCK101201,1-day Pass,2025-05-01,26,Female,2,7.07,55.5,5.39,Card,Pop,4,7,3,True
 TCK102330,3-day Pass,2025-05-01,29,Female,4,26.86,53.55,34.3,Card,Electronic,8,8,7,True
 TCK104937,VIP,2025-05-03,20,Female,3,20.79,15.31,25.83,Card,Rock,4,8,2,False
@@ -13292,7 +13292,7 @@ TCK103679,3-day Pass,2025-05-03,18,Female,3,27.14,40.69,49.54,Card,Pop,8,10,4,Fa
 TCK107590,1-day Pass,2025-05-01,25,Female,4,7.38,16.08,8.71,Card,Hip-Hop,6,6,3,True
 TCK104103,3-day Pass,2025-05-01,25,Female,3,26.7,45.61,77.24,Card,Hip-Hop,8,10,3,False
 TCK101023,3-day Pass,2025-05-03,32,Female,5,1.83,5.18,13.94,Card,Pop,2,10,9,True
-TCK106236,1-day Pass,2025-05-01,22,Male,4,27.98,5.16,42.63,Cash,Hip-Hop,8,9,6,True
+TCK106236,3-day Pass,2025-05-01,22,Male,4,27.98,5.16,42.63,Cash,Hip-Hop,8,9,6,True
 TCK101782,3-day Pass,2025-05-02,27,Male,3,19.19,17.01,69.55,Card,Rock,8,6,6,True
 TCK109216,3-day Pass,2025-05-01,24,Female,2,43.08,47.81,1.44,Card,Pop,7,1,7,True
 TCK107430,1-day Pass,2025-05-02,18,Female,2,6.32,52.0,4.69,Card,Reggaeton,5,8,4,True
@@ -13399,7 +13399,7 @@ TCK105505,3-day Pass,2025-05-03,31,Female,4,27.06,42.24,65.05,Cash,Hip-Hop,7,8,1
 TCK100284,3-day Pass,2025-05-02,19,Female,5,33.3,55.93,67.24,Card,Hip-Hop,1,9,8,False
 TCK107481,VIP,2025-05-03,21,Female,2,9.6,1.57,62.91,Card,Pop,6,10,5,True
 TCK106499,3-day Pass,2025-05-01,24,Female,3,20.02,12.23,66.88,Card,Pop,2,7,6,False
-TCK104481,VIP,2025-05-03,21,Female,4,6.56,4.06,29.8,Cash,Electronic,8,8,4,False
+TCK104481,3-day Pass,2025-05-03,21,Female,4,6.56,4.06,29.8,Cash,Electronic,8,8,4,False
 TCK105929,3-day Pass,2025-05-02,29,Female,4,18.99,36.08,24.88,Card,Reggaeton,8,9,10,False
 TCK108215,3-day Pass,2025-05-01,26,Female,4,23.06,29.74,74.2,Festival App,Rock,2,8,8,True
 TCK107364,VIP,2025-05-03,30,Female,4,13.12,13.22,91.42,Card,Electronic,8,9,6,False
@@ -13616,7 +13616,7 @@ TCK102263,3-day Pass,2025-05-01,23,Female,5,18.77,0.3,30.42,Card,Hip-Hop,10,8,8,
 TCK102210,3-day Pass,2025-05-03,30,Male,5,19.27,30.66,82.33,Cash,Pop,6,7,7,False
 TCK109313,VIP,2025-05-03,28,Female,5,46.95,47.98,27.75,Cash,Pop,5,8,9,True
 TCK104055,3-day Pass,2025-05-02,23,Male,4,27.46,31.18,18.88,Card,Electronic,7,1,9,True
-TCK101973,1-day Pass,2025-05-01,18,Female,5,15.23,46.01,30.1,Card,Rock,4,7,5,True
+TCK101973,3-day Pass,2025-05-01,18,Female,5,15.23,46.01,30.1,Card,Rock,4,7,5,True
 TCK100649,VIP,2025-05-03,28,Female,3,49.61,24.19,48.99,Card,Hip-Hop,4,10,4,True
 TCK106954,1-day Pass,2025-05-02,24,Female,3,13.85,44.11,77.76,Card,Hip-Hop,7,10,4,False
 TCK100128,3-day Pass,2025-05-03,26,Male,5,10.35,7.83,26.51,Cash,Electronic,1,7,3,False
@@ -13627,7 +13627,7 @@ TCK109109,1-day Pass,2025-05-03,21,Male,3,11.26,47.68,8.83,Cash,Reggaeton,8,8,3,
 TCK100402,3-day Pass,2025-05-03,18,Female,3,42.45,14.75,36.1,Cash,Rock,9,7,3,True
 TCK108271,VIP,2025-05-01,26,Male,4,24.33,38.98,83.31,Card,Rock,3,7,4,False
 TCK100205,3-day Pass,2025-05-03,18,Male,3,10.47,42.44,41.32,Card,Electronic,6,6,3,True
-TCK102282,1-day Pass,2025-05-02,19,Male,5,16.73,22.68,13.92,Card,Electronic,8,9,7,False
+TCK102282,3-day Pass,2025-05-02,19,Male,5,16.73,22.68,13.92,Card,Electronic,8,9,7,False
 TCK109146,VIP,2025-05-01,28,Female,2,38.79,22.7,82.58,Card,Rock,7,6,5,False
 TCK100709,VIP,2025-05-02,25,Male,3,42.03,23.33,62.04,Cash,Hip-Hop,8,10,9,True
 TCK107138,3-day Pass,2025-05-02,26,Female,4,42.24,45.43,15.2,Cash,Rock,8,7,6,True
@@ -13696,7 +13696,7 @@ TCK109190,VIP,2025-05-01,25,Male,2,29.64,17.4,93.67,Cash,Rock,6,6,7,True
 TCK101704,3-day Pass,2025-05-02,28,Other,4,32.96,58.47,62.99,Cash,Reggaeton,9,7,4,True
 TCK107556,3-day Pass,2025-05-03,25,Male,2,34.88,40.64,86.47,Card,Rock,8,6,8,True
 TCK105591,VIP,2025-05-02,29,Female,1,40.23,19.83,46.69,Card,Rock,5,8,8,True
-TCK108041,1-day Pass,2025-05-02,18,Female,4,10.99,31.46,52.83,Card,Hip-Hop,8,7,3,True
+TCK108041,3-day Pass,2025-05-02,18,Female,4,10.99,31.46,52.83,Card,Hip-Hop,8,7,3,True
 TCK102788,3-day Pass,2025-05-02,19,Female,4,19.33,0.4,57.42,Card,Reggaeton,6,7,9,True
 TCK106384,3-day Pass,2025-05-02,30,Male,5,43.68,13.34,0.74,Festival App,Rock,5,10,6,True
 TCK103678,3-day Pass,2025-05-02,18,Male,3,0.34,32.19,96.88,Card,Pop,8,5,6,False
@@ -13740,7 +13740,7 @@ TCK103144,3-day Pass,2025-05-01,23,Male,3,20.23,33.08,56.48,Card,Rock,5,10,5,Fal
 TCK109322,3-day Pass,2025-05-01,22,Male,5,34.02,9.38,9.29,Card,Rock,7,7,7,True
 TCK101588,VIP,2025-05-01,18,Other,4,2.06,17.33,42.88,Card,Pop,4,9,3,True
 TCK104448,1-day Pass,2025-05-03,26,Male,1,0.62,22.83,57.15,Card,Reggaeton,8,9,10,True
-TCK103823,3-day Pass,2025-05-03,23,Male,4,42.36,29.88,52.81,Card,Rock,4,7,5,True
+TCK103823,VIP,2025-05-03,23,Male,4,42.36,29.88,52.81,Card,Rock,4,7,5,True
 TCK101303,VIP,2025-05-01,21,Female,5,22.11,2.42,21.04,Cash,Hip-Hop,8,6,5,True
 TCK101973,3-day Pass,2025-05-02,25,Female,3,47.4,0.92,52.02,Card,Reggaeton,7,1,5,True
 TCK105742,3-day Pass,2025-05-03,18,Male,3,26.92,19.1,61.78,Card,Rock,2,5,7,False
@@ -13787,11 +13787,11 @@ TCK101135,3-day Pass,2025-05-01,22,Male,3,9.67,0.41,91.34,Cash,Electronic,2,5,4,
 TCK103436,3-day Pass,2025-05-02,27,Male,3,33.89,49.25,22.26,Festival App,Pop,8,8,1,True
 TCK103489,VIP,2025-05-03,26,Female,2,47.65,14.81,61.34,Card,Rock,8,8,5,True
 TCK107747,3-day Pass,2025-05-01,27,Female,2,43.12,49.36,71.15,Card,Rock,5,7,3,False
-TCK104340,1-day Pass,2025-05-02,28,Female,1,44.95,2.86,54.29,Card,Electronic,8,8,6,False
+TCK104340,3-day Pass,2025-05-02,28,Female,1,44.95,2.86,54.29,Card,Electronic,8,8,6,False
 TCK109189,3-day Pass,2025-05-03,25,Male,3,31.89,29.1,57.16,Card,Reggaeton,5,8,6,True
 TCK103885,VIP,2025-05-02,24,Male,5,3.96,24.74,79.98,Card,Rock,8,9,5,False
 TCK105416,VIP,2025-05-03,26,Female,3,39.61,26.7,63.1,Cash,Rock,4,8,5,False
-TCK100565,VIP,2025-05-02,34,Female,3,49.06,21.61,56.81,Card,Pop,1,8,7,False
+TCK100565,VIP,2025-05-02,34,Male,3,49.06,21.61,56.81,Card,Pop,1,8,7,False
 TCK103145,3-day Pass,2025-05-01,24,Male,3,0.82,16.97,92.56,Cash,Pop,7,10,1,False
 TCK108156,1-day Pass,2025-05-01,23,Male,5,15.39,15.49,17.54,Card,Electronic,1,7,3,False
 TCK106858,1-day Pass,2025-05-03,34,Female,2,34.16,21.76,89.63,Card,Electronic,3,8,6,True
@@ -13807,7 +13807,7 @@ TCK102391,3-day Pass,2025-05-03,18,Female,5,27.68,31.79,28.13,Cash,Rock,8,2,8,Fa
 TCK100861,1-day Pass,2025-05-02,23,Male,4,8.69,45.81,8.1,Card,Pop,7,7,4,True
 TCK108532,VIP,2025-05-02,25,Female,5,0.7,36.37,6.4,Cash,Rock,9,6,7,True
 TCK104375,1-day Pass,2025-05-02,31,Male,3,9.39,59.27,85.52,Cash,Rock,1,9,3,True
-TCK101227,1-day Pass,2025-05-01,21,Male,4,42.36,50.86,42.15,Cash,Reggaeton,9,10,5,False
+TCK101227,3-day Pass,2025-05-01,21,Male,4,42.36,50.86,42.15,Cash,Reggaeton,9,10,5,False
 TCK103477,1-day Pass,2025-05-03,24,Female,2,15.03,4.67,78.14,Cash,Rock,6,8,3,True
 TCK102512,3-day Pass,2025-05-02,18,Male,3,41.67,46.48,72.83,Festival App,Hip-Hop,2,6,2,True
 TCK102195,3-day Pass,2025-05-02,26,Female,3,19.56,57.36,34.04,Card,Electronic,9,9,3,False
@@ -13867,7 +13867,7 @@ TCK104580,1-day Pass,2025-05-02,25,Female,3,39.59,32.25,65.91,Card,Reggaeton,1,8
 TCK104234,3-day Pass,2025-05-03,23,Female,3,7.56,47.64,58.57,Cash,Hip-Hop,1,8,3,True
 TCK105039,3-day Pass,2025-05-03,29,Female,2,25.38,14.27,70.76,Card,Electronic,7,9,4,True
 TCK101168,VIP,2025-05-01,25,Female,3,41.51,42.33,61.15,Card,Electronic,4,8,3,True
-TCK103996,VIP,2025-05-01,22,Female,2,4.17,47.9,59.18,Card,Hip-Hop,4,2,6,True
+TCK103996,3-day Pass,2025-05-01,22,Female,2,4.17,47.9,59.18,Card,Hip-Hop,4,2,6,True
 TCK108218,3-day Pass,2025-05-03,27,Male,3,11.63,39.62,98.32,Card,Electronic,8,10,6,True
 TCK103401,3-day Pass,2025-05-01,23,Female,2,38.08,9.68,45.94,Card,Pop,8,7,7,False
 TCK105792,VIP,2025-05-03,22,Other,4,32.57,2.5,68.04,Cash,Hip-Hop,6,8,7,True
