@@ -25,7 +25,7 @@ The code for it can be checked [here](https://github.com/Donnie-McGee/Festival-P
 
 This step is divided in 2 sub-steps:
 
-1. Creating dimention tables to optimise proccessing time and improve organisation and scalability. This sub-step can be checked [here](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/develop/4.-%20Data%20Modelling/2-%20Creating%20dim%20tables/Dim%20tables.ipynb)
+1. Creating dimention tables to optimise proccessing time and improve organisation and scalability. This sub-step can be checked [here](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/develop/4.-%20Data%20Modelling/2.-%20Dim%20tables.ipynb).
 2. Dividing the *"final_festival_dataset"* csv file into smaller tables, each containing self-related information.
 
 A key step is to normalize the string columns. For it, I created dimention tables that will contain strings and relate these columns with their corresponding corresponding column in the main tables. This way I'm optimising computing time and scalability.
