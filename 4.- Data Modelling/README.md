@@ -19,7 +19,7 @@ In order to make it easier in the incoming steps, I decided to create these colu
 - *"satisfaction_level"*, *"cleanliness_rating_level"* and *"security_rating_level"*: Bin column that segmentates the related column into levels of *"Low"*, *"Medium"* and *"High"* scores.
 - *"group_size"*: Bin column that segmentates the atteendees into *"Individual"*, *"Couple"* and *"Group"*.
 
-The code for it can be checked [here](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/develop/4.-%20Data%20Modelling/1-%20Adding%20new%20columns/New%20columns.ipynb).
+The code for it can be checked [here](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/develop/4.-%20Data%20Modelling/1.-%20New%20columns.ipynb).
 
 ### Spliting into smaller tables
 
