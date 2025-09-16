@@ -24,3 +24,7 @@ Initially, I generated a normal distribution with a mean of 30 and a standard de
 - All values below 18 were forced to the lower bound, creating an artificial spike at *18*. As a result, *18* became the mode, surpassing the expected peak around the mean (*30*). This flaw in the statistical model broke the realistic approch I first intended.
 
 To address this, I applied a **right-skewed distribution**. This approach reduced the number of values generated below 18 (therefore, fewer were clipped) and allowed the distribution to retain its central tendency near 30 without inflating the frequency of the lower bound. Since the upper limit (59) was farther from the mean, it was less affected by clipping, and the overall distribution improved significantly.
+
+### Normalized tables
+
+During the [Data Modelling](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/4.-%20Data%20Modelling) phase I come up with the idea of normalizing dimention tables to make the whole proccess more efficient, but, eventually, I realized the balance between how much proccessing time it will save and how complex SQL queries will become was not worth it. For that reason I took a step back and erased it from the project, but kept it in this section, just to keep track of how I got to make it.
