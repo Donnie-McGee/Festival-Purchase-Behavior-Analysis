@@ -8,7 +8,7 @@ I generated the raw dataset with AI in order to have the opportunity to work wit
 
 For most of the fields I used customized or random linear distributions, but for one specific field *"age*", I decided to use a normal distribution.
 
-### Normal distribution in *"age"*
+### [Normal distribution in *"age"*](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/Issues%20and%20Fixes/Issues%20and%20Fixes.ipynb)
 
 The main difference between this field and others lies in the number of unique values it contains. While fields like *"gender"* (3 values), *"stages_visited"* (5), or even *"satisfaction_score"* (10) have a limited number of categories, *"age"* ranges from 18 to 59 (meaning 41 distinct values).
 

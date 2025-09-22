@@ -18,7 +18,7 @@ To analyze how the type of ticket purchased (e.g., General, VIP, Full Pass) refl
 
 ## Tools Used
 
-- Python (Pandas)
+- Python (Pandas & NumPy)
 - SQL
 - Git/GitHub
 - CSV files (raw and cleaned versions)
