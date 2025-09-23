@@ -21,7 +21,7 @@ Since the dataset counts 140 null values for *"gender"* (this represents less th
 
 To clean *"gender"* these steps were taken:
 
-1. Normalize the distribution: Doing so, I gain a proper understanding of each value's percentage. This helps later to randomly assign the null values among the 3 possibilities we have for *"gender"*.
+1. Normalize the distribution: Doing so, I gain a proper understanding of each value's percentage. This helps later to randomly assign the null values among the 3 possibilities I have for *"gender"*.
 2. Locate the null values in the dataset.
 3. Replace them: In this step, I change each null value to one of the possible values following the proportion calculated in Step 1 and the locations from Step 2. This provides consistency in the metrics.
 4. Change the column's type to category: This saves resources and time during analysis, as it encodes the values (e.g., *"Male"* as 1, *"Female"* as 2, *"Other"* as 3), preparing the dataset for later steps.
@@ -72,7 +72,7 @@ All remaining columns have been reviewed and are clean. They contain:
 Once the cleaning process is finished, I've converted the columns to specific types:
 
 1. *Category*: All the string values are assigned this type (*"ticket_id"*, *"origin_city"*, etc.)
-2. *Int*: Integers (*"age"*, *"ticket_price"*, *"satisfaction_score"*, etc.)
+2. *Int*: Integers (*"age"*, *"ticket_price"*, *"satisfaction_rating"*, etc.)
 3. *Float*: Decimal numbers (*"food_expense"*, *"drink_expense"*, *"merch_expense"*)
 4. *Bool*: Those that contain dichotomous values (*"was_present"*, *"recommend_to_friend"*)
 5. *Datetime*: All values related to time (*"purchase_date"*, *"attendance_date"*)

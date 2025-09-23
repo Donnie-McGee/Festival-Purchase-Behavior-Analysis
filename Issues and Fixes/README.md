@@ -2,7 +2,7 @@
 
 Here I will share the major obstacles, inconvenients, razoning, progresses and fixes I faced while developing my first data analysis project. Some points have been organically explained in a different section (links will be provided, in order to avoid repetition across sections), while some deserve their space here, since they needed a deeper thought and coding process.
 
-## Shapening my data base
+## [Shapening my data base](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/2.-%20Data%20Sharpening)
 
 I generated the raw dataset with AI in order to have the opportunity to work with a music festival data base. Thanks to AI, I could have the information I wanted to work with, but during the [Data Survey](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/1.-%20Data%20Survey/Data%20Survey.ipynb) I realised most of my fields presented unrealistic distributions, reason for which I decided to sharpen the dataset into a more chaotic and vivid representation of what a music festival would be.
 
@@ -25,6 +25,6 @@ Initially, I generated a normal distribution with a mean of 30 and a standard de
 
 To address this, I applied a **right-skewed distribution**. This approach reduced the number of values generated below 18 (therefore, fewer were clipped) and allowed the distribution to retain its central tendency near 30 without inflating the frequency of the lower bound. Since the upper limit (59) was farther from the mean, it was less affected by clipping, and the overall distribution improved significantly.
 
-### Normalized tables
+### [Normalized tables](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/Issues%20and%20Fixes/Discurted%20normalized%20tables.ipynb)
 
 During the [Data Modelling](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/4.-%20Data%20Modelling) phase I come up with the idea of normalizing dimention tables to make the whole proccess more efficient, but, eventually, I realized the balance between how much proccessing time it will save and how complex SQL queries will become was not worth it. For that reason I took a step back and erased it from the project, but kept it in this section, just to keep track of how I got to make it.
