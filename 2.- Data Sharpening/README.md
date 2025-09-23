@@ -20,7 +20,7 @@ By default, rating fields followed the same pattern, and non-rating fields had p
 
 #### Rating fields 
 
-Originally, the unique values in *"satisfaction_score"* were limited to [5, 6, 7, 9], which doesn't accurately reflect the range of real attendee experiences. In practice, ratings tend to vary more widely (from 1 to 10), influenced by each person's expectations, mood, and overall experience.
+Originally, the unique values in "satisfaction_rating"* were limited to [5, 6, 7, 9], which doesn't accurately reflect the range of real attendee experiences. In practice, ratings tend to vary more widely (from 1 to 10), influenced by each person's expectations, mood, and overall experience.
 
 To better simulate this variability, I created custom probability distributions and randomly reassigned values across the dataset. The same approach was applied to *"security_rating"* and *"cleanliness_rating"*.
 
