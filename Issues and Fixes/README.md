@@ -8,7 +8,7 @@ I generated the raw dataset with AI in order to have the opportunity to work wit
 
 For most of the fields I used customized or random linear distributions, but for one specific field *"age*", I decided to use a normal distribution.
 
-### [Normal distribution in *"age"*](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/Issues%20and%20Fixes/Issues%20and%20Fixes.ipynb)
+## [Normal distribution in *"age"*](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/Issues%20and%20Fixes/Issues%20and%20Fixes.ipynb)
 
 The main difference between this field and others lies in the number of unique values it contains. While fields like *"gender"* (3 values), *"stages_visited"* (5), or even *"satisfaction_score"* (10) have a limited number of categories, *"age"* ranges from 18 to 59 (meaning 41 distinct values).
 
@@ -25,6 +25,6 @@ Initially, I generated a normal distribution with a mean of 30 and a standard de
 
 To address this, I applied a **right-skewed distribution**. This approach reduced the number of values generated below 18 (therefore, fewer were clipped) and allowed the distribution to retain its central tendency near 30 without inflating the frequency of the lower bound. Since the upper limit (59) was farther from the mean, it was less affected by clipping, and the overall distribution improved significantly.
 
-### [Normalized tables](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/Issues%20and%20Fixes/Discurted%20normalized%20tables.ipynb)
+## [Normalized tables](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/Issues%20and%20Fixes/Discurted%20normalized%20tables.ipynb)
 
 During the [Data Modelling](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/4.-%20Data%20Modelling) phase I come up with the idea of normalizing dimention tables to make the whole proccess more efficient, but, eventually, I realized the balance between how much proccessing time it will save and how complex SQL queries will become was not worth it. For that reason I took a step back and erased it from the project, but kept it in this section, just to keep track of how I got to make it.
