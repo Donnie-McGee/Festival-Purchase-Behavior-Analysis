@@ -26,6 +26,3 @@ This step is divided in 2 sub-steps:
 
 1. Defining fact and dim tables' structure. This sub-step can be checked [here](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/develop/4.-%20Data%20Modelling/2.-%20Dim%20tables.ipynb).
 2. Dividing the *"final_festival_dataset"* file into smaller tables, saving each new table individually.
-
-### Star schema
-
