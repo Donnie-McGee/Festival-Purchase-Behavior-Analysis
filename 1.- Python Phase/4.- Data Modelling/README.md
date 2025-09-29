@@ -7,7 +7,7 @@ In this part of the project, I transition from a single cleaned dataset to a str
 - Create new calculated columns that will add value to the analysis.
 - Split the cleaned dataset into fact and dim tables.
 
-### Create new columns
+### [Create new columns](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/1.-%20Python%20Phase/4.-%20Data%20Modelling/1.-%20New%20columns.ipynb)
 
 In order to make it easier in the incoming steps, I decided to create these columns:
 
@@ -18,11 +18,10 @@ In order to make it easier in the incoming steps, I decided to create these colu
 - *"satisfaction_level"*, *"cleanliness_level"* and *"security_level"*: Bin column that segmentates the related column into levels of *"Low"*, *"Medium"* and *"High"* scores.
 - *"group_type"*: Bin column that segmentates the atteendees into *"Individual"*, *"Couple"* and *"Group"*.
 
-The code for it can be checked [here](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/develop/4.-%20Data%20Modelling/1.-%20New%20columns.ipynb).
 
-### Spliting into smaller tables
+### [Spliting into smaller tables](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/main/1.-%20Python%20Phase/4.-%20Data%20Modelling/2.-%20Creating%20tables.ipynb)
 
 This step is divided in 2 sub-steps:
 
-1. Defining fact and dim tables' structure. This sub-step can be checked [here](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/blob/develop/4.-%20Data%20Modelling/2.-%20Dim%20tables.ipynb).
+1. Defining fact and dim tables' structure.
 2. Dividing the *"final_festival_dataset"* file into smaller tables, saving each new table individually.

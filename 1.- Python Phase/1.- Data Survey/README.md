@@ -8,4 +8,4 @@ Prior to preparation, I dived into the dataset to get familiar with it using Pan
 - *"attendee_id"* and *"ticket_id"* have fewer unique values than rows in the dataset, which could indicate duplicates or shared IDs across records. This requires closer examination.
 - Unconsistent *"ticket_price"* across the data base.
 
-After this initial exploration, I proceeded to the [Data Sharpening](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/2.-%20Data%20Sharpening).
+After this initial exploration, I proceeded to the [Data Sharpening](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/1.-%20Python%20Phase/2.-%20Data%20Sharpening).
