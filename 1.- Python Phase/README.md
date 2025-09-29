@@ -8,5 +8,5 @@ Have a quick overview of the whole dataset, looking for null values, typos,  dup
 Modify the dataset to bring it closer to a realistic experience. Here, I customized distributions and add variety.
 3. [Data Cleaning](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/1.-%20Python%20Phase/3.-%20Data%20Cleaning):  
 Null values management, adding consistency to different fields, correcting typos and strimming values, verifying clean columns and data convertion.
-4.- [Data Modelling](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/1.-%20Python%20Phase/4.-%20Data%20Modelling):  
+4. [Data Modelling](https://github.com/Donnie-McGee/Festival-Purchase-Behavior-Analysis/tree/main/1.-%20Python%20Phase/4.-%20Data%20Modelling):  
 Here I created new columns, created fact and dim tables and changed fields' types.
